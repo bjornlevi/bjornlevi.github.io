@@ -32,7 +32,7 @@ theme: minima
 minima:
   date_format: "%d %b %Y"
 show_excerpts: true
-excerpt_separator: <!-abstract->
+excerpt_separator: "\n"
 plugins:
   - jekyll-feed
 

@@ -5,7 +5,7 @@ date:   2020-07-30 16:27:34 +0000
 categories: mannlif
 ---
 Ein uppáhalds greinin mín í stjórnarskránni er 48. greinin. Þar segir að “alþingismenn eru eingöngu bundnir við sannfæringu sína og eigi við neinar reglur frá kjósendum sínum”. Það eru fjölmargar ástæður fyrir því að þessi grein er í ákveðnu uppáhaldi. Til að byrja með vegna þess að hún setur ákveðnar væntingar um kjörna fulltrúa. Kjörinn fulltrúi þarf ekki að vera menntaður upp fyrir haus eða hokinn af reynslu. Kjörinn fulltrúi þarf einungis að fylgja sannfæringu sinni.
-<!-abstract->
+
 Hvers vegna skiptir það máli? Vegna þess að það er lífsins ómögulegt að vera sérfræðingur í öllu. Þess vegna er það svo mikilvægur hluti af ferli þingmála að fá umsagnir um þingmál. Ekki bara umsagnir sérfræðinga og sértækra hagsmunaaðila, heldur umsagnir frá öllum. Þingmenn vega svo og meta umsagnir. Skoða álitaefni og mótsagnir og taka svo ákvörðun út frá sannfæringu sinni um afdrif mála. 
 
 Það hefur gerst, oftar en einu sinni, að logið sé í umsögnum. Eitt nýjasta dæmið var þegar Samorka sagði í máli Pírata um kæruheimild samtaka að kæruleið yrði að vera annað hvort til stjórnsýslu eða dómstóla, ekki hvort tveggja. Þetta var bláköld lygi og hvort sem hún var vegna vanþekkingar eða ekki þá kom umsagnarferlið að minnsta kosti upp um lygina, sem var mjög gott. Í kjölfarið spurði ég hvort það væri ekki einhverjar afleiðingar við að ljúga að þinginu. Svarið var einfalt, nei. 
