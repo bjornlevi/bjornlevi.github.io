@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Leikjafræði þingloka"
+image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2020-06-19 16:27:34 +0000
 categories: mbl
 ---
