@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Einn litlir, tveir litlir, þrír litlir pakkar"
+title:  "Merkilegasta pólitíska uppljóstrun síðari tíma"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2020-04-24 16:27:34 +0000
 categories: kvennabladid
