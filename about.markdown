@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: Upplýsingar
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![](https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Þingmaður Pírata í Reykjavíkurkjördæmi suður.  
+[Hagsmunaskrá](https://www.althingi.is/altext/cv/is/hagsmunaskra/?nfaerslunr=1215)  
+[Frumvörp](https://www.althingi.is/altext/cv/is/frumvorp/?nfaerslunr=1215)  
+[Þingsályktunartillögur](https://www.althingi.is/altext/cv/is/tillogur/?nfaerslunr=1215)  
+[Ræður](https://www.althingi.is/altext/cv/is/raedur/?nfaerslunr=1215)
