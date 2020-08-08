@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Fleiri"
+title:  "Fleiri afsakanir"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2020-08-08 16:09:00
 categories: pistill
