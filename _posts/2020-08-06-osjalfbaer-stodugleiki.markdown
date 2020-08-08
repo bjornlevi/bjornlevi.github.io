@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Ósjálfbær stöðugleiki"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2020-08-06 16:27:34 +0000

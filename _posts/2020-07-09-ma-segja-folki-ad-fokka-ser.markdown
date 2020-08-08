@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Má segja fólki að fokka sér"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2020-07-09 16:27:34 +0000
