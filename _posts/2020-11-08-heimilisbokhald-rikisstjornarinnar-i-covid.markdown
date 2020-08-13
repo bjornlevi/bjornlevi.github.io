@@ -2,7 +2,7 @@
 layout: posts
 title:  "Heimilisbókhald ríkisstjórnarinnar í Covid"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-11-08 10:09:00
+date:   2020-08-11 10:09:00
 categories: pistill
 ---
 Í [speglinum þann 10. ágúst](https://www.ruv.is/utvarp/spila/spegillinn/23680/7gpcpl/politiska-hlidin-a-covid) var spurt hvort verið væri að fórna meiri hagsmunum fyrir minni. Formaður Efnahags- og viðskiptanefndar svarar þeirri spurningu á áhugaverðan og einstaklega þröngsýnan hátt, sem er frekar sorglegt miðað við stöðu hans í samfélaginu sem formaður þeirrar nefndar sem á að vakta efnahagsmálin. Hann segir að "við höfum ekki efni á því að skrúfa niður allt hagkerfið, loka landinu hér, til lengri tíma litið. Vegna þess að það mun verða til þess að við gröfum undan sjálfum okkur, við munum ekki hafa efni á því að reka hér öfluga skóla, ekki hafa efni á því að reka hér öflugt heilbrigðiskerfi". Enn fremur segir hann að við verðum að passa að "lama ekki hér íslenskt efnahagslíf [...] það er efnahagslífið, viðskiptalífið sem fjármagnar þetta allt saman".
