@@ -2,7 +2,7 @@
 layout: posts
 title:  "Klassísk strámannspólitík"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-13-08 11:09:00
+date:   2020-08-13 13:09:00
 categories: pistill
 ---
 Árið 2012 birtist [Kastljósþáttur](https://www.ruv.is/frett/2020/08/11/sjadu-kastljosthattinn-um-samherja) sem fjallaði um meinta undirverðlagningu Samherja. Umfjöllunin, húsleit og rannsókn byggði td. á gögnum sem komu frá Verðlagsstofu skiptaverðs. Í Kastljósþættinum er vísað í skýrslu Verðlagsstofu frá árinu 2010 og tekin tilvitnun úr þeirri skýrslu. Í kjölfar áróðursmyndbands Samherja sem heitir "Skýrslan sem aldrei var gerð" og dregur í efa að þessi skýrsla sé til hefur Verðlagsstofa sent frá sér yfirlýsingu: 
