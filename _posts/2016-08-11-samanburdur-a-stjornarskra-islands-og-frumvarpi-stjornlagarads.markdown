@@ -278,7 +278,7 @@ Viðbætur er að finna í frumvarpi stjórnlagaráðs í nær öllum greinum ne
 |96| Velji ráðherra ekki í slíkt embætti einn þeirra sem nefndin telur hæfasta er skipun háð samþykki Alþingis með 2/3 hlutum atkvæða.|
 |96| Forseti Íslands skipar formann nefndarinnar.|
 |96| Um nánari skipan hennar og störf skal mælt fyrir í lögum.|
-|97 Í lögum má kveða á um tilteknar stofnanir ríkisins, sem gegna mikilvægu eftirliti eða afla upplýsinga sem nauðsynlegar eru í lýðræðisþjóðfélagi, njóti sérstaks sjálfstæðis.|
+|97| Í lögum má kveða á um tilteknar stofnanir ríkisins, sem gegna mikilvægu eftirliti eða afla upplýsinga sem nauðsynlegar eru í lýðræðisþjóðfélagi, njóti sérstaks sjálfstæðis.|
 |97| Starfsemi slíkra stofnana verður ekki lögð niður, henni breytt að verulegu leyti eða fengin öðrum stofnunum, nema með lögum sem samþykkt eru með 2/3 hlutum atkvæða á Alþingi.|
 |99| Sjálfstæði dómstóla skal tryggt með lögum.|
 |100| Dómstólar skera endanlega úr um réttindi og skyldur að einkarétti, svo og sök um refsiverða háttsemi og ákveða viðurlög við henni.|
