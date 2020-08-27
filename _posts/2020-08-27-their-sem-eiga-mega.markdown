@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Þeir sem eiga, mega.."
+title:  "Þeir sem eiga, mega"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2020-08-27 13:00:34 +0000
 categories: raeda
