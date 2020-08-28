@@ -2,7 +2,7 @@
 layout: posts
 title:  "Er ríkisábyrgð æðisleg?"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-26 09:00:34 +0000
+date:   2020-08-28 09:00:34 +0000
 categories: pistill
 ---
 _"Verkefnið okkar er fyrir mér það að finna einföldustu og skilvirkustu leiðina"_, sagði Kolbeinn Óttarsson Proppé í umræðum um ríkisábyrgð fyrir Icelandair. Það er alveg hárrétt hjá Kolbeini og einfaldasta og skilvirkasta leiðin er að ríkið komi ekki nálægt þessu máli. Vandamálið er hins vegar að afleiðingin af því getur verið ansi mikill skaði fyrir íslenskt samfélag. Það er meira að segja nýlegt dæmi sem við getum skoðað, eða þegar WoW náði ekki að halda sér á floti. Þá sagði ríkisstjórnin "nei". 
