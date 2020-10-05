@@ -1,4 +1,3 @@
-
 ---
 layout: posts
 title:  "Handahófskenndar aðgerðir"
