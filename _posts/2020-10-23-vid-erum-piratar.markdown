@@ -1,7 +1,8 @@
 ---
 layout: posts
 title:  "Við erum Píratar"
-image: https://bjornlevi.github.io/assets/images/halldor-piratar.jpeg
+image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
+og_image: https://bjornlevi.github.io/assets/images/halldor-piratar.jpeg
 date:   2020-10-22 09:00:34 +0000
 categories: pistill
 ---
