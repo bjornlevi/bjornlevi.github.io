@@ -5,7 +5,7 @@ image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2021-02-15 09:00:34 +0000
 categories: mbl
 ---
-Um helgina slapp Trump naumlega við að vera dæmdur sekur um að hvetja til uppreisnar. 57 töldu hann sekann en 43 ekki. Einungis hefði þurft að snúa fimm atkvæðum til þess að dæma hann sekann. Það þurfti 67, aukinn meiri hluta. En var Trump í raun og veru sekur? Að mati meiri hluta var hann það en samkvæmt reglunum er hann tæknilega ekki sekur. Það er semsagt mjög mikill ágreiningur um sekt hans, rúmur meiri hluti.
+Um helgina slapp Trump naumlega við að vera dæmdur sekur um að hvetja til uppreisnar. 57 töldu hann sekann en 43 ekki. Einungis hefði þurft að snúa tíu atkvæðum til þess að dæma hann sekann. Það þurfti 67, aukinn meiri hluta. En var Trump í raun og veru sekur? Að mati meiri hluta var hann það en samkvæmt reglunum er hann tæknilega ekki sekur. Það er semsagt mjög mikill ágreiningur um sekt hans, rúmur meiri hluti.
 
 Í síðustu viku var mikið talað um ágreining í þingsal, þá um ágreining vegna nýrrar stjórnarskrár. Að undanfarinn áratug hefði verið svo mikill ágreiningur að það hefði nú verið ómögulegt að koma nokkrum breytingum í gegnum þingið. Er sá ágreiningur raunverulegur eða er hann fyrirsláttur, þegar allt kemur til alls? Það er að segja, er ágreiningurinn málefnalegur eða ekki? Eða réttara sagt, í þágu hvers hefur ágreiningurinn verið málefnalegur og hvernig getur fólk utan frá þekkt muninn á ágreiningi sem er í þeirra þágu eða þágu einhverra annara?
 
