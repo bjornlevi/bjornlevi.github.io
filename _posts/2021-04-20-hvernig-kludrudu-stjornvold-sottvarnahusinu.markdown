@@ -25,7 +25,9 @@ Guðmundur Ingi Kristinsson, þingmaður flokks fólksins spurði svo um hvort �
 
 Allt í lagi, þingið á að taka á málinu af mikilli ábyrgð. Með tilliti til þess er ræða Bryndísar Haraldsdóttur, þingmanns Sjálfsstæðisflokksins mjög áhugaverð. Þar spyr hún ráðherra hvort þingið ætti mögulega að endurskoða reglugerðir stjórnvalda. Ráðherra sagði það vera andstætt stjórnvenjum okkar, en er áhugavert í ljósi þess hvernig fór með reglugerð ráðherra, eða eins og ráðherra orðaði það í umræðu um þingmálið: 
 
-> “Skárra væri það nú ef ráðherra undirritaði reglugerð án þess að reglugerðartextinn hefði fengið þvílíka yfirferð í ráðuneytunum. Til þess eru ráðuneytin. Og ráðherra byggir sínar reglugerðir á gildandi lögum. Ég hélt að ég þyrfti ekki að fara sérstaklega yfir það”. Reynslan sýnir okkur að fólk gerir mistök. Minnisblað dómsmálaráðuneytisins er líka athyglisvert í þessu tilliti. Spurningin er þá, var það þingið sem klúðraði þessu máli? Reynum að svara því.
+> “Skárra væri það nú ef ráðherra undirritaði reglugerð án þess að reglugerðartextinn hefði fengið þvílíka yfirferð í ráðuneytunum. Til þess eru ráðuneytin. Og ráðherra byggir sínar reglugerðir á gildandi lögum. Ég hélt að ég þyrfti ekki að fara sérstaklega yfir það”. 
+
+Reynslan sýnir okkur að fólk gerir mistök. Minnisblað dómsmálaráðuneytisins er líka athyglisvert í þessu tilliti. Spurningin er þá, var það þingið sem klúðraði þessu máli? Reynum að svara því.
 
 Í fyrstu umræðu málsins útskýrði Jón Þór Ólafsson, þingmaður Pírata, sjónarhornið sem varðaði heimildir sóttvarnarlæknis til þess að setja fólk í sóttkví, sem er ein af viðbótum frumvarpsins: “Mér finnst það gott atriði ef verið er í þessu frumvarpi að færa þetta í áttina að því að vernda þetta stjórnarskrárbundna ákvæði. Þá er þetta bara eins og þegar lögreglan handtekur fólk og þarf að bera það undir dómara eins fljótt og verða má, það er eins og ef sagt er: 
 
