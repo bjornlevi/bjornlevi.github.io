@@ -5,7 +5,7 @@ image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2020-04-20 09:00:34 +0000
 categories: pistill
 ---
-Nú er mikið rætt um nauðsyn þess að allir sem komi til landsins fari á svokallað sóttkvíarhótel, eðlilega. Í þeirri umræðu er fjallað þó nokkuð um ábyrgð Alþingis að það hafi ekki tekist og þar með ógnað heilsu almennings. Ef málið er skoðað nánar, hins vegar, þar sem horft er í gegnum ónákvæm ummæli og villandi upplýsingar þá sjáum við allt aðra mynd.
+Nú er mikið rætt um nauðsyn þess að allir sem komi til landsins fari á svokallað sóttkvíarhótel, eðlilega. Í þeirri umræðu er fjallað þó nokkuð um ábyrgð Alþingis að það hafi ekki tekist að tryggja viðeigandi heimidlir og þar með hafi heilsu almennings verið ógnað. Ef málið er skoðað nánar, hins vegar, þar sem horft er í gegnum ónákvæm ummæli og villandi upplýsingar þá sjáum við allt aðra mynd.
 
 Byrjum á byrjuninni, frumvarpi heilbrigðisráðherra um [opinberar sóttvarnarráðstafanir](https://www.althingi.is/altext/151/s/0385.html). Markmið frumvarpsins eru samkvæmt flutningsræðu ráðherra: 
 
