@@ -2,7 +2,7 @@
 layout: posts
 title:  "Í góðri trú?"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-12-05 09:00:34 +0000
+date:   2021-05-12 09:00:34 +0000
 categories: mbl
 ---
 Ásýnd stjórnmála og stjórnsýslu er lykilatriði þegar kemur að trausti almennings. Þetta segir skýrsla sem ríkisstjórnin lét gera í upphafi kjörtímabilsins. Vandamálið er hins vegar hvort ásýndin endurspegli reynd eða sé bara sýndarmennska. 
