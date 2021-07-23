@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "26% dýrari spítali"
+title:  "26 prósent dýrari spítali"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2020-07-16 16:27:34 +0000
 categories: mbl
