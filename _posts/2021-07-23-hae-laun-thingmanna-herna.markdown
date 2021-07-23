@@ -9,8 +9,6 @@ Fyrsti launaseðillinn minn frá Alþingi greiddi mér mánaðarlaun upp á 1.10
 
 Ég vil byrja að taka það fram að mér finnst aðferðin sem á að vera notuð til þess að reikna þessar launabreytingar vera góð - en hún snýst um að laun þingmanna hækka um meðaltal þess sem regluleg laun starfsmanna ríkisins hækka á árinu áður, samkvæmt útreikningum Hagstofunnar. Hér er ekki um neina geðþóttaákvörðun að ræða heldur á þetta að vera einföld stærðfræði. Þessi hækkun er því að segja okkur að á síðasta ári hækkuðu laun ríkisstarfsmanna að meðaltali um 6,2%. Það út af fyrir sig er mjög áhugavert og tilefni til nánari skoðunar.
 
-Frá því að lögunum um hvernig þingafararkaup er reiknað hefur verðbólga
-
 Byrjum á lífeyri almannatrygginga. Sá lífeyrir hækkar í fjárlögum samkvæmt lögum um almannatryggingar samkvæmt spá um vísitölu neysluverðs eða launaþróun _komandi árs_. Það þýðir að í næstu fjárlögum verður ákveðið hversu mikið lífeyrir almannatrygginga á að hækka fyrir árið 2022. Síðustu þrjár hækkanir lífeyris voru 3,6%, 3,5% og 3,6%. Í töflunni hér fyrir neðan eru launahækkanir þingmanna kjararáðsákvörðuninni 2016. Munurinn á hækkun lífeyris og launum þingmanna er hér augljós.
 
 ### Launahækkanir þingmanna
