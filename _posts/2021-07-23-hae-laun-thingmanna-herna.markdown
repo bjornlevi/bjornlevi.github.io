@@ -2,7 +2,7 @@
 layout: posts
 title:  "Hæ, laun þingmanna hérna."
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-07-23 11:00:00 +0000
+date:   2021-07-23 11:00:00 +0000
 categories: pistill
 ---
 Fyrsti launaseðillinn minn frá Alþingi greiddi mér mánaðarlaun upp á 1.101.194 kr. Þá var árið 2016. Um síðustu mánaðarmót hækkuðu laun þingmanna enn og aftur og nú eru mánaðarlaunin orðin 1.285.411 kr. á mánuði og hækkuðu um 6,2% frá launum síðasta árs sem voru 1.210.368 kr. Samtals er hækkunin 16,7% frá árinu 2016, en daginn eftir kosningarnar það árið ákvað kjararáð að hækka laun þingmanna um [44,3%](https://kjarninn.is/frettir/2020-04-08-laun-thingmanna-og-radherra-haekkudu-um-63-prosent/). Á sama tíma hefur þróun verðlags verið 14,7%. 

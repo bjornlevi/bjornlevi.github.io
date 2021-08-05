@@ -2,7 +2,7 @@
 layout: posts
 title:  "26 prósent dýrari spítali"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-07-16 16:27:34 +0000
+date:   2021-07-16 16:27:34 +0000
 categories: mbl
 ---
 Í vikunni birtist frétt um 16 milljarða viðbótarkostnað vegna nýja landspítalans (NLSH). Þar er vitnað í framkvæmdastjóra NLSH sem segir að skýringin sé aukið umfangs verkefnisins. Stærsta byggingin, meðferðarkjarninn, hafi verið stækkaður um þriðjung. Það er mjög undarleg útskýring þar sem byggingarleyfi, sem var gefið út árið 2018, byggir á kostnaðaráætlun sem var gerð fyrir stærri gerðina af meðferðarkjarna árið 2017. Fjármálaráðuneytið segir hins vegar að kostnaður hafi aukist, meðal annars vegna stækkunar húsbygginga.
