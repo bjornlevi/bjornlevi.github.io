@@ -55,7 +55,7 @@ Samkvæmt tölum Hagstofunnar þá eru þetta þeir hópar sem eru  með yfir mi
 | 1231  Yfirmenn fjármála- og stjórnunardeilda |	1.056 |
 | 1222  Yfirmenn framleiðslu- og rekstrardeilda í iðnaði |	1.045 |
 | 2460  Sérfræðistörf tengd trúarbragðafræði og trúfræði |	1.024 |
-| 123  Yfirmenn annarra deilda |	1.019 |
+| 123  Yfirmenn annarra deilda | 1.019 |
 
 Af þessu er augljóst að sjá að þingfararkaup er á pari við regluleg laun yfirmanna og hátt launaðra sérfræðinga. Ég er ekkert endilega viss um að það sé rétt viðmið, en á móti kemur að þingmannastarfið _getur_ verið endalaust og er algerlega án yfirvinnu. Sitt sýnist hverjum eins og fram kom í óformlegri könnun sem ég gerði árið 2018. Þau sem svöruðu fannst launin vera of há miðað við meðallaun og að laun ráðherra og forseta væru of há miðað við laun þingmanna. 17,8% fannst launin eiga að vera í kringum meðallaun. 22% að launin ættu að vera 40% lægri en þau eru. 19,2% að launin ættu að vera 20% lægri og 20,5% að launin ættu að vera eins og þau eru. Málamiðlunin væri þá í kringum 30% lægri laun miðað við þessa könnun. Það er umtalsverður munur á núverandi launum og skoðunum fólks (sem þingmenn eru að vinna fyrir) á því hver launin ættu að vera og ætti að gefa tilefni til þess að skoða þingfararkaupið nánar. 
 
