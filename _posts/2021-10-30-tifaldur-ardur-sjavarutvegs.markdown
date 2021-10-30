@@ -28,6 +28,7 @@ Rekstrarkostnaður Landhelgisgæslunnar vegna sjárvarútvegs
 | Samtals 		| 4.858,7			| 34,4%						| __1.671,2__		|
 
 Árlegur heildarkostnaður ríkissjóðs við stjórn, umsjón, rannsóknir og eftirlit með fiskveiðum og fiskvinnslu sl. 6 ár. (framlag ríkissjóðs)
+
 | Stofnun 						| 2015 	| 2016  | 2017 	| 2018  | 2019  | 2020  |
 |------	                        |------ |------ |------ |------ |------ |------ |
 | Hafrannsóknastofnun 			| 1.749 | 1.854 | 2.135 | 2.516 | 2.942 | 3.127 |
@@ -40,6 +41,7 @@ Rekstrarkostnaður Landhelgisgæslunnar vegna sjárvarútvegs
 | Samtals (verðlagsuppfært)		| 3.656 | 3.586 | 3.942 | 4.107 | 4.514 | 4.502 |
 
 Miðað við um 1,5 milljarða í rekstur Landhelgisgæslunnar á ári vegna sjávarútvegs, þá er veiðigjald og kostnaður eins og hér sést.
+
 | Ár 			| 2015 	 | 2016  | 2017   | 2018   | 2019  | 2020   |
 |------	        |------  |------ |------  |------  |------ |------  |
 | Veiðigjald 	| 3.310  | 8.501 | 6.237  | 11.417 | 6.850 | 4.825  |
