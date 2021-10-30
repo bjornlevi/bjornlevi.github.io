@@ -17,7 +17,9 @@ Allir greiða hefðbundin opinber gjöld (tekjuskatt, tryggingagjald, virðisauk
 Allavega, fyrir veiðigjaldið þarf hið opinbera að reka eftirlit og rannsóknir með sjávarauðlindinni. Þar á meðal eru Hafrannsóknarstofnun, Matís, Fiskistofa, Verðlagsstofa skiptaverðs, alþjóðasamvinna, skrifstofa fiskveiðistjórnunar, MAST og landhelgisgæslan. Sá kostnaður er um 5,5 milljarðar á ári (gróflega áætlað á verðlagi 2020). Það þýðir að í hvert skipti sem veiðigjöld eru undir þeim kostnaði er ríkissjóður að greiða með útgerðinni. Skoðum sundurliðun.
 
 Rekstrarkostnaður Landhelgisgæslunnar vegna sjárvarútvegs
+
 | Áætlun 2021 	| Heildarkostn. (m) | Hlutfall fiskv.eftirl. 	| Hlutfall í kr. 	|
+|------	        |------	            |------	                    |------	            |
 | Stjórnstöð 	| 195,1 			| 55% 						| 107,3 			|
 | Aðgerðasvið 	| 100,6				| 30%						| 30,2				|
 | Skip 			| 1.076,1			| 50%						| 538,0				|
@@ -27,6 +29,7 @@ Rekstrarkostnaður Landhelgisgæslunnar vegna sjárvarútvegs
 
 Árlegur heildarkostnaður ríkissjóðs við stjórn, umsjón, rannsóknir og eftirlit með fiskveiðum og fiskvinnslu sl. 6 ár. (framlag ríkissjóðs)
 | Stofnun 						| 2015 	| 2016  | 2017 	| 2018  | 2019  | 2020  |
+|------	                      |------   |------ |------ |------ |------ |------ |
 | Hafrannsóknastofnun 			| 1.749 | 1.854 | 2.135 | 2.516 | 2.942 | 3.127 |
 | Matís 						| 106   | 91    | 116   | 67    | 70    | 48    |
 | Fiskistofa					| 988   | 903   | 945   | 858	| 884	| 895   |
@@ -38,6 +41,7 @@ Rekstrarkostnaður Landhelgisgæslunnar vegna sjárvarútvegs
 
 Miðað við um 1,5 milljarða í rekstur Landhelgisgæslunnar á ári vegna sjávarútvegs, þá er veiðigjald og kostnaður eins og hér sést.
 | Ár 			| 2015 	 | 2016  | 2017   | 2018   | 2019  | 2020   |
+|------	        |------  |------ |------  |------  |------ |------  |
 | Veiðigjald 	| 3.310  | 8.501 | 6.237  | 11.417 | 6.850 | 4.825  |
 | Kostnaður 	| 5.156  | 5.086 | 5.442  | 5.607  | 6.014 | 6.002  |
 | Samtals 		| -1.846 | 3.415 | -1.205 | 5.810  | 836   | -1.177 |
