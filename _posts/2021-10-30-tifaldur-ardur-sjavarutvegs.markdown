@@ -29,7 +29,7 @@ Rekstrarkostnaður Landhelgisgæslunnar vegna sjárvarútvegs
 
 Árlegur heildarkostnaður ríkissjóðs við stjórn, umsjón, rannsóknir og eftirlit með fiskveiðum og fiskvinnslu sl. 6 ár. (framlag ríkissjóðs)
 | Stofnun 						| 2015 	| 2016  | 2017 	| 2018  | 2019  | 2020  |
-|------	                      |------   |------ |------ |------ |------ |------ |
+|------	                        |------ |------ |------ |------ |------ |------ |
 | Hafrannsóknastofnun 			| 1.749 | 1.854 | 2.135 | 2.516 | 2.942 | 3.127 |
 | Matís 						| 106   | 91    | 116   | 67    | 70    | 48    |
 | Fiskistofa					| 988   | 903   | 945   | 858	| 884	| 895   |
