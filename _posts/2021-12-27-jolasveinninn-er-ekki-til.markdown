@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Jólasveinninn er ekki til"
+title: "Jólasveinninn er ekki til"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2021-12-27 08:02:00 +0000
 categories: mbl
