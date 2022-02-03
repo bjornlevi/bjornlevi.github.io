@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Plastplat"
+title: "Útgerðin kostar þig 5000 kr."
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2022-02-03 08:02:00 +0000
 categories: mbl
