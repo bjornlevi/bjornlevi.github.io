@@ -2,7 +2,7 @@
 layout: posts
 title: "Hver fær kökuna"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-12-03 08:02:00 +0000
+date:   2022-02-12 08:02:00 +0000
 categories: mbl
 ---
 Fjármálaráðherra segir að hvergi á Norðurlöndunum sé betur gert og heimilin hafi aldrei haft það betra. En er það rétt?
