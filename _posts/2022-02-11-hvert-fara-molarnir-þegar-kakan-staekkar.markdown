@@ -2,7 +2,7 @@
 layout: posts
 title: "Hvert fara molarnir þegar kakan stækkar?"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-11-03 08:02:00 +0000
+date:   2022-02-11 08:02:00 +0000
 categories: visir
 ---
 Kaupmáttur, ráðstöfunartekjur, eignir, skuldir, ... allt þetta segir fjármálaráðherra að fari bara batnandi, hvergi á norðurlöndunum hafi betur verið gert og heimilin hafa aldrei haft það betra. Þegar gögnin eru skoðuð kemur hins vegar ýmislegt áhugavert í ljós því fjármálaráðherra er tamt að tala í einföldum meðaltölum. Það er því eðlilegt að spyrja, hvernig er þetta nákvæmlega?
