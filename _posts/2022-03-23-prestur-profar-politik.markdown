@@ -2,7 +2,7 @@
 layout: posts
 title: "Prestur prófar pólitík ... og rökfræði."
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-03-33 08:02:00 +0000
+date:   2022-03-23 08:02:00 +0000
 categories: kjarninn
 ---
 Í nýlegum skoðanapistli fjallar Gunnar Jóhannesson, prestur Árborgarprestakalls, um trú mína og fullyrðir meðal annars að það þurfi trú til þess að segja að guð sé ekki til. Það er áhugavert hvernig Gunnar orðar þessa niðurstöðu sína, með upphrópunarmerki meira að segja. Tilefni þessa skoðanapistils Gunnars er tveggja mínútna ræða mín á þingi upp á rétt tæplega 350 orð. Þeirri ræðu svarar Gunnar í rúmlega 2.200 orðum en viðurkennir á sama tíma að hann hafi “ekki heyrt ræðu Björns Levís”. Grein Gunnars er mjög áhugaverð í þessu samhengi. Skoðum hana aðeins nánar.
