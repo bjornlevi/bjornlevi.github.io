@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: "Björninn unninn"
+title: "Það sér það hver heilvita maður ..."
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-03-31 06:02:00 +0000
+date:   2022-04-21 06:02:00 +0000
 categories: pistill
 ---
 … að ráðherra er ekki undirskriftarvél.
