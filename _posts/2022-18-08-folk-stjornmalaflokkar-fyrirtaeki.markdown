@@ -2,7 +2,7 @@
 layout: posts
 title: "Fólk, stjórnmálaflokkar og fyrirtæki"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-18-03 09:02:00 +0000
+date:   2022-18-08 09:02:00 +0000
 categories: pistill
 ---
 ## Fólk
