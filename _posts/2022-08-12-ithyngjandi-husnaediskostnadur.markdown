@@ -2,7 +2,7 @@
 layout: posts
 title: "Íþyngjandi húsnæðiskostnaður"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-12-03 09:02:00 +0000
+date:   2022-08-12 09:02:00 +0000
 categories: mbl
 ---
 Samkvæmt Hagstofunni stendur 12 mánaða vísitala neysluverðs nú í 9,9%. Helstu ástæðurnar eru nokkuð skýrar, það er hækkun á húsnæðismarkaði að undanförnu og hækkun á vöruverði erlendis, aðallega vegna heimsfaraldurs og stríðsins í Úkraínu. 2,4 prósentustig eru vegna hækkunar á húsnæðisverði. Það hljómar kannski ekki mikið, bara um fjórðungur af heildar verðbólgunni, en 10% hækkun á mjólk eru miklu færri krónur en 2% hækkun á leigu húsnæðis.
