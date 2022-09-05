@@ -3,7 +3,7 @@ layout: posts
 title: "Að hlusta á vísindamenn"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2022-08-31 09:02:00 +0000
-published: false
+published: true
 categories: mbl
 ---
 Nýlega sagði Sigurður Ingi Jóhannsson innviðaráðherra að hann vildi hlusta á vísindamenn þegar kæmi að því að taka ákvörðun um það hvort byggja ætti flugvöll í Hvassahrauni. Það er gott að ráðherra vilji ráðfæra sig við vísindafólk – því ber að fagna. En hvað þýðir það eiginlega fyrir stjórnmálafólk að hlusta á vísindamenn, að taka vísindin alvarlega?
