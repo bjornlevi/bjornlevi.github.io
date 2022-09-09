@@ -3,7 +3,7 @@ layout: posts
 title: "Rangar skoðanir"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
 date:   2022-09-09 09:02:00 +0000
-published: false
+published: true
 categories: mbl
 ---
 Fyrir rúmri viku skrifaði Óli Björn Kárason pistil í Morgunblaðið um óttann við „rangar skoðanir“ sem afleiðingu af svokallaðri „slaufunarmenningu”. Greinin lýsir einu af mörgum sjónarhornum á mikilvægi tjáningafrelsis í frjálsum samfélögum, en það er margt annað sem þarf að hafa í huga þegar það málefni er skoðað.
