@@ -2,7 +2,7 @@
 layout: posts
 title: "Opnunarræða á hátíðarmálþingi vegna 10 ára afmælis Pírata"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-11-25 09:02:00 +0000
+date:   2022-11-25 09:03:00 +0000
 published: true
 categories: pistill
 ---
