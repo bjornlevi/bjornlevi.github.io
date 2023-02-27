@@ -2,7 +2,7 @@
 layout: posts
 title: "Kurteisisleg bĺótsyrði"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-02-08 09:03:00 +0000
+date:   2023-02-27 09:03:00 +0000
 published: true
 categories: mbl
 ---
