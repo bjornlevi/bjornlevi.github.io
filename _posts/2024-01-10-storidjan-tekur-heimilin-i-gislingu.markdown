@@ -2,7 +2,7 @@
 layout: posts
 title: "Stóriðjan tekur heimilin í gíslingu"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2024-12-30 08:00:00 +0000
+date: 2024-01-09 08:00:00 +0000
 published: true
 categories: mbl
 ---
