@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: "Vélmenni í kosningabaráttu?"
+title: "Húsnæðisvandinn er efnahagslegt fangelsi"
 image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2024-01-29 08:00:00 +0000
+date: 2024-02-07 08:00:00 +0000
 published: true
 categories: mbl
 ---
