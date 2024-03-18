@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Tvenns konar stjórnmál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-06-01 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6245a13c81
+title: Tvenns konar stjórnmál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2021-06-01
 ---
+
 Pólitík snýst um að velja lausnir við vandamálum.Vandinn er að við vitum fyrirfram ekki hvaða lausnir eru bestar. Það er því verkefni stjórnmálanna, stjórnsýslu og pólitíkusa saman, að reyna að komast að því. Hvernig það er gert má gróflega skipta í tvenns konar stjórnmál hér á Íslandi.
 
 Annars vegar eru stjórnmál þar sem allir valmöguleikar eru skoðaðir, það er gerður faglegur samanburður og helstu álitamál vegin og metin. Kostnaður og ábati hvers valmöguleika er metinn og að lokum tekur pólitíkin við og velur bestu lausnina. Hér þarf alltaf að hafa í huga að það er ekkert sjálfsagt við að safna saman hugmyndum að lausnum, gera á þeim faglega greiningu eða velja svo úr bestu valmöguleikunum. Það er alltaf ákveðin ónákvæmni og óvissa ásamt því að í pólitíkinni þá eru mismunandi þættir mismikilvægir. Sumir leggja kannski meiri áherslu á lausnir sem koma til móts við fátækt á meðan aðrir velja lausnir sem koma til móts við byggðarsjónarmið.

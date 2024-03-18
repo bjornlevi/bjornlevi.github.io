@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Hættum að vera meðvirk með misnotkun á valdi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2016-12-03 13:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_9376bb7510
+title: Hættum að vera meðvirk með misnotkun á valdi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2016-12-03
 ---
+
 Formaður dómarafélags Íslands fjallaði í fjölmiðlum í gær um niðurstöðu mannréttindadómstóls Evrópu. Þar sagði hann að vandinn er þegar, með leyfi forseta “stjórnvöld beita einhverjum bolabrögðum til að koma sínu fólki að”.
 
 Þrír af þeim dómurum sem Landsréttarmálið snýst um hafi verið endurskipaðir. Þau stóðu upp úr dómarasætinu sínu og settust í næsta sæti. Ímyndið ykkur hvernig þetta myndi líta út í dómsal. Sá sem stendur þar, í leit að réttlæti og sanngirni fyrir framan dómara klórar sér í hausnum og spyr, “afsakið, á ég nokkuð á hættu á því að dómarinn sé mér óvilhallur?”. Dómarinn svarar á móti, “já, afsakið”. Stendur upp og sest í stólinn við hliðina. “Nei, núna er þetta allt í lagi. Þetta var bara vandamál þegar ég sat í hinum stólnum”. 

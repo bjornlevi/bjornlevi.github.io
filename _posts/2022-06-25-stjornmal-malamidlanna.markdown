@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Stjórnmál málamiðlanna"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-06-25 06:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_453d4d689f
+title: Stjórnmál málamiðlanna
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2022-06-25
 ---
+
 Núverandi ríkisstjórn er mynduð til að slá nýjan tón milli hægri og vinstri með því að „spanna hið pólitíska litróf”. Þetta átti að gera með auknu samráði og eflingu samstarfs milli flokka á Alþingi. Með öðrum orðum, meiri málamiðlanir.
 
 Til þess að skilja hvaða áhrif málamiðlanir hafa þá þarf að skilja hvernig meirihlutavaldið virkar. Flokkarnir sem mynda meirihluta ráða nánast öllu. Minnihlutinn hefur bara tvo möguleika til þess að hafa áhrif á gang mála, með því að kalla eftir upplýsingum og fundum í nefndum, og með því að tala í ræðustól þingsins. 

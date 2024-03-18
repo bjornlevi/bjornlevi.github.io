@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Staðan í Kófinu í upphafi árs."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-01-26 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_74477afe67
+title: Staðan í Kófinu í upphafi árs.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2021-01-26
 ---
+
 Í dag [spurði ég forsætisráðherra](https://www.althingi.is/altext/upptokur/raeda/?raeda=rad20210126T140318) um næstu skref, hvernig við komum okkur út úr Kófinu:
 
 > Nú fer að verða ár síðan faraldurinn náði tökum á Íslandi. Fyrstu viðbrögð ríkisstjórnarinnar voru tímabundið fjárfestingarátak í verkamannastörfum fyrir karla, markaðsátak fyrir ferðaþjónustu og viðbótarlán til fyrirtækja sem nýttust svo ekki neitt. Að lokum var barnabótaauki sem leiddi meðal annars til þess að ég fékk 30 þúsund króna eingreiðslu frá skattinum um áramótin. Ég hef ekki hugmynd hvernig sú upphæð var reiknuð út og myndi endilega vilja fræðast meira um það inni í fjárlaganefnd.

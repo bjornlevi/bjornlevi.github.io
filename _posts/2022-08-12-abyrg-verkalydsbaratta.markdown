@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Ábyrg verkalýðsbarátta"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-08-12 15:02:00 +0000
-categories: visir
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_c856f44680
+title: Ábyrg verkalýðsbarátta
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2022-08-12
 ---
+
 Ég er í starfi sem snýst um það að hafa skoðanir. Það þýðir ekki að ég hafi skoðanir á öllu, alltaf. En ég hef ákveðnar skoðanir á því sem er að gerast í kjara- og lífsgæðamálum á Íslandi.
 
 Mér finnst verkalýðsbarátta undanfarinna áratuga hafa verið verulega léleg. Ég veit svo sem ekki hverju er um að kenna, einhverri meðvirkni með valdi eða hvað ... það var að minnsta kosti kominn tími til þess að stokka þó nokkuð mikið upp á þeim vettvangi.

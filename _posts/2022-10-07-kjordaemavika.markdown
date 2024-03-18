@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Kjördæmavika"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-10-07 09:02:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_64bd40c86d
+title: Kjördæmavika
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2022-10-07
 ---
+
 Í þessari viku hefur hlé verið gert á þingstörfum út af einhverju sem nefnist kjördæmavika. Þrátt fyrir að það sé nýbúið að kalla saman þing eftir um þriggja mánaða hlé. Það sama er einnig gert í febrúar, þegar nýbúið er að kalla þing saman eftir um mánaðar jólahlé. En hver er eiginlega tilgangur þessarar kjördæmaviku, og af hverju eru þingmenn alltaf í hléi frá Alþingi? 
 
 Tilgangur kjördæmaviku er í raun og veru að þingmenn geti farið í kjördæmi sín og hitt fólk. Geta þingmenn ekki verið að hitta allt þetta fólk bara í þinghléinu? Jú, en raunin er sú að áður fyrr þurftu þingmenn í raun og veru að hitta fólk svona stuttu eftir þingsetningu til þess að kynna ný þingmál fyrir fólki. Þetta fyrirkomulag var nefnilega búið til þegar eina leiðin til þess að senda inn umsögn um þingmál var að póstleggja bréf. Það var einfaldlega fljótlegast fyrir þingmenn að heimsækja fólk á fundi í heimahéraði, til að kynna mál sín og sérstaklega mál annarra. 

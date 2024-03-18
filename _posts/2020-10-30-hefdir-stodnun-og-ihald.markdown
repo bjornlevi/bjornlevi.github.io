@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Hefðir, stöðunun og íhald"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-30 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_69273a9ee5
+title: Hefðir, stöðunun og íhald
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-10-30
 ---
+
 Alþingi er gömul stofnun. Elsta starfandi þing heims. Það er virðingarstaða sem við eigum að vera stolt af og fara vel með. Í því felst þó ákveðin áhættuþáttur, vandamál sem er orðið mjög áberandi. Virðing og hefðir fara nefnilega mjög oft saman. Það sem einu sinni var talið virðingarvert verður að hefð. Með tíð og tíma þá haldast hefðir óbreyttar og talið að virðingin geri það líka. Með tíð og tíma breytist hins vegar samfélagið utan þingsins og hefðirnar verða að stöðnun. Stöðnun fylgir engin virðing.
 
 Alþingi er hefðastofnun. Elsta starfandi þing heims. Hefðir geta verið mjög gagnlegar af því að þær búa til ákveðinn fyrirsjáanleika. Hefðir geta á sama tíma verið framleiðsluferli og siðareglur. Þær segja okkur að bregðast við sömu áskorunum á sama hátt og áður. Þær segja okkur að segja háttvirtur og beina orðum okkar að forseta af því að það dregur úr líkunum á persónuárásum í ræðustól. Hefðir geta þó einnig verið til trafala því að rökin fyrir tilvist hefðanna glatast oft. Ef þau hverfa er tilgangur hefðanna úreldur. 

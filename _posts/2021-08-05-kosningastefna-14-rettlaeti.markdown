@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Aðgengi að réttlæti"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:14:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_0ed213208a
+title: Kosningastefna Pírata 2021 - Aðgengi að réttlæti
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-08-05
 ---
+
 Við viljum tryggja jafnan aðgang fólks að réttarkerfinu með því að gefa einstaklingum möguleika á að sækja rétt sinn eða verja sig án þess að kostnaður eða flækjustig séu veruleg hindrun.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Aðgengi að réttlæti)

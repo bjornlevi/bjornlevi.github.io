@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Vangaveldur um Pírata, kapítalisma, sósíalisma og kommúnisma"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-02-23 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_743d4df2ab
+title: Vangaveldur um Pírata, kapítalisma, sósíalisma og kommúnisma
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2020-02-23
 ---
+
 Ég er búinn að vera að pæla í því hvernig þessi hugmyndafræði tengist, eða tengist ekki, að undanförnu. Við sjáum sósíalisma allt í einu vera háværan aftur, í BNA í kringum Bernie og hérna á Íslandi líka. Það er mjög margt áhugavert við að skoða hvað, nákvæmlega, fólk á við þegar það segir kapítalisti, sósíalisti eða Pírati.
 
 Ef við rifjum upp þann grunn sem kapítalismi og sósíalismi byggir á þá snýst það um eignarhald á framleiðslutækjum. Flest annað eins og lýðræði, þrískipting valds og ýmislegt svoleiðis er ekki hluti af því sem aðgreinir kapítalisma og sósíalisma - aðgreiningin snýst um eignarhaldið. Er eignin í höndum kapítals eða verkafólks? Við þetta bætist svo kommúnisminn þar sem framleiðslutækin eru í höndum ríkisins. 

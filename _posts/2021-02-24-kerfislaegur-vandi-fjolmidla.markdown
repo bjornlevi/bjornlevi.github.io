@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kerfislægur vandi fjölmiðla?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-02-24 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_928f024ff0
+title: Kerfislægur vandi fjölmiðla?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-02-24
 ---
+
 Í [leiðara Kjarnans](https://kjarninn.is/skodun/2021-02-18-viljid-thid-ad-upplysingafulltruar-og-spunameistarar-segi-ykkur-frettir/) frá 19. febrúar síðastliðnum, “Viljið þið að upplýsingafulltrúar og spunameistarar segi ykkur fréttir?” fer Þórður Snær Júlíusson yfir stöðu fjölmiðla í dag. Fjölmiðlar, sem áður voru vettvangur lýðræðislegrar samfélagsumræðu, eru nú í harðri samkeppni við samfélagsmiðla og glíma við tæknibreytingar í samskiptum manna á milli. Fjölmiðlar eru ekki lengur í ritstjórnarhlutverki gagnvart opinberri umræðu, svokallaðri “hliðvörslu”. 
 
 Jakob Bjarnar Grétarsson, fjölmiðlamaður á Vísi, [fjallar um grein](https://www.facebook.com/groups/fjolmidlar/permalink/3670135833111925) Þórðar á fésbókarhóp fjölmiðlanörda þar sem hann víkur að mikilvægi þess að almenningur þurfi að “vakna til vitundar um hvers kyns vá er hér fyrir dyrum”. Tilkynningar frá upplýsingafulltrúum eða stjórnmálamönnum séu ekki fréttir og falsfréttir þrífast á samfélagsmiðlum, miðlum sem stjórnmálamenn kaupa auglýsingar hjá fyrir fé sem þeir skammta sjálfum sér úr almannasjóðum.

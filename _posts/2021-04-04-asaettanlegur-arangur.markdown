@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Ásættanlegur árangur?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-04-04 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_129bd8952a
+title: Ásættanlegur árangur?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2021-04-04
 ---
+
 Viðbrögð ríkisstjórnarinnar við faraldrinum hófust fyrir rúmu ári. Skilaboðin voru einföld: Brugðist verður við eftir þörfum. Ríkisfjármálunum verður beitt af fullum þunga. 
 
 Nýlega gaf Alþjóðagjaldeyrissjóðurinn (AGS) út mat á aðgerðum Íslands í samanburði við aðrar þjóðir og þar kom Ísland ekki mjög vel út. Ríkisstjórnin andmælir og segir AGS ekki hafa tekið tillit til ýmissa aðgerða. Ég get alveg tekið undir þau andmæli EN … á sama tíma og ríkisstjórnin hreykir sér af góðum árangri þá sé ég ekki hvaða árangur það er.

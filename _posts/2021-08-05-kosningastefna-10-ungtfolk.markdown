@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Ungt fólk og framtíðin"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:10:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_718ae61a9b
+title: Kosningastefna Pírata 2021 - Ungt fólk og framtíðin
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2021-08-05
 ---
+
 Við Píratar ætlum að leggja meiri áherslu á málefni ungs fólks. Við viljum efla lýðræðisvitund ungs fólks og virða rétt barna og ungmenna til að koma að ákvörðunum um eigin hagsmuni og kynslóða framtíðarinnar. Bætum kjör yngra fólks sem hefur setið eftir á undanförnum áratugum.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Ungt fólk)

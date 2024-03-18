@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Alþingi án ríkisstjórnar"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2023-11-10 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_a462afeb22
+title: Alþingi án ríkisstjórnar
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2023-11-10
 ---
+
 Í lok árs 2017 var engin ríkisstjórn á Íslandi. Hún sprakk hressilega út af uppreist æru málinu og boðað var skyndilega til kosninga. Illa gekk að búa til ríkisstjórn í kjölfar þeirra og voru fjárlög það árið þess vegna að miklu leyti ákveðin af Alþingi en ekki af ríkisstjórninni. Sú  fjárlagavinna var töluvert frábrugðin venjulegri fjárlagavinnu í þinginu þar sem hún snýst að miklu leyti um að bíða eftir nákvæmari útfærslum ríkisstjórnarinnar á hinum ýmsu fjárheimildum. Um leið og þær tillögur berast þinginu fer málið úr nefnd og inn í þingsal. Ekki af því að fjárlagavinnunni sé lokið, heldur af því að ríkisstjórnin er búin að ákveða að það þurfi ekki að gera neitt meira. 
 
 Samkvæmt stjórnarskrá er Ísland lýðveldi með þingbundna stjórn. Ríkisstjórn er í rauninni bara falið það hlutverk að framfylgja stefnu þingsins og þeim lögum sem sett eru. Það er ekkert náttúrulögmál að ríkisstjórnin sé með meirihlutavald á Alþingi, að ríkisstjórnin sé samansett af flokkum með meirihluta þingfólks, því að þegar allt kemur til alls standa þingmál og falla í einfaldari atkvæðagreiðslu. Það þarf enga ríkisstjórn til þess að slík atkvæðagreiðsla fari fram.

@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Heilbrigðiskerfi fyrir hverja?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-03-08 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_f2765a9b5e
+title: Heilbrigðiskerfi fyrir hverja?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2023-03-08
 ---
+
 Samkvæmt Félagi íslenskra hjúkrunarfræðinga hættir fjórði hver hjúkrunarfræðingur störfum innan fimm ára og er ein helsta ástæðan launakjörin. Starfsumhverfið er einnig óásættanlegt, t.d. vegna álagsins sem felst í því hversu fáir eru á vakt hverju sinni. Það eru fáar hendur að sinna mörgum mikilvægum störfum. 
 
 Þetta er staðan í heilbrigðiskerfinu í dag. Stjórnvöld hafa sent hjúkrunarfræðinga tvisvar sinnum í röð í gerðardóm sem úrskurðaði að „að mati gerðardóms [eru] vísbendingar um að hjúkrunarfræðingar séu vanmetin kvennastétt hvað varðar laun með tilliti til ábyrgðar“. Gerðardómur hækkaði þó ekki laun með tilliti til þeirrar niðurstöðu heldur varpaði þeirri ábyrgð yfir á stjórnvöld. 

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Réttlát reiði"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-09-14 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_5fbc1841eb
+title: Réttlát reiði
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-09-14
 ---
+
 Síðastliðinn miðvikudag skrifaði Óli Björn Kárason pistil í Morgunblaðið um ógn hinna “réttlátu” sem fjallaði um nýja tegund stjórnmála þar sem ógn er notuð til þess að knýja fram þjóðfélagsbreytingar. Ég tek undir það sjónarmið sem Óli Björn fjallar um, slík stjórnmál eru vissuleg til og eru varhugaverð. Þar með sé ekki öll sagan sögð því Óli Björn vill greinilega ekki kannast við réttlátu reiðina sem liggur þar að baki.
 
 Það er skiljanlegt að fólk bregðist að lokum við með reiði þegar búið er að valta yfir það aftur og aftur. Þegar vanda þeirra er mætt með skilningsleysi og hroka hverfur þolinmæðin og málefnalega umræðan. Þegar valdi er ítrekað beitt í þágu fárra en ekki allra verður ósanngirnin augljósari og alvarlegri. Það er skiljanlegt að sumir leiti í reiðina því þau sjá ekki málefnalega umræðu skila neinum árangri. Því þegar valdhafar sjá almenna reiði, þá hljóti þau að skilja alvarleika málsins.

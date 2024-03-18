@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Það eina sem skiptir máli."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-03-22 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_3d331b2d8f
+title: Það eina sem skiptir máli.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2022-03-22
 ---
+
 “Stækkum kökuna!”, er algengur frasi hjá stjórnmálamönnum. Í kjölfarið fáum við yfirleitt alls konar útskýringar um það hvernig stærri kaka sé forsenda fyrir þá sem þurfa á ríkisútgjöldum að halda og nefna öryrkja, heilbrigðiskerfið, skóla og annað slíkt - svo vitnað sé til orða orku- auðlinda og loftslagsráðherra í óundirbúnum fyrirspurnum fyrr í mánuðinum. Þar fullyrti ráðherrann að Píratar væru á móti hagvexti.
 
 Þessar skoðanir ráðherra lýsa mjög úreldu viðhorfi á hagkerfið en mantra hins óendanlega hagvaxtar hefur einungis skilað okkur græðgi og sjálftöku á kostnað framtíðarkynslóða. Það er löngu kominn tími til þess að við gerum þær kröfur til stjórnmálafólks að það viti betur og geri betur. Þess vegna þurfum við að átta okkur á því að hagvöxtur er ekki það eina sem skiptir máli heldur sjálfbærni.

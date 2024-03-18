@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Að gelta og gjamma"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-05-18 06:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_fa08afceab
+title: Að gelta og gjamma
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2022-05-18
 ---
+
 Hundalógík. Áróður. Hælbítar. Pólitík sem einkennist af því að gelta og gjamma.
 
 Þau eru fjölmörg, uppnefnin sem hafa fallið undanfarnar vikur vegna gagnrýni Pírata og fleirra á bankasölumálið. Þetta eru uppnefni sem fjármálaráðherra Íslands, meðal annarra, hefur gripið til – vegna þess að hann hefur engar málefnalegar varnir. Í staðinn slær hann frá sér með upphrópunum.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Hvert fara molarnir þegar kakan stækkar?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-02-11 08:02:00 +0000
-categories: visir
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_898fa3f12a
+title: Hvert fara molarnir þegar kakan stækkar?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2022-02-11
 ---
+
 Kaupmáttur, ráðstöfunartekjur, eignir, skuldir, ... allt þetta segir fjármálaráðherra að fari bara batnandi, hvergi á norðurlöndunum hafi betur verið gert og heimilin hafa aldrei haft það betra. Þegar gögnin eru skoðuð kemur hins vegar ýmislegt áhugavert í ljós því fjármálaráðherra er tamt að tala í einföldum meðaltölum. Það er því eðlilegt að spyrja, hvernig er þetta nákvæmlega?
 
 Ef við byrjum á stóru myndinni þá hefur verðbólgan verið rétt tæp 40% frá árinu 2009. Af hverju 2009? Til þess að sýna samfélagið í ákveðinni lægð, eftir að það “endurstillti” sig eftir hrunið, og skoða frá þeim tíma hvernig mismunandi hópar hafa komið út síðan þá. Hinn hlutinn af þessari stóru mynd er svo landsframleiðsla, en hún hefur aukist um 17% fram til 2019. Þarna er erfitt að tala um 2020 út af covid en þrátt fyrir það er aukningin 7,5% frá 2009 - 2020. En segjum bara að stóru tölurnar hérna séu 40% verðbólga og 15% aukning á landsframleiðslu, ef horfum semsagt fram hjá covid og miðum við "eðlilegt ástand" árið 2019 eða svo.

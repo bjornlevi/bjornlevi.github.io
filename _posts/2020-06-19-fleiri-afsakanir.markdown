@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Fleiri afsakanir"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-08 16:09:00
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_555e2a4cbc
+title: Fleiri afsakanir
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2020-08-08
 ---
+
 Í [grein hjá Vísi](https://www.visir.is/g/20201990444d/radherrar-vinni-saman-ad-afglaepun-neysluskammta) er vitnað í dómsmálaráðherra: "Ýmislegt hafi hins vegar vantað upp á í frumvarpi Pírata og fleiri þingmanna, til að mynda hvernig skuli gera fíkniefni upptæk hjá börnum". Eins og margir tóku kannski eftir þegar þingið fór í sumarhlé þá hafnaði stjórnarmeirihlutinn frumvarpi Pírata um afglæpavæðingu með ýmsum fullyrðingum um að hitt og þetta vantaði í frumvarpið. Á meðan það var tæknilega rétt, og var allt lagað í breytingum nefndarinnar þá hafnaði stjórnin þeim breytingum líka. Það sem haft er eftir dómsmálaráðherra í þessari frétt er ný ástæða hjá þeim. Eitthvað sem þau notuðu ekki til þess að rökstyðja að þau höfnuðu málinu fyrir næstum þremur mánuðum síðan.
 
 En nei, það vantaði þetta ekki að skilgreina hvernig skuli gera fíkniefni upptæk hjá börnum. Það var sérstaklega tekið fram í [breytingatillögunni](https://www.althingi.is/altext/150/s/1929.html) sem ríkisstjórnin hafnaði: 

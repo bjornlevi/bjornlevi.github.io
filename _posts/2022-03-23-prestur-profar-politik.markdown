@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Prestur prófar pólitík ... og rökfræði."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-03-23 08:02:00 +0000
-categories: kjarninn
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_c990524809
+title: Prestur prófar pólitík ... og rökfræði.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2022-03-23
 ---
+
 Í nýlegum skoðanapistli fjallar Gunnar Jóhannesson, prestur Árborgarprestakalls, um trú mína og fullyrðir meðal annars að það þurfi trú til þess að segja að guð sé ekki til. Það er áhugavert hvernig Gunnar orðar þessa niðurstöðu sína, með upphrópunarmerki meira að segja. Tilefni þessa skoðanapistils Gunnars er tveggja mínútna ræða mín á þingi upp á rétt tæplega 350 orð. Þeirri ræðu svarar Gunnar í rúmlega 2.200 orðum en viðurkennir á sama tíma að hann hafi “ekki heyrt ræðu Björns Levís”. Grein Gunnars er mjög áhugaverð í þessu samhengi. Skoðum hana aðeins nánar.
 
 Gunnar segir: “Burtséð frá því er hin augljósa staðreynd sú að um leið og einhver staðhæfir eitthvað um tilvist Guðs, tilgang og merkingu lífsins, eða líf eftir dauðann o.s.frv. (óháð því hverju hann trúir sjálfur í þeim efnum) þá er um að ræða trúarlegar eða frumspekilegar staðhæfingar. Að því leyti er ég og Björn Leví báðir á sama báti. Við trúum!”

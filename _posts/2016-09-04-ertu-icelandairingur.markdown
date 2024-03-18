@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Ertu Icelandairingur?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-09-04 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_958c41d8d7
+title: Ertu Icelandairingur?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2020-09-04
 ---
+
 Hvað er að vera Íslendingur? Þarftu að geta rakið ættir þínar til landnema? Þarftu að kunna íslensku? Þarftu að búa á Íslandi eða vera ríkisborgari? Tárast yfir auglýsingu frá Icelandair? 
 
 Þingmenn ákveða í dag hvort nota eigi fimmtán milljarða af almannafé til að ábyrgjast rekstur Icelandair, sem eru stórtíðindi. Ekki bara vegna afskipta ríkisins af einkafyrirtæki á markaði heldur líka vegna þessa að um er að ræða háa fjárhæð, ársframlög ríkisins til nýsköpunar eða menningar- og æskulýðsmála.

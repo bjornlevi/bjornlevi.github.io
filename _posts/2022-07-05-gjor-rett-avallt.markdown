@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Gjör rétt. Ávallt."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-07-05 06:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_3ef6bdafba
+title: Gjör rétt. Ávallt.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2022-07-05
 ---
+
 Í síðustu viku uppgötvaðist að laun æðstu ráðamanna væru of há af því að röng vísitala hafði verið notuð til þess að reikna launahækkanir undanfarinna þriggja ára. Dómarafélagið brást ókvæða við og kallaði boðaða leiðréttingu á launum þeirra “at­lögu fram­kvæmda­valds­ins að dómsvald­inu sem ekki á sér hlið­stæðu í ís­lenskri rétt­ar­sögu” og að allir gætu átt “von á því að framkvæmdavaldið geti lækkað laun dómara eftir eigin geðþótta”. 
 
 Fjármálaráðherra brást ókvæða við þessari gagnrýni dómarafélagsins og sagði að málflutningur þeirra væri aumur og lauk svari sínu með því að segja “Gjör rétt. Ávallt”. Aldrei þessu vant er það hárrétt. Ekki bara að auðvitað eigum við alltaf að gera rétt heldur einnig að þessi málflutningur dómarafélagsins er mjög aumur. 

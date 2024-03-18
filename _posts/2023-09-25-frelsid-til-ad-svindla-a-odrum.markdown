@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Frelsið til þess að svindla á öðrum"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-09-25 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_29d7cfbdd9
+title: Frelsið til þess að svindla á öðrum
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2023-09-25
 ---
+
 Í lok ágúst birti Samkeppniseftirlitið ákvörðun sína eftir rannsókn á brotum Samskipa á samkeppnislögum. Niðurstaðan var 4,2 milljarða króna sekt vegna víðtækra brota í sama máli og Eimskip höfðu áður viðurkennt brot í og gert sátt að ljúka. Brotin fjalla um ólögmætt samráð yfir langan tíma til þess að búa til og við halda einokunarstöðu félaganna tveggja á flutningum til og frá Íslandi. 
 
 Það er erfitt að segja hvert umfang skaðans var vegna þessarar einokunar, en það er víst að hún hafði áhrif á allt efnahagskerfi landsins, allt frá vöruverði til afborgana fólks af húsnæðislánum. Hvert eitt og einasta heimili í landinu tapaði, líklega tugum þúsunda a.m.k.

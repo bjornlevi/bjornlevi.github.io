@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Við búum í búri"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-03-05 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_9d09d3e2a2
+title: Við búum í búri
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2021-03-05
 ---
+
 Þegar ég var ungur sá ég apa í búri. Mér fundust aparnir mjög merkilegir og fylgdist dáleiddur með því hvernig aparnir sveifluðu sér fram og til baka og léku sér. Einn þeirra sýndi mér áhuga, af því að ég fékk mér nammi úr litlum poka sem ég var með. Apinn rétti höndina út í gegnum rimlana og litli ég gat ekki annað en gefið apanum brjóstsykursmolann sem var eftir í pokanum. 
 
 Ég man hvernig apinn hrifsaði til sín molann og dró höndina sína aftur inn í búrið. En rimlarnir á búrinu voru í kross og höndin sem hélt á molanum var of stór til þess að komast aftur inn í búrið. Apinn hélt vel utan um molann og ég sá ekki nokkra leið til þess að apinn næði hendinni aftur inn í búr án þess að sleppa molanum. 

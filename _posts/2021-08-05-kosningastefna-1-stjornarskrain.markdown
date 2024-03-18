@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Nýja stjórnarskráin"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:01:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_d3cc9657db
+title: Kosningastefna Pírata 2021 - Nýja stjórnarskráin
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-08-05
 ---
+
 Við viljum að Alþingi innleiði nýja stjórnarskrá sem grundvallast á tillögum stjórnlagaráðs á næsta kjörtímabili, líkt og þjóðin kvað á um þann 20. október 2012. Alþingi á að virða vilja þjóðarinnar og efna loforðið frá lýðveldisstofnun um að íslenska þjóðin fái nýja stjórnarskrá. Píratar munu einungis taka þátt í myndun ríkisstjórnar sem skuldbindur sig til þess að kjósa um nýju stjórnarskrána á næsta kjörtímabili.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Stjórnarskrá)

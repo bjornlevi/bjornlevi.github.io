@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Að sitja hjá"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2023-11-01 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_a66a0b65e8
+title: Að sitja hjá
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2023-11-01
 ---
+
 Ég verð að viðurkenna að ég er dálítið dapur eftir atburði undanfarinna vikna. Sérstaklega eftir að ákveðið var að Ísland myndi sitja hjá í atkvæðagreiðslu um pólitíska ályktun allsherjarþings Sameinuðu þjóðanna að kalla eftir tafarlausu vopnahléi af mannúðarástæðum. 
 
 Það er mikið óréttlæti í heiminum en af og til verður það yfirþyrmandi. Það var yfirþyrmandi þann 7. október síðastliðinn þegar Hamas réðist á landnemabyggðir Ísraela í grennd við Gaza. Það er ekki til afsökun fyrir slíkri árás. Það sama á við árás Ísraelshers á almenna borgara í Gaza í kjölfarið. Slíkt yfirþyrmandi óréttlæti þarf að fordæma… en Ísland sat hjá út af því að það var ekki sérstaklega bent á Hamas eins og breytingartillaga Kanada lagði til. 

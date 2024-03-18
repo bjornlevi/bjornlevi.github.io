@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Ósvífni pólitísks rétttrúnaðar"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-07-18 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6b64b6aea7
+title: Ósvífni pólitísks rétttrúnaðar
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2020-07-18
 ---
+
 Við glímum við ósvífni sem hefur aukist með hverju árinu sem líður. Upprunann má rekja til pólítísks rétttrúnaðar (e. political correctness / PCismi) sem John Cleese útskýrði sem svo að hefur verið tekinn frá því að vera góð hugmynd um að verja þau sem geta ekki varið sig sjálf yfir í að vera slæm hugmynd þar sem hvers konar gagnrýni er álitin vera grimm eða óvægin.
 
 Hugtakið PC hefur breyst á þeim rúmlega tvöhundruð árum eða svo sem það hefur verið til en orð George H.W. Bush árið 1991 lýsa því ágætlega hvernig PCismi hefur þróast. Þá sagði hann, í lauslegri þýðingu, að PCismi hefur valdið deilum. Þó markmiðið hafi verið gott, að losna við það sem eftir lifði af kynþáttahatri, kynrembu og hatri þá hafa bara nýjir fordómar komið í staðinn. 

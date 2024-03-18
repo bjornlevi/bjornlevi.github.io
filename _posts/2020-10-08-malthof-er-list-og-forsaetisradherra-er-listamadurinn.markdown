@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Málþóf er list og forsætisráðherra er listamaðurinn."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-08 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_0d6a4eda84
+title: Málþóf er list og forsætisráðherra er listamaðurinn.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2020-10-08
 ---
+
 Í góðri [grein sinni í Kjarnanum](https://kjarninn.is/skodun/2020-10-05-hindranir-i-vegi-nyrrar-stjornarskrar/) fer Stefán Erlendsson yfir þær hindranir sem hafa verið í vegi nýrrar stjórnarskrár. Greinin er mjög fróðleg og vel þess virði að lesa en það eru nokkur atriði sem eru áhugaverð út frá öðru sjónarhorni.
 
 Í greininni er þó nokkuð mikið fjallað um málþóf þó það sé misaugljóst. Hér fyrir neðan tek ég saman dæmi um málþóf sem hægt er að beita. Þetta eru bara þau málþófstæki sem nefnd eru í greininni. 

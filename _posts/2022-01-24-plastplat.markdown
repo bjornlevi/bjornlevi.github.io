@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Plastplat"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-01-24 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_0974d5f73d
+title: Plastplat
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2022-01-24
 ---
+
 Í greinarröð Stundarinnar “plastið fundið” kemur í ljós að í júlí 2020 vissi framkvæmdastjóri Úrvinnslusjóð af plastplatinu mikla, hvernig íslenskt plast endaði í raun í vöruskemmu í Svíþjóð en ekki í endurvinnslu. Í september 2020 kynnti umhverfisráðherra aðgerðaráætlunin “úr viðjum plastins” þar sem ein af þremur áhersluatriðum er aukin endurvinnsla plasts. 
 
 Ríkissjóður innheimtir rúma 2 milljarða á ári í úrvinnslugjald sem notað er til þess að greiða fyrir endurvinnslu plasts. Það verður því að segjast að það eru stórkostleg svik við alla sem greiða þetta gjald í góðri trú um að verið sé að kaupa endurvinnslu fyrir þetta gjald. Í ljósi þess að framkvæmdastjóri opinberrar stofnunnar hefur vitað af þessum vanda síðan um mitt ár 2020 verður að spyrja mjög stórra spurninga um hvert sú vitneskja fór í kjölfarið. 

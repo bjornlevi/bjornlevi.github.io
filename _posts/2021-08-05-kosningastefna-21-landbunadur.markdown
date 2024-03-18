@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Landbúnaður"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:21:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_714a4192dc
+title: Kosningastefna Pírata 2021 - Landbúnaður
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2021-08-05
 ---
+
 Landbúnaður í heiminum stendur frammi fyrir umbyltingu vegna framfara í ylrækt og kjötrækt og vegna breyttra neysluvenja almennings í tengslum við græn umskipti samfélagsins. Í slíkum breytingum felast bæði áskoranir og tækifæri. Við erum óhrædd við að taka skrefin inn í framtíðina með menntun í landbúnaði og ríkri áherslu á nýsköpun fyrir bændur. Endurskoðum landbúnaðarstefnu stjórnvalda, tryggjum velferð dýra, aukið aðgengi að dýralæknum og náttúru- og umhverfisvernd. Við viljum sjálfbæra nýtingu náttúruauðlinda og fjölbreytta matvælaframleiðslu. Þannig fá bændur meira svigrúm til þess að dafna og framleiða samkeppnishæfar og heilnæmar matvörur fyrir neytendur.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Landbúnaður)

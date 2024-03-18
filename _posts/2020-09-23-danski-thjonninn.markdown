@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Danski þjónninn"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-09-23 10:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_dea4892cdf
+title: Danski þjónninn
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2020-09-23
 ---
+
 Allir ættu að muna eftir Harry og Heimi en færri muna kannski eftir morðgátunni þeirra um danska þjóninn. Morð var framið á veitingastað. Einn gestanna fannst allt í einu látinn, enginn vissi hvað hafði gerst og enn síður hvernig morðið hafði verið framið. Eftir mikla og sprenghlægilega rannsókn leystu Harry og Heimir gátuna. Morðinginn var þjónninn og morðvopnið var danska. Hann hafði vísvitandi talað dönsku við gestinn þangað til hann þoldi ekki meir og dó. 
 
 Í dag virðist danski þjónninn vera laus úr fangelsi og er aftur farinn að herja á landsmenn. Hann beitir þó öðrum bellibrögðum því nú notar hann íslensku til þess að viðhalda dönskum áhrifum. Nánar tiltekið, til þess að viðhalda konunglegri danskri stjórnarskrá á Íslandi. Fuss og svei. Stjórnarskráin okkar er ekkert dönsk, heyrist kannski í einhverjum. Jú, í öllum meginatriðum er hún það. Um það er hægt að lesa í bindi Sigurðar Líndals, Grundvöllur stjórnarskrár. 

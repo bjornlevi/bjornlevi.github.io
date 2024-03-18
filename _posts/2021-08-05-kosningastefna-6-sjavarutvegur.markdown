@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Sjávarútvegur"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:06:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_d8753f5e51
+title: Kosningastefna Pírata 2021 - Sjávarútvegur
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2021-08-05
 ---
+
 Sjávarauðlindin er sameiginleg og ævarandi eign íslensku þjóðarinnar. Enginn getur fengið fiskveiðiheimildir, eða réttindi tengd þeim, til eignar eða varanlegra afnota og aldrei má selja þær eða veðsetja. Þjóðin skal njóta auðlindarentu af sjávarútvegsauðlindinni. Tryggja þarf jafnræði í aðgengi að tímabundnum fiskveiðiheimildum, nauðsynlega nýliðun í greininni í gegnum uppboð veiðiheimilda og frjálsar handfæraveiðar.
 
 Við Píratar viljum sjálfbæran sjávarútveg, öflugar rannsóknir og eftirlit. Mikilvægt er að skýr lína sé dregin í stjórnkerfinu á milli rannsókna á náttúruauðlindum, ákvarðana um nýtingu og eftirlits. Fiskveiðistjórnun má ekki verða fórnarlamb úreltrar stjórnsýslu eða pólitískrar baráttu um verkefni einstakra ráðuneyta. Við viljum fjölbreytt útgerðarform og sjávarútvegsfyrirtæki í stað samþjöppunar og einsleitni. Sjávarútvegur er grundvöllur byggðar um land allt og því verðum við standa vörð um lífríki hafsins. Nýting auðlindarinnar skal grundvallast á vísindalegum rannsóknum.

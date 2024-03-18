@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Lífeyrir og þingfararkaup"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-05-04 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_28e8780e48
+title: Lífeyrir og þingfararkaup
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2020-05-04
 ---
+
 Það fór ekki fram hjá neinum að laun þingmanna og ráðherra voru hækkuð þann 1. maí um 6,3% frá áramótum. Til þess að gæta allrar sanngirni þá hækkuðu launin samkvæmt lögum þann 1. janúar s.l. en það gleymdist að greiða laun samkvæmt þeirri hækkun þangað til núna. Ríkisstjórnin mundi allt í einu eftir því þegar næsta hækkun þann 1. júlí næstkomandi átti að koma til framkvæmda. Þeirri hækkun var blessunarlega frestað en þau hættu allt í einu að gleyma hækkuninni sem átti að gerast 1. janúar. 
 
 Ég fylgdist vel með þegar fjárlög 2020 voru afgreidd hvort það kæmi inn fjárheimild til þess að hækka laun þingmanna um áramótin. Ekkert slíkt gerðist og ég leit sem svo að það ætti bara að sleppa hækkuninni. Því fylgdist ég vel með næstu launaseðlum og það reyndist rétt. Engin launahækkun. Flott, ég hafði ekki yfir neinu að kvarta og enginn annar sagði neitt heldur. Það var greinilega engin eftirspurn eftir þessari launahækkun, hún gleymdist og enginn kvartaði. 

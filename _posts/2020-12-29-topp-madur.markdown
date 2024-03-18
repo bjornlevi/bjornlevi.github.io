@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Topp maður - flopp stjórnmálamaður"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-12-29 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_30d709f279
+title: Topp maður - flopp stjórnmálamaður
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2020-12-29
 ---
+
 “Topp maður”, var athugasemd á samfélagsmiðlum undir frétt af sóttvarnabroti fjármálaráðherra. Þetta er mjög merkileg fullyrðing í samhengi þeirra atburða sem við erum að ganga í gegnum. Í samhengi þeirra hegðunar sem birtist okkur á aðfangadagsmorgun. 
 
 Í kjölfar fyrstu frétta af málinu, þar sem óljóst var hvaða ráðherra hafði sótt fjölmennt teiti í miðbænum, þá hefur komið fram afsökunarbeiðni um að húsið hafi fyllst á þeim 15 mínútum sem ráðherra var í samkvæminu. Afsökunarbeiðni sem lætur sóttvarnabrotið líta út fyrir að vera yfirsjón og óheppilegt hliðarspor í annars vel heppnuðum kúlujólum. 

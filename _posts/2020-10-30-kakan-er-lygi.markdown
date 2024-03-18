@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kakan er lygi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-30 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ab630f01da
+title: Kakan er lygi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2020-10-30
 ---
+
 Öryrkjabandalag Íslands gaf út [myndband þann 11. október síðastliðinn](https://www.facebook.com/oryrkjabandalagislands/posts/2029361253867571) þar sem kaka fjármálaráðherra var útskýrð frá sjónarhorni öryrkja. Skilaboðin voru einföld, það fá ekki allir að njóta.
 
 Fjármálaráðherra fannst greinilega tilefni til þess að [svara](https://www.ruv.is/frett/2020/10/28/bjarni-svarar-obi-en-vidrar-ahyggjur-af-stodunni) þessu myndbandi ÖBÍ.

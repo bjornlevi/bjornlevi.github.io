@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Efnahagsmistökin"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2023-12-30 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_388092dc67
+title: Efnahagsmistökin
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2023-12-30
 ---
+
 Verðbólgan undanfarin tvö ár hefur verið ansi þrálát og drifin áfram af nokkrum efnahagsþáttum. Þar má helst telja til hækkun á húsnæðisverði og innfluttum vörum, kjarabaráttu og ríkisfjármálin. Afleiðingarnar af verðbólgunni hafa verið miklar fyrir heimili og fyrirtæki þar sem bæði stýrivextir og verðbólgan sjálf hafa áhrif á allt með verðmiða. 
 
 Allir benda hvern á annan þegar verið er að reyna að finna þann sem ber ábyrgð á þessu ástandi og sitt sýnist auðvitað hverjum. Samtök atvinnulífsins benda á háar launakröfur og innflutta verðbólgu. Sama má segja um ríkisstjórnina. Verkalýðshreyfingin bendir á auknar arðgreiðslur fyrirtækja sem gróðaverðbólgu og hagfræðingar minna okkur aftur og aftur á húsnæðisvandann. Staðan er auðvitað sú að allir hafa eitthvað til síns máls, en umræðan snýst kannski um hver hefur mest rétt fyrir sér.

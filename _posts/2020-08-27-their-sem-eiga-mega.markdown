@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Þeir sem eiga, mega"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-27 13:00:34 +0000
-categories: raeda
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_033a58dd41
+title: Þeir sem eiga, mega
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2020-08-27
 ---
+
 Hugmyndafræði íhaldsins er dauðadómur fyrir framtíðina. Það er markmið íhaldsins að gera sem minnst, breyta eins litlu og hægt er og lifa helst í fortíðinni. Hugmyndafræði íhaldsins birtist okkur ljóslifandi í stefnuleysi núverandi ríkisstjórnar. Þar er hvergi horft fram á við, einungis reynt að halda í það sem var. Samfélag gærdagsins er sú uppskrift sem við fáum frá ríkisstjórninni. Ríkisstjórnin sem passar upp á að þeir sem hafa og fá, haldi áfram að eiga og mega. Það er passað upp á að þegar kófinu lýkur þá á helst allt að vera eins og það var svo hægt sé að halda áfram að hjakka í sama farinu. 
 
 Meðal fyrstu viðbragða ríkisstjórnarinnar var markaðsátak í ferðaþjónustu upp á 3000 milljónir króna og nýsköpun til framtíðar fyrir 1750 milljónir. Markaðsátak upp á þrjá milljarða, nýsköpun til þess að koma til móts við atvinnuleysi og uppbyggingar þörf tæplega tveir milljarðar. Forgangsröðunin gæti ekki verið skýrari.

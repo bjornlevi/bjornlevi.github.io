@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Geðheilbrigðismál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:05:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_d37ad38180
+title: Kosningastefna Pírata 2021 - Geðheilbrigðismál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2021-08-05
 ---
+
 Við Píratar lítum á geðheilbrigði sem eina af grunnstoðum samfélagsins, málefni sem varðar ekki einungis heilsu og velferð einstaklingsins heldur er geðheilbrigði ákveðinn mælikvarði á heilbrigði samfélagsins sem við búum í. Geðheilbrigði snertir í raun öll svið samfélagsins, allt frá því hvernig búið er að velferð barna á heimilum og í skólakerfinu yfir í hvernig hugað er að jafnvægi milli vinnu og fjölskyldulífs hjá fullorðnum. Hugum sérstaklega að geðheilbrigðismálum vegna Covid.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Geðheilbrigðismál)

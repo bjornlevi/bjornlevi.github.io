@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Tveggja stóla tal"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-12-08 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_4f81862849
+title: Tveggja stóla tal
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2020-12-08
 ---
+
 Þú sérð auglýsingu um draumastarfið þitt í blaðinu. Starfið sem þú ert búin að búa þig undir í mörg ár. Staða dómara við Landsrétt! Þú sækir um og ert alveg viss um að þú verðir metin hæfust í starfið því þú þekkir til allra sem gætu sótt um og engin af þeim uppfyllir hæfniskröfur á sama hátt og þú. Allt gengur vel þangað til þú kemst að því að einn af umsækjendunum er þegar dómari við Landsrétt.
 
 Skrítið, hugsar þú. Af hverju er einhver sem er þegar með dómarastöðu að sækja um starfið? Þú áttar þig fljótlega á því að viðkomandi dómari er mun hæfari en þú, aðallega út af reynslu sinni af dómarastörfum við Landsrétt, og niðurstaðan er því fyrirsjáanleg. Dómarinn fær “nýju” stöðuna.

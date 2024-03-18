@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Betri samskipti við almenning?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-07 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_f535277c9d
+title: Betri samskipti við almenning?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2020-10-07
 ---
+
 Í umræðum um fjármálaáætlun ríkisstjórnarinnar þar sem stjórnvöld setja sér stefnu fyrir næstu fimm ár spurði ég forsætisráðherra eftirfarandi spurningar:
 
 "Stefnumótun í opinberum fjármálum er nú gagnsærri en undanfarin ár með innleiðingu velsældarviðmiða í fjármálaáætlun. Fyrstu skrefin eru ágæt en það eru nokkur atriði sem mætti bæta. Það mætti til dæmis hafa samantekt sem nær yfir öll málefnasviðin fyrir hvern velsældarmælikvarða þannig að það sé hægt að sjá ætluð heildaráhrif og kostnað. 

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Án tillits til skoðana"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-06-19 16:27:34 +0000
-categories: frettabladid
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_e9f1ff9415
+title: Án tillits til skoðana
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2020-06-19
 ---
+
 *“Allir skulu vera jafnir fyrir lögum og njóta mannréttinda án tillits til kynferðis, trúarbragða, skoðana, þjóðernisuppruna, kynþáttar, litarháttar, efnahags, ætternis og stöðu að öðru leyti.”* Svo hljóðar jafnræðisregla núgildandi stjórnarskrár.
 
 Fjármálaráðherra kemur í veg fyrir að fræðimaður fái ritstjórastöðu hjá norrænu hagfræðiriti. Menntamálaráðherra ræður flokksgæðinga í stöðu ráðuneytisstjóra og sem formann fjölmiðlanefndar. Fyrrverandi dómsmálaráðherra skiptir út hæfari umsækjendum um dómarastöður fyrir aðra sem eru ekki eins hæfir. 

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Takmarkanir á landamærum?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-04-20 22:01:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ea5c0b231a
+title: Takmarkanir á landamærum?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-04-20
 ---
+
 Í dag kynnti ríkisstjórnin nýjar takmarkanir á landamærunum. Þar á að leggja bann við ferðalögum eða skyldudvöl í sóttvarnahúsi frá hááhættusvæðum (1.000 smit á hverja 100 þúsund íbúa undanfarnar 2 vikur). Ef smitin eru á milli 750 og 1.000 þá má veita undanþágu frá dvöl í sóttvarnarhúsi ef fyrir liggja trúverðug áform um dvöl í fullnægjandi húsnæði.
 
 Hvað þýðir þetta eiginlega í raun og veru? Það eru tólf lönd í heiminum sem eru með fleiri en 750 smit á 100 þúsund íbúa. Það eru:

@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Bær í eyði?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2023-11-20 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_2226de30ee
+title: Bær í eyði?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2023-11-20
 ---
+
 Sá grunur læðist óhjákvæmilega að manni þessa dagana að heilt bæjarfélag sé komið í eyði. Jarðskjálftarnir, eldgosin og sögulegar heimildir um gostímabilin í gosstöðvunum við Grindavík læða að manni þeim grun að ef núverandi umbrot leggja ekki bæinn í eyði þá geti næsta eða þarnæsta óróatímabil endað þannig. Og jafnvel þó þetta óróatímabil verði skammvinnt, ekki hundruðir ára eins og í eldri umbrotum, þá tekur tíma til þess að treysta jörðinni aftur á sama hátt og fyrir gosið í Fagradalsfjalli.
 
 Spurningin er einfaldlega hvort fólk treystir sér aftur til Grindavíkur, og þó fólk treysti sér til þess að búa þar áfram, er það ábyrgt? Ég ætla ekki að þykjast vita svarið við þeirri spurningu heldur frekar gera tillögu um hvað þarf að gerast núna til þess að bregðast við því óvissuástandi sem nú blasir við öllum.

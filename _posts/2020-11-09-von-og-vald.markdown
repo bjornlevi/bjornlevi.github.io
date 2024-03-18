@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Von og vald"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-11-09 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_27db624dc2
+title: Von og vald
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2020-11-09
 ---
+
 Ég bjó á Vonarstræti þegar ég var í Bandaríkjunum (BNA). Ég var þar þegar Obama var kosinn og sá hvaða von fólk bar til þess sem hann hafði fram að bjóða. Ég sá líka hvernig kerfið barðist á móti því og hvernig, að lokum, það murkaði lífið úr þeirri von sem kosningabarátta Obama byggðist á. 
 
 Í BNA sá ég mjög fjölbreyttan hóp fólks. Allt frá fólki sem fékk gefins hús frá foreldrum sínum til þeirra sem voru nánast á götunni. Í Dexter park spilaði þetta fólk saman sparkbolta alla laugardaga á sumrin. Fyrrverandi hermenn, prófessor úr Brown háskólanum, yfirbruggari Revival brugghússins, fréttateymi stöðvar 12, forritarar, listamenn, verkamenn, atvinnulausir og margir fleiri. Karlar, konur, krakkar og kynsegin fólk af öllum gerðum alls staðar frá. 

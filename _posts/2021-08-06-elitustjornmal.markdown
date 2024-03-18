@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Elítustjórnmál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-06 12:01:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_60ee7a7381
+title: Elítustjórnmál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2021-08-06
 ---
+
 Það eru tvenns konar elítustjórnmál á Íslandi. Fyrri tegundin tengist peningum, völdum og virkar nánast eins og konungsveldi. Í þeim stjórnmálum er mikið um leiðtogadýrkun, og litlar klíkur sem ráða í raun öllu bæði beint og bak við tjöldin. Seinni tegundin tengist sýndarmennsku. 
 
 Skoðum þessar tvær tegundir elítustjórnmála aðeins betur. Ég giska á að fólk geti frekar auðveldlega getið sér til um það hvernig fyrri tegundin virkar og hvaða stjórnmálaflokkar á Íslandi aðhyllast þess háttar pólitík. Fjórflokkarnir eru augljóst dæmi um fyrri tegund elítustjórnmála þó það sé hægt að taka Samfylkinguna þar aðeins út fyrir sviga eftir að hún þurrkaðist næstum því út í kosningunum 2016. Ég myndi kalla það holla áminningu sem afgangurinn af fjórflokkunum ættu að ganga í gegnum líka og ég held að eitt ár af slíkri áminningu sé of stuttur tími.

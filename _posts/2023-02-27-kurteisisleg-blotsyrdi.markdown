@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Kurteisisleg blótsyrði"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-02-27 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_89d04bfdd6
+title: Kurteisisleg blótsyrði
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2023-02-27
 ---
+
 Á sama tíma og fólk er skammað fyrir að nota ókurteis orð er verið að dæla dæla peningum í "kurteisislega" orðaðan áróður. Heimildin hefur upplýst að Norðurál fjármagnaði áróður gegn Landsvirkjun og lét það líta út eins og að grasrótarsamtök væru að verjast óhóflegri gjaldtöku Landsvirkjunar sem myndi leiða það af sér að stóriðjufyrirtæki neyddust til að loka. Tilgangurinn var að reyna að hafa áhrif á verð Landsvirkjunnar til stóriðjunnar - sem myndi vera skaðlegt fyrir okkur öll.
 
 Þessi gagnrýni leiddi til þess að skoða þurfti samkeppnishæfni Íslands í stóriðju með tilliti til raforkuverðs sem leiddi fram þá niðurstöðu að “raforkukostnaður stóriðju á Íslandi skerðir almennt ekki samkeppnishæfni hennar gagnvart samanburðarlöndunum.” Þar kom til dæmis fram að raforkukostnaður gagnavera væri um þrisvar sinnum lægri en í Þýskalandi (árið 2019). Raforkukostnaður álvera væri almennt samkeppnishæfur við Kanada og Noreg og lægri en í Þýskalandi.

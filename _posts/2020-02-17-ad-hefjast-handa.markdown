@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Að hefjast handa"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-02-17 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_7b9819ac67
+title: Að hefjast handa
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-02-17
 ---
+
 _“Nú er kominn tími til þess að hefjast handa”_ voru skilaboðin sem ríkisstjórnarflokkur fékk á fundarferð sinni í kringum landið. Núna, þegar rétt rúmt ár er eftir af kjörtímabilinu á að hefjast handa. Þegar nálgast kosningar þá er kominn tími til þess að láta verkin tala. Hendur fram úr ermum og allt það, á síðasta árinu. Ég er nokkuð viss um að síðastliðnar kosningar hafi ekki snúist um að setja allt í endalaust margar nefndir á fyrstu þremur árum kjörtímabilsins. 
 
 Skilaboðin sem við í þingflokki Pírata fengum í liðinni kjördæmaviku voru svipuð, það er fjölmörg tækifæri út um allt land sem eru í biðstöðu en eru föst í stirðum fjárhagslegum samskiptum ríkis og sveitarfélaga. Langflest af þeim vandamálum sem fólk bendir á mætti einfaldlega leysa nær heimahögum, í stað þess að sveitarfélög þurfi að treysta á að detta í lukkupott stóriðju eða sérstakra byggðafjárframlaga. 

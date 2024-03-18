@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Tekjur ríkissjóðs umfram áætlanir en ekki nægir peningar til fyrir börnin"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-08-18 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_f77127da75
+title: Tekjur ríkissjóðs umfram áætlanir en ekki nægir peningar til fyrir börnin
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2023-08-18
 ---
+
 Þegar þing var sett mætti hæstvirtur mennta- og barnamálaráðherra í ræðustól Alþingis og sagði: „Af öllu því sem við gerum er skólakerfið ekki bara mest stefnumótandi til framtíðar heldur eru gæði þess og styrkur það lang mikilvægasta sem við gerum til að tryggja farsæld næstu kynslóðar.“
 
 Hér er ég 100% sammála, jafnvel 110%.

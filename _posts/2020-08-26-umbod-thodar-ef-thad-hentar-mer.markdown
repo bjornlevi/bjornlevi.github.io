@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Umboð þjóðar ef það hentar mér."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-26 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_fb6a9762ca
+title: Umboð þjóðar ef það hentar mér.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2020-08-26
 ---
+
 Á Íslandi höldum við kosningar á fjögurra ára fresti. Þá keppast stjórnmálasamtök um atkvæði kjósenda með því að leggja línurnar fyrir næstu fjögur árin. Þannig virkar lýðræðið okkar, lýðveldi með þingbundinni stjórn. Inn á milli kosninga er lýðræðið svo í ákveðnum dvala á meðan nokkrir flokkar hópa sig saman um meirihluta atkvæða á þingi og ráða þannig bókstaflega öllu sem sá meirihluti kemur sér saman um. 
 
 Í vor gerðist hins vegar nokkuð sem fáir sáu fyrir. Heimsfaraldur að umfangi sem hefur ekki sést í hundrað ár. Allir voru beðnir um að setja sér takmörk, jafnvel í jarðarförum. Forðist að hitta annað fólk. Haldið ykkur í tveggja metra fjarlægð. Ekki ferðast. Stjórnvöld settu okkur þessi takmörk og báðu okkur um þolinmæði og skilning sem fólk almennt virti. Óvissan var mikil og því eðlilegt að fara varlega. 

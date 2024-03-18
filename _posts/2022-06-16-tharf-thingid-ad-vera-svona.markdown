@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Þarf þingið að vera svona?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-06-07 06:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6982d91ff6
+title: Þarf þingið að vera svona?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2022-06-07
 ---
+
 Svo ég svari þessari spurningu eins og hinn versti pólitíkus, þá er svarið bæði já og nei. Það er nefnilega val. Á meðan núverandi meirihluti velur að haga pólitíkinni eins og þau gera þá þarf þingið að vera svona. Það er hins vegar hægt að velja að hafa pólitíkina öðruvísi og þar af leiðandi yrði pólitíkin öðruvísi. En hvað er það sem gerir pólitíkina eins og hún er?
 
 Það mikilvægasta sem fólk þarf að skilja er meirihlutapólitíkin. Það er annað en lýðræðislegur meirihluti. Í meirihlutapólitík tekur meirihluti þingmanna í nokkrum flokkum sig saman og myndar meirihlutastjórn - sem formenn flokkanna stjórna. Þessi meirihlutastjórn tekur þannig allt vald í öllum krókum og kimum. Skipunin er að allt sem meirihlutinn ákveður skal samþykkt og öllu sem minnihlutinn leggur til skal hafnað. Undantekningar á þessu eru sjaldgæfari en hvítir hrafnar.

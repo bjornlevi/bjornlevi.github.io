@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Átak í lýðræði"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-06-20 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_5fd3e22d4f
+title: Átak í lýðræði
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2020-06-20
 ---
+
 Í gær frumsýndu samtök kvenna um nýju stjórnarskránna fræðslumyndband um nýju stjórnarskránna, ferlið á bakvið hana, hvar hún stoppaði og til að minna þingmenn á niðurstöðu þjóðaratkvæðagreiðslunnar 2012. Þar er fjallað um viðbrögð samfélagsins í kjölfar efnahagshrunsins, allt frá því að Alþingi samþykkti með öllum greiddum atkvæðum að hefja það ferli sem endaði með atkvæðagreiðslunni 2012. En þegar kom að valdhöfum að lögfesta nýju stjórnarskránna sögðu þeir “nei” og alla tíð síðan hunsað niðurstöðu þjóðaratkvæðagreiðslunnar.
 
 Núverandi stjórnarskrá er komin til ára sinna. Hún er mjög óljós hvað varðar meðhöndlun valds, til dæmis hvað varðar embætti forseta. Hún býður ekki upp á beint lýðræði, hvorki í formi málskots- né frumkvæðisréttar og fjölmargir aðrir kaflar hennar þarfnast uppfærslu miðað við þróun mála á undanförnum áratugum.

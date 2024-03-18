@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Forsætisráðherra gat ekki svarað ..."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-01-30 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_b2796eb3a0
+title: Forsætisráðherra gat ekki svarað ...
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2023-01-30
 ---
+
 Í síðustu viku var haldið vetrarþing Evrópuráðsþingsins (Council of Europe), sem má ekki rugla saman við Leiðtogaráð Evrópusambandsins (European council). Í stuttu máli snýst Evrópuráðsþingið um mannréttindi, lýðræði og að með lögum skal land byggja - og undirstaða þessa þings er mannréttindasáttmáli Evrópu og mannréttindadómstóllinn. Þar er ýmislegt fleira að finna, baráttu gegn spillingu (GRECO), kosningaeftirlit, viðmið um velferð og réttindi fatlaðra, þolendur mansals og flóttamanna.
 
 Á vetrarþinginu var fjallað um ýmis aðkallandi mál. Stríðið í Úkraínu var fyrirferðamikið í öllum umræðum en einnig umsókn Kosovo að Evrópuráðsþinginu og lokun Latchin vegarins á milli Armeníu og Nagorno-Karabakh. Það var mikill hiti í þingmönnum vegna þessara mála. 

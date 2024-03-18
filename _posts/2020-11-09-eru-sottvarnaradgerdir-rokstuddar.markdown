@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Eru sóttvarnaraðgerðir rökstuddar?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-11-09 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_4af735b5e3
+title: Eru sóttvarnaraðgerðir rökstuddar?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2020-11-09
 ---
+
 [Þetta](https://kjarninn.is/frettir/2020-11-09-stjornarthingmadur-segist-haettur-medvirkni-med-sottvarnaradgerdum/) er ástæðan fyrir því að við kölluðum eftir því að ákvarðanir stjórnvalda væru skoðaðar nánar. Spurningin verður alltaf að vera hvort aðgerðirnar sem gripið var til hafi verið hóflegar miðað við tilefni.
 
 Þess vegna þarf að spyrja tveggja spurninga (aðallega). 

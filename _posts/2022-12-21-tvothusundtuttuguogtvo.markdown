@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Tvöþúsundtuttuguogtvö"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-01-01 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_48e3335798
+title: Tvöþúsundtuttuguogtvö
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2023-01-01
 ---
+
 Góðan dag kæri lesandi og takk fyrir árið sem er að líða. Að minnsta kosti það jákvæða sem gerðist á árinu. Allt hitt má bara eiga sig. Innrásin í Bandaríska þingið. Stríðið í Úkraínu. Fátækt á Íslandi. Ómannúðleg framkoma við flóttafólk. Salan á Íslandsbanka. Verðbólga. Húsnæðiskrísa og svo mætti því miður lengi telja. Stefnum á að gera minna af leiðinlegum og slæmum hlutum á næsta ári.
 
 Ef að við viljum sjá bjartari framtíð þá þurfum við líka að gera upp það sem dregur okkur niður - til þess að gera ekki sömu mistökin aftur og aftur - og það er yfirleitt tilgangur svona áramótagreina. Að horfa yfir farinn veg og segja hvað við ætlum að gera betur á næsta ári. 

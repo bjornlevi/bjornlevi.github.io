@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Dagurinn í dag"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-03-25 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_947b34652d
+title: Dagurinn í dag
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2020-03-25
 ---
+
 Í dag er fjarfundadagur á Alþingi. Líka á morgun. Umfjöllunarefnið er fjáraukalagafrumvarp ríkisstjórnarinnar þar sem gert er ráð fyrir að tekið sé 140 milljarða króna lán fyrir beingreiðslu vegna barna, gjafabréfi til ferðalaga innanlands og tímabundnu fjárfestingarátaki til það vinna gegn samdrætti í hagkerfinu. Síðast þegar við tókum risastórt lán út af hruni efnahagskerfisins fengum við þrotabú gömlu bankanna á móti lánunum. Núna fáum við ekkert nema arðinn af þeim fjárfestingum sem stjórnvöld hyggjast ráðast í fyrir þetta lánsfé.
 
 Þau átaksverkefni sem ráðist verður í skila örugglega einhverjum ábata til lengri tíma og lánakjör eru vissulega góð einmitt núna. Tækifærið er tvímælalaust þarna til þess að grípa það. Þær framkvæmdir sem ætlunin er að ráðast í eru þær sem eru neðar á þeim verkefnalista sem verið er að vinna í samkvæmt gildandi fjármálaáætlun, samgönguáætlun og þess háttar. Semsagt, ekki eins mikilvæg verkefni og ekki eins arðbær verkefni. Því annars hefðu stjórnvöld væntanlega raðað núverandi verkefnalista öðruvísi.

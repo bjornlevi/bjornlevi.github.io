@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Að tala af skynsemi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-08-09 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_969289bc33
+title: Að tala af skynsemi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2023-08-09
 ---
+
 Hvernig veit ég hvort það sem ég segi er skynsamt eða ekki? Það sem er ennþá erfiðara, hvernig veit ég að það sem þú segir er skynsamt eða ekki? Þetta er spurning sem mér finnst mjög áhugaverð, sérstaklega út af einhverju sem má kalla “skynsemisstjórnmál”. 
 
 Mér finnst þetta mjög merkilegt hugtak, sérstaklega af því að fólk sem virðist hliðhollt þessari tegund stjórnmála á þann hátt að það minnist á “skynsemi” við hvert tilefni - hljómar ekkert rosalega skynsamlega frá mínum bæjardyrum. Látum það aðeins liggja á milli hluta nákvæmlega hvað er sagt og byrjum að átta okkur á því að - bara af því að einhver segist aðhyllast “skynsöm” stjórnmál, þá þýðir það bara alls ekkert að viðkomandi sé skynsamur. 

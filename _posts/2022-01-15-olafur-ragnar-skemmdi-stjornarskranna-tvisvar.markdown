@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Ólafur Ragnar skemmdi stjórnarskránna. Tvisvar."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-01-15 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_d816c780a6
+title: Ólafur Ragnar skemmdi stjórnarskránna. Tvisvar.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2022-01-15
 ---
+
 Stjórnarskráin var gölluð áður en fv. forseti Ólafur Ragnar skemmdi hana en gallarnir urðu að veruleika þegar fv. forseti lét á þá reyna. Hvað er ég að tala um? Það eru þau tvö ákvæði sem fyrrverandi forseti lét á reyna. Fyrst með því að hafna að skrifa undir lög og svo þegar hann hafnaði þingrofsbeiðni þáverandi forsætisráðherra. Hér þurfum við aðeins að láta liggja á milli hluta hvað okkur finnst um þessar ákvarðanir fyrrum forseta.
 
 Til þess að átta sig á því af hverju þessar ákvarðanir fyrrum forseta skemmdu stjórnarskránna þá þarf smá samhengi. Við þurfum að átta okkur á því hvernig er farið með opinbert vald á Íslandi. Á Íslandi er þingbundið lýðræði, sem þýðir að þingið setur lög og hefur eftirlit með framkvæmd þeirra laga. Framkvæmdavaldið, sem ríkisstjórnin fer með verður svo að fara eftir lögum. Ef ráðherra ætlar að hreyfa svo mikið sem litla putta verður að vera heimild fyrir því í lögum á einhvern hátt. Þess vegna eru lög um skráningu á því hvern ráðherra hittir, lög um ábyrgð ráðherra, upplýsingalög og lög sem vernda þá sem ljóstra upp um misferli sem ráðherra ber ábyrgð á. Forseti er svo á mjög skrítnum stað í stjórnkerfinu, konungur sem var að þróast í að verða valdalaus. 

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Handahófskenndar aðgerðir"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-02 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_051ecf4567
+title: Handahófskenndar aðgerðir
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2020-10-02
 ---
+
 Ríkisstjórnin lagði fram áætlun sína út úr Kófinu í gær. Áætlun sem ríkisstjórnin ætlaði að leggja fram í vor en frestaði. Það verður að segjast eins og er að áætlunin er nákvæmlega eins og allar fyrri aðgerðir ríkisstjórnarinnar. Sundurlaus og handahófskennd. Rétt eins og nýlegar stöðugleikaaðgerðir ríkisstjórnarinnar sem voru kynntar sem “nýjar” aðgerðir. Fyrsta aðgerðin þar var að framlengja “Allir vinna” sem er kaldhæðnislegt heiti í 9% atvinnuleysi. Ekki beint ný eða sérsniðin aðgerð til þess að koma til móts við mestu efnahagskreppu í heila öld. 
 
 Hugsið aðeins um það. Kófið er að valda mestu efnahagskreppu sem við höfum séð í heila öld og heildarmyndin í aðgerðum ríkisstjórnarinnar er engin. Markaðsátak fyrir erlenda ferðamenn var mikilvægara en nýsköpun í fyrsta aðgerðapakkanum og svo var fyrirtækjum bæði borgað fyrir að halda fólki í vinnu og til þess að segja því upp.

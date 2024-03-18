@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Auðlindir í þjóðareign."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-01-27 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_89ba316c63
+title: Auðlindir í þjóðareign.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2021-01-27
 ---
+
 Í frumvarpi stjórnlagaráðs er bætt við auðlindaákvæði í stjórnarskrá. Í því frumvarpi er kveðið á um “fullt gjald til hóflegs tíma í senn” fyrir leyfi til hagnýtingar auðlinda eða takmarkaðra almannagæða. Það hefur komið fram málefnaleg gagnrýni á þetta orðalag vegna auðlinda sem leyft er að hagnýta í almannaþágu, en ekki í ábataskyni, eins og t.d. hitaveita eða berjatínsla. Þess vegna var lagt til að talað yrði um “eðlilegt gjald.”
 
 Viðbrögðin við þeirri tillögu voru fyrirsjáanleg. Fólk hugsaði strax til sjávarauðlindarinnar og hvernig stjórnmálamenn gætu áfram hlíft stórútgerðinni við því að greiða fullt gjald af þeirri auðlind, á meðan kvótakóngar græddu á tá og fingri í staðinn. Síðan þá hefur þessi grein, fremur en allt annað, verið stíflan sem allar breytingar á stjórnarskrá stranda á.

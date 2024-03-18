@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Umhverfis- og loftslagsmál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:03:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_e3cf0cf2a7
+title: Kosningastefna Pírata 2021 - Umhverfis- og loftslagsmál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-08-05
 ---
+
 
 Loftslagsmálin eru án efa eitt af stærstu viðfangsefnum samtímans. Við Píratar erum tilbúin í þær aðgerðir sem þarf að ráðast í til að byggja upp græna og sjálfbæra framtíð. Á sama tíma vitum við að fram undan eru óumflýjanlegar umbreytingar á veröld okkar sem Íslendingar, eins og heimsbyggðin öll, þurfa að búa sig undir. Við sjáum fyrir okkur samfélag og lífríki sem blómstrar þrátt fyrir þau risavöxnu verkefni sem glíma þarf við.
 

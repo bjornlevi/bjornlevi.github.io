@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Að selja björgun"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-04-17 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_f3cf8da8c1
+title: Að selja björgun
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2023-04-17
 ---
+
 Í upphafi árs datt dómsmálaráðherra allt í einu í hug að það væri hægt að leysa fjárhagsvanda Landhelgisgæslunnar með því að selja einu flugvélina sem getur sinnt hinum ýmsu sérhæfðu verkefnum sem flugvélin var keypt til þess að sinna. Flugvélin var keypt árið 2009 og árið 2017 var staðan sú að vélin var aðgengileg í 57% tilfella innan 6 klst. Það er að segja, ef það kom eitthvað upp á þar sem kalla þyrfti til flugvélina þá var það einungis hægt innan 6 klst. í 57% tilfella.
 
 Ríkisstjórnin setti sér því markmið um að hér þyrfti að gera betur. Í fjármálaáætlun 2018 var markmiðið sett um að flugvélin yrði tiltæk í 95% tilfella innan 6 klst. árið 2022. Kannski er það eðlilegt að þegar það er bara ein flugvél þá komi upp tilfelli þar sem ekki sé alltaf hægt að bregðast við innan 6 klst, þannig að 95% viðbragðsgeta er kannski bara raunhæft.

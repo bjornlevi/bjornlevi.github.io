@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Að hlusta á vísindamenn"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-08-31 09:02:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_d68cef21e4
+title: Að hlusta á vísindamenn
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2022-08-31
 ---
+
 Nýlega sagði Sigurður Ingi Jóhannsson innviðaráðherra að hann vildi hlusta á vísindamenn þegar kæmi að því að taka ákvörðun um það hvort byggja ætti flugvöll í Hvassahrauni. Það er gott að ráðherra vilji ráðfæra sig við vísindafólk – því ber að fagna. En hvað þýðir það eiginlega fyrir stjórnmálafólk að hlusta á vísindamenn, að taka vísindin alvarlega?
 
 Í fyrsta lagi þýðir það að vísindin geti ekki bara verið eins og búningur sem við klæðum okkur í þegar það hentar. Við verðum að vera samkvæm sjálfum okkur milli mála og taka vísindalegar rannsóknir alltaf með í reikninginn – og ekki bara niðurstöður sem okkur þykja ákjósanlegar.

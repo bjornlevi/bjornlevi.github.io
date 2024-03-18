@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Vopnvæðum öryggi?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-05-17 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_5a24ff9918
+title: Vopnvæðum öryggi?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2023-05-17
 ---
+
 Á undanförnum 4 árum hefur lögreglan keypt varnarbúnað fyrir 230 milljónir króna samkvæmt [opnirreikningar.is](https://opnirreikningar.is). Á fyrstu fjórum mánuðum þessa árs hefur 112 milljónum verið varið í varnarbúnað. Þetta hljómar kannski ekki eins og mjög há upphæð í heildar samhenginu en [rifjum upp](https://heimildin.is/frett/vopnin-kvodd-hridskotabyssur-landhelgisgaeslunnar-/) að þær tvö hundruð og fimmtíu hríðskotabyssur sem Landhelgisgæslan og Ríkislögreglustjóri fengu frá Noregi (en urðu að skila) áttu að kosta um tíu milljónir króna. Fjárhæð ársins dugar þá fyrir um 2.800 álíka hríðskotabyssum. 
 
 En auðvitað er ekki bara verið að kaupa hríðskotabyssur. Það er líka verið að kaupa rafbyssur. Eða afsakið, rafvarnarvopn. Svona eins og hríðskotabyssa heitir í rauninni hríðskotavarnarvopn. 

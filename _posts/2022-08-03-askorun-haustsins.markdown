@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Áskorun haustsins"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-08-03 09:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_f79d725cb2
+title: Áskorun haustsins
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2022-08-03
 ---
+
 Nú styttist í að þing verði aftur kallað saman, hvort sem það verður aðeins fyrr vegna skýrslu ríkisendurskoðanda vegna sölu á hlutum í Íslandsbanka eða vegna þess að þing verði kallað saman á hefðbundnum tíma. Íslandsbankaskýrslunni hefur seinkað oftar en einu sinni nú þegar og það tekur því varla að kalla þing saman sérstaklega rétt áður en þing á hvort eð er að hefjast ef skýrslan berst ekki á allra næstu dögum.
 
 Stóru mál haustþingsins hljóta að vera, að auki við Íslandsbankaskýrsluna, efnahagsmálin, kjaramálin, útlendingamálin og loftslagsmálin. 

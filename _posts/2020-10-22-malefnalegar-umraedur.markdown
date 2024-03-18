@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Málefnalegar umræður"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-22 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_cc906d1bdb
+title: Málefnalegar umræður
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2020-10-22
 ---
+
 Ég spurði sveitarstjórnarráðherra í óundirbúnum fyrirspurnum um stefnu stjórnvalda í sveitarstjórnarmálum. Ráðherra svaraði með því að kalla eftir málefnalegum umræðum og kvartaði yfir því að ég mætti í seinna andsvar með skrifaða punkta sem ég hefði greinilega setið yfir kvöldið áður og tekið saman allar þær dylgjur sem ætlað væri að væru öflugar.
 
 Sveitarstjórnarráðherra segist tilbúinn í málefnalegar umræður. Ég spyr:

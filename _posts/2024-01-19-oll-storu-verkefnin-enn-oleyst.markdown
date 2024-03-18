@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Öll stóru verkefnin enn óleyst"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2024-01-19 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ee9b303b86
+title: Öll stóru verkefnin enn óleyst
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2024-01-19
 ---
+
 Staðan er sú að öll stóru verkefnin eru enn óleyst. Þau eru reyndar svo mörg að ég veit ekki hvort ég get talið þau öll upp í þessum pistli, bæði vegna takmarkaðs orðafjölda og vegna þess að það eru sífellt að bætast við ný verkefni. Grindavík er hið augljósa forgangsverkefni þessa dagana, að koma fólki aftur í öruggt húsnæði. Það er flókið verkefni vegna áratugalangrar húsnæðiskrísu á Íslandi eða uppsafnaðari húsnæðisþörf eins og það er kallað á fræðamálinu. 
 
 Húsnæðisvandann má rekja til áranna 2014 til 2017 þegar ferðamönnum fjölgaði úr einni milljón á ári upp í 2,2 milljónir auk þess tilheyrandi fjölda fólks sem kom til landsins til þess að vinna við ferðaþjónustuna. Frá upphafi árs 2014 hefur Íslendingum fjölgað um 21 þúsund manns og erlendum ríkisborgurum fjölgað um 49 þúsund. Af þessum 49 þúsund má telja um 6 þúsund sem hafa fengið vernd og þar af hafa komið rúmlega 3 þúsund frá Úkraínu. 

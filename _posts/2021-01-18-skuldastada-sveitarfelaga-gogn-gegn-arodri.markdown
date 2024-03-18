@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Skuldastaða sveitarfélaga, gögn gegn áróðri."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-01-18 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_da8059618a
+title: Skuldastaða sveitarfélaga, gögn gegn áróðri.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2021-01-18
 ---
+
 Þó nokkuð er fjallað um rekstrarstöðu sveitarfélaga í pólitískri umræðu og beinist sú umfjöllun yfirleitt að Reykjavíkurborg. Þá með upphrópunum eins og “óráðsía” eða “skuldasöfnun á góðæristímum”. En hvað er satt og rétt í þessu? Hvað segja gögnin okkur í raun og veru? Eru þetta bara pólitískar hártoganir eða er reksturinn í alvöru í vanda?
 
 Byrjum á skýrslu eftirlitsnefndar samgöngu- og sveitarstjórnarráðuneytisins með fjármálum sveitarfélaga. Nýjasta skýrslan er frá desember 2019. Þar er að finna tilvitnunina: “Þrátt

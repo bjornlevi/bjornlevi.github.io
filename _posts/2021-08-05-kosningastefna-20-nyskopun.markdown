@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Atvinna og nýsköpun í sjálfvirku og sjálfbæru samfélagi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:20:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_c18d5c2c59
+title: Kosningastefna Pírata 2021 - Atvinna og nýsköpun í sjálfvirku og sjálfbæru samfélagi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2021-08-05
 ---
+
 Við viljum sjálfbært samfélag sem getur tekist á við sjálfvirknivæðingu og fjórðu iðnbyltinguna. Þess vegna leggjum við höfuðáherslu á nýsköpunarlandið Ísland þar sem tækifærin er að finna hjá fólki út um allt land. Það þarf öfluga, sjálfbæra og græna, innviðauppbyggingu í öllum sveitarfélögum landsins til þess að koma til móts við áskoranir framtíðarinnar. Við viljum ná markmiðum um fleiri tækifæri fyrir framtíðarkynslóðir og sjálfbærni landsins með nýsköpun í opinberri starfsemi, með samstarfi við atvinnulífið og með því að gera Ísland að þekkingarmiðstöð fyrir framtíðarsamfélagið. Koma þarf í veg fyrir langtímaatvinnuleysi með því að bjóða upp á nýjar leiðir, efla nýsköpun og fjölga undirstöðum íslensk iðnaðar.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Nýsköpun)

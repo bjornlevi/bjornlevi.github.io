@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Frí í dag!"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-05-03 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_23e8127194
+title: Frí í dag!
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-05-03
 ---
+
 Gleðilegan þriðja maí. Baráttudagur verkalýðsins var á laugardegi í ár og tóku því fá eftir þessum aukafrídegi í dagatalinu. Í ár eru jóladagur og annar í jólum einnig um helgi sem þýðir að þrír frídagar eru ekki á virkum degi í ár. Hins vegar er 17. júní á fimmtudegi og veitir því kærkomið frí undir lok vinnuviku. 
 
 Á Íslandi eru 14 frídagar ásamt tveimur hálfum dögum, sem eru aðfangadagur og gamlársdagur. Tveir af þessum frídögum lenda alltaf á sunnudegi og eru með meðfylgjandi frí á mánudegi til þess að laga það. Raunverulegur fjöldi frídaga er því 12 og tveir hálfir dagar. Í ár eru hins vegar 9 frídagar og tveir hálfir dagar vegna þess að þrír frídagar lenda á helgi. 

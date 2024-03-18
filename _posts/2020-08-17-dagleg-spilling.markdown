@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Dagleg spilling"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-17 19:27:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_076844e42a
+title: Dagleg spilling
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2020-08-17
 ---
+
 Úr [grein Stundarinnar](https://stundin.is/grein/11742/vinafagnadur-radherra-merktur-samstarf-thetta-er-vidskiptadill/): *Aðspurð hvort það sé ekki hjálplegt fyrir kynningarefnið að nafntoguð manneskja eins og ráðherra sé með á myndunum segir Eva að svo geti verið. „Jú, auðvitað er þetta kannski vandmeðfarið og ég hefði átt að hugsa þetta betur,“ segir hún. „Eðlilega hefði ég átt að hugsa út í það, en ég gerði það ekki. Því er verr og miður. En hún á sína reikninga fyrir þessu og ég mína, þannig að það ætti ekki að vera neitt vafamál.“*
 
 Jú, þetta er bara víst vafamál. Það er ekkert nóg að sýna bara reikninga fyrir veitingum og slíku. Icelandair Hotels fengu þarna ráðherra frítt á auglýsingar fyrir sig. Eða var reikningur fyrir því líka? 

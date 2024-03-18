@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Síðasti dansinn?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-07-08 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6674e4ab20
+title: Síðasti dansinn?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2021-07-08
 ---
+
 Sögurnar um dans forsætisráðherra og fjármálaráðherra eru sögur sem má ekki segja. Þær eru mjög vandræðalegar og það væri óviðeigandi að vísa í þær sem táknmynd fyrir núverandi stjórnarsamstarf.  Það kom því mörgum á óvart þegar vinstri og hægri gengu saman út á dansgólfið í upphafi þessa kjörtímabils undir rólegri framsóknartónlist. Á meðan dansfélagarnir keppast við að mæra hvorn annan klóra allir aðrir sér í hausnum yfir þessum undarlega dansi. Það er djævað yfir heilbrigðiskerfið, lindyhoppað yfir Landsrétt, valsað yfir sjávarauðlindina, steppað yfir stjórnarskránna og svo slammað yfir hálendið svo fátt eitt sé nefnt. 
 
 Síðastliðinn þriðjudagur, þegar haldinn var auka þingfundur, var líklega síðasti danstíminn á þessu kjörtímabili. Þar mæltum við Píratar fyrir breytingu við þingfrestun forsætisráðherra. Þar lögðum við til að þingið byði þjóðinni í dans um stjórnarskrána. Dansinn sem þjóðin bað um í atkvæðagreiðslu árið 2012, fyrir níu árum síðan, og hefur ekki enn fengið. Þar gafst þingmönnum tækifæri á að greiða atkvæði um auka þingfundi í ágúst til þess að bæta að minnsta kosti við breytingarákvæði í stjórnarskrána sem krefst ekki alþingiskosninga.

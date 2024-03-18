@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Nei, nei og aftur nei"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-06-02 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_69f9fe9d51
+title: Nei, nei og aftur nei
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2020-06-02
 ---
+
 Liðin vika í þinginu var stórmerkileg. Þar voru samþykkt lög um uppsagnir þar sem ríkið hjálpar fyrirtækjum að segja upp fólki og halda því í vinnu á launum frá ríkinu í uppsagnarfresti. Stefnan er semsagt ekki að viðhalda ráðningarsambandi, eins og markmiðið var áður, heldur slíta því.
 
 Annað sem gerðist sem var líka stórmerkilegt var frumvarp um opinber fjármál, nánar tiltekið er ríkisstjórnin að leggja það til að fresta framlagningu fjármálastefnu og fjármálaáætlunar þangað til í haust. Kannski finnst fullt af fólki það ekki eins merkilegt og mér. Að það sé nú skiljanlegt að í svona óvissuástandi þá geti stjórnvöld ekki lagt fram áætlun og stefnu um fjármál ríkisins. Eða með orðum fjármálaráðherra: “menn treystu sér ekki … að koma með áætlun um næsta ár og árin þar á eftir fyrr en í haust”.

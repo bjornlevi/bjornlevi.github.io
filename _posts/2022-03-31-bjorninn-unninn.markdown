@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Björninn unninn"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-03-31 08:02:00 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_7580e22ab4
+title: Björninn unninn
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2022-03-31
 ---
+
 Á dögunum birtist grein eftir Óla Björn Kárason í Morgunblaðinu um svokallaðar „málfundaæfingar í þingsal,” þar sem hann kvartaði undan því að þingmenn stjórnarandstöðuflokkanna fullnýti þingfundartíma til að ræða málin og koma sjónarmiðum sínum á framfæri. Í mínum bókum kallast það einfaldlega að vinna vinnuna sína, en gott og vel. Greinin er að mörgu leyti áhugaverð, sérstaklega þegar hún er lesin og skoðuð í víðara samhengi. 
 
 Þegar þjóðin hefur gengið til Alþingiskosninga og valið sér fulltrúa, myndar meirihluti kjörinna þingmanna ríkisstjórn samkvæmt samkomulagi sín á milli. Í krafti þess meirihluta öðlast þeir næstum allt vald sem í boði er, þar á meðal hið eftirsótta dagskrárvald – sem skiptir öllu máli á þingi. Um leið og ríkisstjórnarflokkarnir öðlast fullkomið vald til að stýra því hvaða mál komast á dagskrá geta þeir beitt því eins og þeim sýnist. Það gera þeir oftast með því að  tryggja að öll þeirra eigin mál komist á dagskrá nefnda, en láta öll mál frá minnihlutanum „deyja í nefnd,“ án tillits til innihaldsins. Eini glugginn sem stjórnarandstaðan hefur til að koma sínum málum að í fyrstu umræðu opnast ekki fyrr en búið er að ræða öll ríkisstjórnarmálin – og þá aðeins ef eitthvað er eftir af þingfundartíma.

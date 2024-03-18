@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Stefnuleysi stjórnvalda"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-03-24 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_5f95b1eed0
+title: Stefnuleysi stjórnvalda
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2021-03-24
 ---
+
 “Alþingi hefur því nýlokið afgreiðslu á ítarlegri umfjöllun um stefnumörkun opinberra fjármála” stendur í fjármálaáætlun stjórnvalda – Nei, bara alls ekki. Ekkert í yfirferð þingsins var ítarleg umfjöllun um stefnumörkun opinberra fjármála. Eins og venjulega þá vantaði kostnaðargreiningu á stefnu stjórnvalda. Það vantaði ábatagreiningu á stefnu stjórnvalda, en eins og forseti veit þá snýst ábatagreining um að stjórnvöld sýni okkur fram á að stefna stjórnvalda skili okkur fram á veginn en sé ekki tilgangslaus eyðsla á almannafé. Það vantaði líka nákvæmari forgangsröðun verkefna. Það vantaði alla stefnu stjórnvalda í síðustu fjármálaáætlun. Engin stefna um hvernig við eigum að vinna okkur út úr efnahagsáhrifum Kófsins, stjórnvöld skiluðu auðu.
 
 Og áður en fólk byrjar að tala um alla milljarðana sem hafa verið notaðir í viðbrögð við því ástandi sem Kófið hefur valdið þá er stór hluti þeirra fjármuna sjálfsögð viðbrögð vegna atvinnuleysisbóta eða hlutabóta, eða eitthvað um 65 milljarðar króna. Til viðbótar voru svo ýmis úrræði sem voru alls ekkert sjálfsögð eins og uppsagnarstyrkir upp á rúmlega 10 milljarða. Aðrar ráðstafanir eru um 44 milljarðar, miðað við stæstu stuðningsúrræði ríkisstjórnarinnar í rammagrein 2 á bls. 32 í fjármálaáætlun.

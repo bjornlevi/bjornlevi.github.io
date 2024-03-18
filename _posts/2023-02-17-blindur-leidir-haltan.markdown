@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Blindur leiðir haltan"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-03-17 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_00c1b43b7f
+title: Blindur leiðir haltan
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2023-03-17
 ---
+
 Hið öfugsnúna orðatiltæki, að blindur leiði haltan, lýsir ríkisstjórnarsamstarfinu í dag ansi vel. Það er sama hvar er litið. Í útlendingamálinu sjá þau ekki allar umsagnirnar sem vara við stjórnarskrár- og mannréttindabrotum. Í Íslandsbankamálinu sáu þau ekki að fjármálaráðherra var að selja föður sínum hlut í bankanum. Í Lindarhvolsmálinu sjá þau ekki óháð og ítarlegt lögfræðiálit sem segir að þeim sé skylt að birta greinargerð setts ríkisendurskoðanda. Það er sérstaklega undarlegt því það er meira að segja búið að birta lögfræðiálitið á vefsíðu Lindarhvols þar sem allir geta lesið að “skylt sé [...] að veita almenningi aðgang að skýrslu setts ríkisendurskoðanda” og að ekki verði séð “að greinargerðin hafi að geyma upplýsingar af því tagi sem heimilt er [...] að takmarka aðgang að.”
 
 Það á semsagt að birta skýrsluna og ekki eyða út neinu í henni fyrir birtingu.

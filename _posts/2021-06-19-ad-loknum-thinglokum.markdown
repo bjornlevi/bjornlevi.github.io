@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Að loknum þinglokum"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-06-19 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_2fd84f5cfa
+title: Að loknum þinglokum
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-06-19
 ---
+
 Ég veit, það nennir enginn langlokum um þingið eftir hin venjulega vesen og sýndarmennsku sem viðgengst alla jafna í þinglokum. Formúlan er kunnugleg: Málþóf hjá stjórnarandstöðu af því að stjórnarflokkarnir vilja ekki semja og/eða öfugt, stjórnin vill ekki semja út af fáránlegum kröfum stjórnarandstöðunnar. Sem betur fer er þetta bara 2700 tákna grein, í mesta lagi hálf langloka. 
 
 Það er ástæða fyrir því að þingið starfar eins og það gerir. Slæm ástæða. Ef fólki tekst ekki að ná sínu fram með rökum þá beitir það ofbeldi. Hér er alls ekki átt við líkamlegt ofbeldi, en það hefur alveg jaðrað við það. Ég hef séð fólk öskra á hvort annað, skella hurðum, beita hótunum og þess háttar. Hér er átt við stofnanalegt ofbeldi.

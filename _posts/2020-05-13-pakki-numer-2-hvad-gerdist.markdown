@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Pakki númer 2, hvað gerðist?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-05-13 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_2e9b39376d
+title: Pakki númer 2, hvað gerðist?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2020-05-13
 ---
+
 Það er langt frá því að vera einfalt að fylgjast með því hvað er í gangi varðandi björgunarpakka stjórnvalda. Í fyrsta lagi koma stjórnvöld með ákveðnar tillögur. Síðan gerir Alþingi breytingar á þeim þar sem þær eru annað hvort samþykktar eða þeim hafnað. Til þess að gera málin enn flóknari þá eru björgunarpakkarnir nú orðnir tveir og von á þeim þriðja. Það veldur ákveðnu samhengisleysi, bæði í tillögum og umræðu. Hvernig passa aðgerðirnar saman og af hverju eru breytingum sem var hafnað í fyrsta pakka allt í einu orðinn hluti af öðrum pakkanum?
 
 Fyrsti pakkinn innihélt aðgerðir eins og hlutastörf, brúarlán, frestun skattgreiðslna, laun í sóttkví, barnabótaauka, úttekt séreignarsparnaðar, styrki til ferðaþjónustu, fjárfestingarátak og útvíkkun á “allir vinna”. Annar pakkinn bætti við lokunarstyrkjum, stuðningslánum, tekjuskattsjöfnun, sumarúrræði fyrir námsmenn, sértækur stuðningur til sveitarfélaga, framlög til geðheilbrigði, virkni á vinnumarkaði, eflingu matvælaframleiðslu, álagsgreiðslur til heilbrigðisstarfsfólks og sókn í nýsköpun. 

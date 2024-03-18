@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Jólasveinninn er ekki til"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-12-27 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_70e95111d8
+title: Jólasveinninn er ekki til
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2021-12-27
 ---
+
 Við vitum það öll. Foreldrar setja dót í skóinn hjá börnunum sínum. Jólasveinninn er ekki til en við þykjumst samt, vegna hátíðar, hefðar og barna. En hvers vegna? Er það út af þjóðsögum Jóns Árnasonar frá 1862? Er það út af myndskreytingum Tryggva Magnússonar frá 1932? Er það út af hefðinni frá fyrri helmingi síðustu aldar að setja í skóinn? 
 
 Við höldum gleðileg jól, en ekki Kristsmessu samt eins og margar aðrar þjóðir. Jól eru mun eldri hátíð en Kristsmessa enda er ansi langt síðan mannveran tók eftir því að þetta var um það leyti sem dagurinn fór að lengjast aftur á norðurhveli jarðar. Þeirri uppgötvun fylgdi örugglega ákveðin gleði og hátíð, þó hún nefndist örugglega ekki jól fyrr en seinna. Við ákváðum augljóslega að breyta ekki gömlum siðum þrátt fyrir að einhver ný trúarbrögð væru að ryðja sér til rúms og yfirtaka gömlu jólahefðina.

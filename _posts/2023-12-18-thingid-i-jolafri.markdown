@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Þingið í jólafrí"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2023-12-18 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_bddd4170fb
+title: Þingið í jólafrí
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2023-12-18
 ---
+
 Nú er þingið komið í jólafrí til 22. janúar. Ansi langt finnst held ég flestum. Fríið er að vísu aðeins styttra þar sem fundir nefnda hefjast viku fyrr eða 15. janúar. Það er samt næstum mánuður í frí.
 
 Af hverju fer þingið í svona langt jólafrí (svo ekki sé minnst á sumarfríið)? Er ekki nóg að gera? Ég hef oft heyrt þessar spurningar og ég skil þær mjög vel. Ástæðurnar fyrir löngu fríi eru nokkrar og misgóðar. Eða kannski misslæmar. 

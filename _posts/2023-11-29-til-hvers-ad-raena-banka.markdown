@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Til hvers að ræna banka?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2023-11-29 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_932ab2e818
+title: Til hvers að ræna banka?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2023-11-29
 ---
+
 Til hvers að ræna banka þegar hægt er að búa til VSK númer?
 
 Ársskýrslur skattrannsóknarstjóra frá árinu 2013 eru aðgengilegar á vef stofnunarinnar og í þeim öllum er bent á skattsvik með orðunum: “gefnir eru út tilhæfulausir reikningar sem ganga kaupum og sölum í þeim tilgangi að ná út fjármunum úr ríkissjóði í formi innskatts og mál þar sem tekjum er skotið undan í gegnum flókin net aflandsfélaga”.

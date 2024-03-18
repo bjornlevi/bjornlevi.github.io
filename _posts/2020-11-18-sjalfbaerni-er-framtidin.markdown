@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Sjálfbærni er framtíðin"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-11-18 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ce7eb89b8d
+title: Sjálfbærni er framtíðin
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2020-11-18
 ---
+
 Haldin var sérstök umræða á þinginu í gær. Við Sara Elísa Þórðardóttir pældum aðeins í því máli og Sara flutti ræðunar í umræðunni.
 
 Sjálfbærni er lykilorð framtíðarinnar. Án sjálfbærni göngum við á auðlindir jarðar og tækifæri komandi kynslóða. Við verðum um það bil tvöfalt fleiri á þessari jörð eftir 30 ár en við vorum fyrir 30 árum síðan. Fólk sem fæddist árið 1990 mun búa í helmingi fjölmennari heimi áður en það fer á eftirlaun.

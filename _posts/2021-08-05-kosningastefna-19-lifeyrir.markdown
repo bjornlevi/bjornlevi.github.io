@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Lífeyrissjóðir"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:19:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_b2dc9be971
+title: Kosningastefna Pírata 2021 - Lífeyrissjóðir
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2021-08-05
 ---
+
 Enginn á að þurfa að líða skort, allra síst á efri árum. Lífeyrissjóðirnir hafa gegnt afar mikilvægu hlutverki í íslensku samfélagi en lífeyriskerfið okkar er ekki fullkomið eins og sést á stöðugum hækkunum á iðgjaldi og áhrifum á samkeppni. Við viljum meira gagnsæi í starfsemi lífeyrissjóða, meira lýðræði og aðhald með stjórn þeirra og skoða þarf alvarlega hvort núverandi kerfi geti staðið undir sér til framtíðar.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Lífeyrissjóðir)

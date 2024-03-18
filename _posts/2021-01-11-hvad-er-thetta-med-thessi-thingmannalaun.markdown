@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Hvað er þetta með þessi þingmannalaun?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-01-10 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_7d96d675aa
+title: Hvað er þetta með þessi þingmannalaun?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2021-01-10
 ---
+
 Laun þingmanna og ráðherra hafa lengi verið vesen. Laun þeirra virðast hækka oft úr öllum takti við almenna launarþróun. Þar að auki voru þingmenn og ráðherrar með sérstök lífeyrisréttindi, sem voru blessunarlega lögð af í hruninu. Við sitjum þó uppi með þau réttindi sem áunnist höfðu því miður.
 
 Það er ágætlega hjálplegt að bera saman laun tveggja hópa sem hafa ekki verkfallsrétt. Þingmenn og lífeyrisþega samkvæmt almannatryggingum. Lífeyrir almannatrygginga á samkvæmt lögum að hækka í takti við launaþróun en þó aldrei minna en verðbólguþróun. Vegna þess hvernig lagagreinin um það er orðuð þá hefur lífeyrir almannatrygginga ávallt hækkað í upphafi árs samkvæmt spá um hver launaþróun eða verðbólga verður komandi ár. Raunin hefur hins vegar verið sú að launaþróun hefur orðið mun meiri en gert var ráð fyrir. Því hafa kjör lífeyrisþega almannatryggina rýrnað í samanburði við almenna launaþróun frá aldamótum.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Skiljanlegt ofbeldi?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-12-29 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6ad3e2b450
+title: Skiljanlegt ofbeldi?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-12-29
 ---
+
 Hvernig myndir þú bregðast við ef lögreglan myrti reglulega vini þína, kunningja, félaga eða fólk sem þú samsamar þig við? Myndir þú bregðast við með mótmælum? Vonandi. Myndir þú bregðast við með ofbeldi? Líklega ekki. En við vitum alveg að einhver gætu gert það og við myndum jafnvel skilja af hverju. Skiljanlegt, en ekki réttlætanlegt.
 
 Hvernig myndir þú bregðast við ef forsetinn þinn rekur upp neyðaróp um að verið sé að stela kosningum og grafa undan lýðræðinu? Myndir þú bregðast við með mótmælum? Vonandi. Myndir þú bregðast við með ofbeldi? Líklega ekki. En við vitum alveg að einhver gætu gert það og við myndum jafnvel skilja af hverju. Skiljanlegt, en ekki réttlætanlegt.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Helvítisvist"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-05-28 06:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_60aa0b55df
+title: Helvítisvist
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2022-05-28
 ---
+
 Það er sérstakur staður í helvíti fyrir fólk sem velur að vera hlutlaust á tímum siðferðislegra átaka. Það er sérstakur staður í helvíti fyrir konur sem hjálpa ekki öðrum konum. Það er sérstakur staður í helvíti fyrir fólk sem misnotar börn. Það er sérstakur staður í helvíti fyrir fólk sem stelur sannleikanum. Það er sérstakur staður í helvíti fyrir fólk sem selur sál sína fyrir völd og vegtyllur. Það er sérstakur staður í helvíti fyrir rauðvínsglös sem passa ekki í uppþvottavél. Það er sérstakur staður í helvíti fyrir manneskjuna sem fann upp á því að skrifa ógeðslega langt intro fyrir allar uppskriftir online. Það er sérstakur staður í helvíti fyrir fólk sem snýr út úr orðum annarra. 
 
 Fólk hefur gripið til þessa orðatiltækis við ýmis tækifæri. Sum alvarlegri en önnur. Nýjasta dæmi þess að það sé gripið til þessa orðatiltækis tengist því að það á að senda til baka vel rúmlega 200 umsækjendur um alþjóðlega vernd. Hvers vegna er tilefni til þess að grípa til þessara orða við það tilefni?

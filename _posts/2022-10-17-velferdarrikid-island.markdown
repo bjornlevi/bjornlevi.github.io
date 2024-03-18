@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Velferðarríkið Ísland?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-10-17 09:02:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_3a1fc3a5c0
+title: Velferðarríkið Ísland?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2022-10-17
 ---
+
 Stjórnvöld nota stór orð um velferð á Íslandi í fjárlagafrumvarpi næsta árs. Þar er talað um sterka stöðu heimilanna, auknar ráðstöfunartekjur og áætlanir um að verja afkomu og lækka verðbólgu. Nánar tiltekið að: “áfram staðinn vörður um viðkvæma hópa og unnið gegn verðbólgu með því að bæta afkomu ríkissjóðs”. 
 
 En hvernig er áfram verið að standa vörð um viðkvæma hópa? Jú, lífeyrir almannatrygginga er hækkaður til jafns við verðbólgu (sem á hvort eð er að gera lögum samkvæmt), húsnæðisbætur eru hækkaðar um 10% (sem er minni en verðbólguhækkun) og gefinn var sérstakur barnabótaauki (sem er lægri en verðbólguhækkunin líka). Hérna er engin pólitík, þetta er einfaldur samanburður á tölum. 

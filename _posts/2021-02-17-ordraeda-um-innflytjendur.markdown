@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Orðræða um innflytjendur"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-02-17 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_1d0a501743
+title: Orðræða um innflytjendur
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-02-17
 ---
+
 Í gær var umræða um málefni innflytjenda. Einfalt mál um starfsemi fjölmenningarseturs. Án þess að fara nánar í þá umræðu sem þar fór fram þá er eitt sem þarf að bæta við - tillitssemi.
 
 Innflytjendur eru fjölbreyttur minnihlutahópur í íslensku samfélagi. Hvað þá sá hópur sem hefur komið hingað vegna ofsókna í heimalandi sínu. Þetta er hópur sem getur illa tekið þátt í opinberri umræðu og erfiðlega svarað fyrir sig, af augljósum ástæðum. 

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Utanríkismál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:24:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_797f9c58fe
+title: Kosningastefna Pírata 2021 - Utanríkismál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2021-08-05
 ---
+
 Ísland hefur sterka rödd á alþjóðasviðinu. Við Píratar viljum nýta hana til að fara fram með góðu fordæmi. Ísland á að beita sér fyrir eflingu og verndun mannréttinda í alþjóðasamstarfi og vera leiðandi í baráttunni gegn loftslagsbreytingum. Píratar vilja tryggja að allir milliríkjasamningar séu opnir og aðgengilegir og beint lýðræði verði haft að leiðarljósi við meiriháttar ákvarðanir um utanríkismál.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Utanríkismál)

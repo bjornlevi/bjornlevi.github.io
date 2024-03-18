@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Lykillinn að öllu"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-06 12:02:00 +0000
-categories: visir
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_e0626654e0
+title: Lykillinn að öllu
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-08-06
 ---
+
 Píratar hafa lagt fram [kosningastefnu](https://piratar.is/kosningastefna/) fyrir næsta kjörtímabil. Það ætti ekki að koma neinum á óvart að við Píratar leggjum mikla áherslu á nýja stjórnarskrá, grundvallaða á frumvarpi stjórnlagaráðs. Ástæðurnar fyrir því eru fjölmargar en á sama tíma þá skil ég gagnrýni um að það sé svo margt annað mikilvægt sem þarf að gera. Baráttunni við Covid er ekki lokið og faraldurinn kallar á enduruppbyggingu margra kerfa okkar. Heilbrigðiskerfið er að hruni komið - þó það sé nýtt sjúkrahús á leiðinni sem mun bæta vinnuaðstöðu mjög mikið þá lagar bygging ekki mönnunarvanda. Það eru gríðarlegar áskoranir í loftslagsmálum, menntamálum, samgöngumálum, atvinnumálum, húsnæðismálum og í of mörgum öðrum málaflokkum en hægt er að telja upp. Hvers vegna er þá svona mikil áhersla á nýja stjórnarskrá?
 
 ### Hvað þýðir ný stjórnarskrá?

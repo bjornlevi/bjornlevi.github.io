@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Pólitík Pírata"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-12-18 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_7341a3ce1a
+title: Pólitík Pírata
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2020-12-18
 ---
+
 Í [umræðum um fjármálaáætlun](https://www.althingi.is/altext/upptokur/raeda/?raeda=rad20201217T143906&horfa=1) í gær  setti Brynjar Níelsson sig í spor kjósanda Pírata og sagðist ekki skilja pólitík okkar. Hver pólitísk stefna Pírata væri eiginlega. Honum fannst eitthvað mikið talað um "formið" og of lítið talað um pólitík í ræðunni minni.
 
 Ég skil afskaplega vel af hverju hann er eitthvað ruglaður í ríminu því pólitík okkar er allt öðruvísi en Sjálfstæðisflokksins. Ástæðan fyrir því að ég talaði svona mikið um formið er vegna þess að það skiptir svo miklu máli að gera hlutina rétt. Þar hjálpar formið og ferlarnir að koma í veg fyrir að mistök endurtaki sig ekki. 

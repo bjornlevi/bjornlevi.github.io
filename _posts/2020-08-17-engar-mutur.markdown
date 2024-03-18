@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Engar mútur"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-17 08:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_1cbb6a8a21
+title: Engar mútur
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-08-17
 ---
+
 Engar mútur segir Þorsteinn Már. Óheppinn með starfsfólk. Þetta voru bara einhverjar greiðslur til ráðgjafa. Líklega líka greiðslurnar sem voru greiddar beint inn á persónulega reikninga ráðamanna.
 
 Það er hægt að spyrja sig einfaldrar spurningar, er hægt að búast við öðru? Myndum við búast við því að fólk myndi bara gangast við sök og játa? Ef við búumst ekki við því, af hverju gerum við það? Er það vegna þess að við myndum sjálf ekki gangast við sök í sömu aðstæðum? Ef við búumst við því að fólk gangist að sök, hvers vegna er það alla jafna ekki gert þegar um er að ræða fólk í valdastöðum?

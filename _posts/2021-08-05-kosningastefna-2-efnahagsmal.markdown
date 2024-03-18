@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Aðgerðaráætlun í efnahagsmálum"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:02:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_8205f5d2d0
+title: Kosningastefna Pírata 2021 - Aðgerðaráætlun í efnahagsmálum
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2021-08-05
 ---
+
 Píratar tala fyrir nýrri sýn á hagkerfið. Sýn sem vefur saman samfélag og náttúru þannig að hagkerfið taki tillit til fleiri þátta en þeirra sem eru með verðmiða. Því stefnum við að sjálfbæru velsældarhagkerfi, samfélagi þar sem öll geta blómstrað á eigin forsendum í sátt við umhverfi sitt. Við viljum hugsa til framtíðar og tryggja jöfn tækifæri í sjálfvirknivæddu samfélagi, þar sem skapandi lausnir ráða för í opnu, stafrænu og lýðræðislegu samfélagi. Baráttan gegn spillingu, fákeppni, einokun og peningaþvætti mun leika þar lykilhlutverk.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Efnahagsmál)

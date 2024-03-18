@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Lagabrotastarfsemi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-02-08 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_699f385a78
+title: Lagabrotastarfsemi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2023-02-08
 ---
+
 Í frétt mbl.is frá 18. janúar í fyrra er greint frá því hvernig eftirlitsstofnun EFTA taldi íslenska ríkið brotlegt við átta greinar EES-samningsins “um mat á um­hverf­isáhrif­um þegar það breytti lög­um um fisk­eldi í októ­ber 2018.” Niðurstaðan kom í kjölfar bráðabirgðaniðurstöðu frá árinu 2020 sem íslensk stjórnvöld virðast hafa hunsað algerlega og tróðu í gegn lögum á einum degi til þess að “redda málum”.
 
 Nú er komin út kolsvört skýrsla ríkisendurskoðunar um “veikburða og brotakennda” stjórnsýslu og eftirlit með sjókvíaeldi þar sem raktar eru 23 ábendingar ríkisendurskoðunar um hinar ýmsu brotalamir. Margar af ábendingunum snúast einmitt um leyfisveitingu, sem brotamálin gegn EES snerust einmitt um.

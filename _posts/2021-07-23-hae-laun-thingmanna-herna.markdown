@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Hæ, laun þingmanna hérna."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-07-23 11:00:00 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_aab2d7f978
+title: Hæ, laun þingmanna hérna.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-07-23
 ---
+
 Fyrsti launaseðillinn minn frá Alþingi greiddi mér mánaðarlaun upp á 1.101.194 kr. Þá var árið 2016. Um síðustu mánaðarmót hækkuðu laun þingmanna enn og aftur og nú eru mánaðarlaunin orðin 1.285.411 kr. á mánuði og hækkuðu um 6,2% frá launum síðasta árs sem voru 1.210.368 kr. Samtals er hækkunin 16,7% frá árinu 2016, en daginn eftir kosningarnar það árið ákvað kjararáð að hækka laun þingmanna um [44,3%](https://kjarninn.is/frettir/2020-04-08-laun-thingmanna-og-radherra-haekkudu-um-63-prosent/). Á sama tíma hefur þróun verðlags verið 14,7%. 
 
 Ég vil byrja að taka það fram að mér finnst aðferðin sem á að vera notuð til þess að reikna þessar launabreytingar vera góð - en hún snýst um að laun þingmanna hækka um meðaltal þess sem regluleg laun starfsmanna ríkisins hækka á árinu áður, samkvæmt útreikningum Hagstofunnar. Hér er ekki um neina geðþóttaákvörðun að ræða heldur á þetta að vera einföld stærðfræði. Þessi hækkun er því að segja okkur að á síðasta ári hækkuðu laun ríkisstarfsmanna að meðaltali um 6,2%. Það út af fyrir sig er mjög áhugavert og tilefni til nánari skoðunar.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Hertar aðgerðir á landamærunum"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-04-23 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_1f39dfdd3a
+title: Hertar aðgerðir á landamærunum
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2021-04-23
 ---
+
 Í lok janúar voru samþykkt lög um að ríkisstjórnin gæti vísað ferðamönnum í sóttvarnahús ef ferðamaður gæti ekki fylgt lögum og reglum um sóttkví eða einangrun. Allir ættu að vita hvað gerðist í kjölfarið, stjórnvöld reyndu að skikka alla í sóttvarnahús en töpuðu því fyrir dómstólum. Hér skiptir mjög miklu máli að allar staðreyndir málsins séu á hreinu því nokkuð hefur verið um misvísandi upplýsingar hvað þetta varðar. Til að byrja með voru lögin samþykkt með þeim heimildum sem stjórnvöld báðu um. Stjórnvöld vildu geta sett fólk í sóttvarnarhús ef “í ljós kemur að hann hefur ekki fylgt þeim [reglunum], getur sóttvarnalæknir ákveðið að hann skuli settur í sóttkví eða einangrun á sjúkrahúsi eða í sóttvarnahúsi eða gripið til annarra viðeigandi aðgerða”. Það sjá allir sem vilja að þetta var svo ekki það sem stjórnvöld reyndu að gera þegar allt kom til alls og brutu þannig þær heimildir laga sem ríkisstjórnin sjálf bað um.
 
 Aðfaranótt sumardagsins fyrsta voru samþykktar nýjar heimildir í lögum þar sem gefin var heimild til þess að skipa fólk í sóttkví í sóttvarnahúsi ef það kæmi frá svokölluðum hááættusvæðum. Það eru til málefnaleg rök fyrir hörðum aðgerðum á landamærunum og Píratar eru sammála því að það eigi að vera hægt að grípa til slíkra úrræða þegar aðstæður leyfa. Valið snýst um frjálsar ferðir innanlands á móti frjálsum ferðum milli landa. Augljóslega vegur frelsi til ferða innanlands meira og í því faraldursástandi sem nú ríkir þá er það ekki ómálefnalegt að bæta sóttvarnarhúsi við ferðatíma á milli landa. Það ætti meira að segja að vera jákvætt fyrir ferðamenn, sem geta þá notið ferðafrelsis innanlands líka.

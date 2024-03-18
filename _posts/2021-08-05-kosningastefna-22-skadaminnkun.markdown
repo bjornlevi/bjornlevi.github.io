@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Skaðaminnkun"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:22:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_1bd9834813
+title: Kosningastefna Pírata 2021 - Skaðaminnkun
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2021-08-05
 ---
+
 Við eigum að koma fram við neytendur vímuefna sem manneskjur, ekki sem glæpamenn. Fólk með fíknivanda ber að nálgast af nærgætni, virðingu og með skaðaminnkun að leiðarljósi. Skaðaminnkun vísar til stefnu, úrræða og aðgerða sem vinna að því að minnka neikvæð heilsufarsleg, félagsleg og efnahagsleg áhrif af neyslu vímuefna í stað þess að reyna að leysa vandamálin með bönnum og refsingum. Píratar hafa frá upphafi barist fyrir skaðaminnkun, enda skilar hún árangri.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Skaðaminnkun)

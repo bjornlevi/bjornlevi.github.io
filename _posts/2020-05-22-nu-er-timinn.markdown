@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Nú er tíminn"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-05-22 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_80b65dcd00
+title: Nú er tíminn
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2020-05-22
 ---
+
 Undanfarna mánuði hafa komið hinir ýmsu björgunarpakkar frá stjórnvöldum og er von á einum enn á næstu dögum. Markmið pakkanna hefur aðallega verið að vernda fyrirtæki og störf. Langflestir milljarðarnir fara þangað. Fyrst var áherslan á hlutastarfaleiðina en nú á að hætta henni og hjálpa fyrirtækjum að segja upp starfsfólki. Það þýðir að nú er tíminn til þess að koma með áætlun fyrir næstu mánuði og ár, að setja stefnu út úr ástandinu. 
 
 Það er gert í fjármálastefnu og fjármálaáætlun. Þar setja stjórnvöld sér takmörk og markmið til næstu ára. Í fjármálastefnu er að finna loforð stjórnvalda um þróun skulda og afkomu, eða í öðrum orðum hversu miklar skuldir næstu kynslóðir þurfa að borga. Án fjármálastefnu erum við í vanda vegna þess að vaninn í íslenskum stjórnmálum er að biðja um fjárheimildir eftirá, þegar búið er að taka lánin eða eyða peningnum. Svona svipað og ef ég stel af þér pening og spyrji svo hvort ég megi ekki eiga hann. Þegar stjórnvöld gera það þá er það brot á stjórnarskrá en “bara” brot á hegningarlögum ef ég eða þú gerum svoleiðis.

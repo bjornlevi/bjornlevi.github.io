@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Húsnæðismál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:15:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_d1352d1632
+title: Kosningastefna Pírata 2021 - Húsnæðismál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-08-05
 ---
+
 Öruggt húsaskjól er grunnþörf. Píratar telja að stjórnvöld eigi að beita sér af krafti í húsnæðismálum og sjá til þess að landsmenn hafi þak yfir höfuðið. Píratar vilja tryggja fólki raunverulegt val um búsetu sína; hvort sem það er í gegnum eign, leigu eða úrræði á vegum hins opinbera. Því þarf að stórefla stöðu leigjenda, byggja ódýrar íbúðir fyrir ungt fólk og aðra utan húsnæðismarkaðar og tryggja hvata fyrir fólk til að setjast að í dreifðari byggðum landsins. Gætum sérstaklega að húsnæðisöryggi þeirra sem Covid-19 hafði mikil áhrif á.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Húsnæðismál)

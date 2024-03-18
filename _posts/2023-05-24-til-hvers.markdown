@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Til hvers?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-04-26 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_57d5c12109
+title: Til hvers?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2023-04-26
 ---
+
 Spurningin er einföld. Til hvers er þessi ríkisstjórn? Ég verð að viðurkenna að ég veit ekki svarið við þessari spurningu þó ég hafi ýmsar tilgátur. En mér finnst spurningin mikilvæg af því að við eigum alltaf að vita hvað fólkið með völdin er að gera. Til hvers þarf þetta fólk að hafa völd?
 
 Það er ekki til þess að stunda lýðræði. Það var mjög augljóst eftir síðustu kosningar og það sem gerðist í Borgarnesi. Það er mjög augljóst þar sem ríkisstjórnin situr enn á niðurstöðum heillar þjóðaratkvæðagreiðslu. Og þó það sé ekki beinlínis á herðum þessarar ríkisstjórnar, þá var lofað atkvæðagreiðslu um áframhaldandi aðildarviðræður við ESB. Báðir flokkarnir sem brutu það loforð á sínum tíma sitja einnig núna í ríkisstjórn.

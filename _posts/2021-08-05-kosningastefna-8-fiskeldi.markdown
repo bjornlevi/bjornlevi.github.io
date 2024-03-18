@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Fiskeldi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:08:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_c438c51834
+title: Kosningastefna Pírata 2021 - Fiskeldi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-08-05
 ---
+
 Fiskeldi er áhættusöm atvinnugrein sem getur haft neikvæð áhrif á vistkerfi, og þá sérstaklega í sjókvíaeldi. Gæta þarf sérstaklega að áhrifum fiskeldis á umhverfið. Við viljum að ítrustu varúðar sé gætt, að eftirlit sé stóraukið og að strangar kröfur verði um aðbúnað fiska og að náttúran fái að njóta vafans. Fiskeldi er tímabundin lausn í matvælaframleiðslu þangað til kjötrækt verður samkeppnishæf. Við teljum ekki góðar forsendur fyrir því að auka fiskeldi í sjó og viljum að það sjókvíaeldi sem fyrir er fari fram í lokuðum kvíum.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Fiskeldi)

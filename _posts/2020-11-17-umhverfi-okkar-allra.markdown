@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Umhverfi okkar allra"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-11-17 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_4dedebe905
+title: Umhverfi okkar allra
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2020-11-17
 ---
+
 26% af öllu snjólausu landi í heiminum er notað sem beitiland. 33% af öllu ræktarlandi er notað til þess að fóðra dýr. Staðan eins og hún er í dag er ekki sjálfbær fyrir umhverfi okkar allra. Stöðugt meira landi er breytt í ræktarland fyrir stöðugt fleira fólk. Um 2050 verða um 10 milljarðar manns á jörðinni. 
 
 Á undanförnum þremur áratugum hefur mannfólki fjölgað um tvo og hálfan milljarð og á næstu þremur mun okkur fjölga um annan tvo og hálfan milljarð í viðbót eða svo. Það þýðir tvöföldun á mannfjölda á rétt rúmri hálfri öld. Fólk sem fætt er árið 1990 verður ekki komið á eftirlaun þegar sú þróun hefur átt sér stað. 

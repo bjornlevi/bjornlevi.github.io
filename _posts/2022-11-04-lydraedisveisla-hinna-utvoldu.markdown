@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Lýðræðisveisla hinna útvöldu."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-11-04 09:02:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_142679ee59
+title: Lýðræðisveisla hinna útvöldu.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2022-11-04
 ---
+
 “Við erum með bestu hugmyndirnar” sagði Guðlaugur Þór þegar hann kynnti framboð sitt til formanns Sjálfstæðisflokksins sem fram fer "í stærstu lýðræðisveislu landsins" næstu helgi. Reyndar er lýðræðisveislan ekki öllum flokksmönnum aðgengileg. Lýðræðisveislan er fyrir útvalda fulltrúa.
 
 Snilldarhugmyndir Sjálfstæðisflokksins hafa falist í því að hlutast til um að skipa útvalda flokkshesta í stöðu dómara, selja útvöldum ríkiseignir, forða eigum útvaldra úr sjóðum rétt fyrir hruni ... og hrunið sjálft. Það er ekki snefill af efa í huga Guðlaugs Þórs að engu þarf að breyta.

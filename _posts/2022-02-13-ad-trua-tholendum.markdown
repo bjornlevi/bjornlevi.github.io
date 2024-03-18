@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Að trúa þolendum."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-02-13 08:02:00 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_5c752f63a2
+title: Að trúa þolendum.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2022-02-13
 ---
+
 Um daginn deildi ég grein með skilaboðunum “ég trúi þolendum”. Áhugaverðar umræður spruttu upp í kjölfarið á því sem gefur mér tilefni til þess að spyrja spurningarinnar hvað það þýðir að trúa þolendum.
 
 Greinin sem ég deildi var eftir starfsmann á skrifstofu Eflingar og meintar ofsóknir formanns og framkvæmdastjóra gagnvart starfsfólki skrifstofunnar. Að segjast trúa þolendum þýðir fyrir mig að ég trúi því sjónarmiði. Á sama tíma þá þýðir það líka að ég trúi útskýringum formanns og framkvæmdastjóra um hvernig það voru ekki ofsóknir. Ég trúi því á þann hátt að það hafi ekki endilega verið markmið þeirra þó starfsfólkið upplifði ofsóknir.

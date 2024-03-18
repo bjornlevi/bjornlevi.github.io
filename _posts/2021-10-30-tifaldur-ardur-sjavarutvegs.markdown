@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Tífaldur arður sjávarútvegs."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-10-30 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_98780d7b0a
+title: Tífaldur arður sjávarútvegs.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-10-30
 ---
+
 Nýr leiðari [Kjarnans](https://kjarninn.is/skodun/er-i-lagi-ad-sjavarutvegur-borgi-meira-i-ard-en-skatta/) spyr spurningarinnar hvort það sé eðlilegt að sjávarútvegurinn borgi meira í arð en skatta. Já, vissulega getur það verið eðlilegt. En eðlilegri spurning finnst mér vera hvort arðgreiðslur sjávarútvegsins eigi að vera tífalt hærri en samfélagsins?
 
 Í leiðara kjarnans er fjalla um vandamálið:

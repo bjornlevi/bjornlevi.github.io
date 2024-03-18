@@ -1,11 +1,16 @@
 ---
-layout: posts
-title:  "Við erum Píratar"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-og_image: https://bjornlevi.github.io/assets/images/halldor-piratar.jpeg
-date:   2020-10-22 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_4d465ba4ac
+title: Við erum Píratar
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2020-10-22
 ---
+
 [Borgararéttindi](https://piratar.is/stefna/grunnstefna/), [lýðræði](https://www.althingi.is/altext/151/s/0026.html), [gagnsæi](https://www.ruv.is/frett/aksturskostnadur-166-milljonum-laegri), [ábyrgð](https://www.visir.is/g/2018180119362/telur-framgongu-domsmalaradherra-hafa-grafid-undan-trausti-a-nytt-domstig), [gagnrýnin hugsun](https://www.facebook.com/notes/bj%C3%B6rn-lev%C3%AD-gunnarsson/hin-klass%C3%ADska-v%C3%B6rn-efnisleg-umr%C3%A6%C3%B0a-um-3op/10157296476104808), [upplýsingafrelsi](https://www.althingi.is/altext/cv/is/laun_og_greidslur/), [tjáningafrelsi](https://www.facebook.com/watch/?v=322029558578334). 
 
 Þetta eru Píratar og svo miklu, miklu meira. 

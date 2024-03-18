@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Engin framtíðarsýn hjá ríkisstjórninni"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-05 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_ee818eaa33
+title: Engin framtíðarsýn hjá ríkisstjórninni
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2020-10-05
 ---
+
 Ég spurði forsætisráðherra um stefnu stjórnvalda í atvinnumálum í óundirbúnum fyrirspurnum í dag:
 
 "Í vor kvörtuðu stjórnvöld yfir því að það væri svo mikil óvissa að ríkisstjórnin gæti ekki lagt fram áætlun sína út úr Kófinu. Þing og þjóð þurfti því að bíða í hálft ár eftir stefnu stjórnvalda. Fyrir helgi var biðinni lokið og stefna stjórnvalda leit dagsins ljós. Í stuttu máli er stefna stjórnvalda svona: “það verður hallarekstur og niðurskurður nema við náum að fá aftur 2 milljónir ferðamanna hingað til Íslands árið 2023 í staðinn fyrir árið 2026. Bónus ef loðnan kemur aftur”.

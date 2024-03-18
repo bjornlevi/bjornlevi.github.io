@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Óheiðarleg vörn ráðherra"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2023-10-13 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_9b7bc5021c
+title: Óheiðarleg vörn ráðherra
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2023-10-13
 ---
+
 Þann 1. október mætti ég á Sprengisand ásamt forsætisráðherra. Þar sagðist ég ekki hafa hitt einn útlending sem tryði því að fjármálaráðherra sem hefði selt föður sínum hlut í ríkisbanka væri enn ráðherra. 
 
 Forsætisráðherra, svaraði því að ekkert sem ég sagði stæðist neina skoðun. Að þetta væri bara  orðasalat hjá mér. En svo kom álit umboðsmanns sem sagði að fjármálaráðherra hafi brostið hæfi til að selja hlut ríkisins í Íslandsbanka vegna þess að faðir hans var einn af kaupendunum.

@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Á sandi byggði ..."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-10-03 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_cb0e613b26
+title: Á sandi byggði ...
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2023-10-03
 ---
+
 Á fundi Landssambands eldri borgara á mánudaginn síðastliðinn sagði Guðmundur Ingi Guðbrandsson, félags- og vinnumarkaðsráðherra, að það væri ekki raunhæft að fjármagna lágmarksframfærslu fólks. Nákvæmlega þá sagði ráðherra að kostnaðurinn væri ekki raunhæfur.
 
 Til að byrja með vitum við ekki hver lágmarksframfærsla er. Það er hægt að finna ákveðin framfærsluviðmið hjá Umboðsmanni skuldara og hjá Félagsmálaráðuneytinu. En þau viðmið eru án húsnæðiskostnaðar. En enginn á Íslandi getur verið án húsnæðis. En þó við vitum ekki hver lágmarksframfærsla sé, þá vitum við þessi fyrrnefndu framfærsluviðmið og við vitum hver lágmarkslaun eru. Lífeyrir almannatrygginga eru þar vel undir. 

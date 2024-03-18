@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Vitum við hvað öryggi kostar?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-02-17 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_67eb0d9426
+title: Vitum við hvað öryggi kostar?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2023-02-17
 ---
+
 Það gerðist dálítið mjög merkilegt um daginn. Við fengum sjaldgæfa innsýn í innra starf ráðuneyta og stofnanna þegar ráðherra uppljóstraði um svo mikinn niðurskurð hjá Landhelgisgæslunni að hann ætlaði að selja flugvél Gæslunnar til þess að koma til móts við fjárhagsörðugleika. En hefði í alvörunni þurft að selja TF-SIF?
 
 Við komumst að því að Landhelgisgæslan hafði óskað eftir að fá milljarð aukalega, en hafi svo bara fengið 600 milljónir. Ráðherra montaði sig meira að segja af því í fjölmiðlum þar sem hann sagði: “auk­in fram­lög til Land­helg­is­gæsl­unn­ar, sem þýðir að við get­um staðið und­ir kröf­um um viðbragð og björg­un­ar­getu Gæsl­unn­ar.” 

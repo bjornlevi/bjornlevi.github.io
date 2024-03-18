@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Barátta gegn spillingu"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:18:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_2801114f66
+title: Kosningastefna Pírata 2021 - Barátta gegn spillingu
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-08-05
 ---
+
 Spillingu á hvorki að líða í stjórnkerfinu né annars staðar í samfélaginu. Í fámennu samfélagi eins og Íslandi er mikil hætta á frændhygli, hagsmunaárekstrum og greiðasemi sem er þjóðhagslega mikilvægt að girða fyrir. Spilling kostar samfélagið háar fjárhæðir á hverju ári og leiðir til þess að almannagæði eru færð úr sameiginlegum sjóðum í vasa hinna fáu. Á undanförnum árum hefur íslenskum stjórnvöldum ítrekað verið bent á fjölmarga galla í stjórnkerfi og löggjöf landsins og að ekki hafi verið gert nóg til að koma í veg fyrir spillingu og efla heilindi hjá æðstu valdhöfum. Við Píratar viljum grípa til fjölþættra og tafarlausra aðgerða til að efla varnir og berjast gegn spillingu.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Barátta gegn spillingu)

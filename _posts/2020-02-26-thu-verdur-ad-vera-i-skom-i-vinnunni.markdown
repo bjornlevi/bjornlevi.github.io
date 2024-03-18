@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Þú verður að vera í skóm í vinnunni"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-02-26 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_1918763b5d
+title: Þú verður að vera í skóm í vinnunni
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2020-02-26
 ---
+
 Einu sinni var skýrslu um skattaundanskot Íslendinga í gegnum skattaskjól stungið undir stól. Það var meira að segja rétt fyrir kosningar vegna skattaundanskots fyrrum forsætisráðherra í gegnum skattaskjól (sem er opinberlega staðfest í úrskurði yfirskattanefndar). Píratar kvörtuðu og spurðu hvað væri eiginlega í gangi, hvernig gæti þetta gerst án þess að einhver axlaði ábyrgð?
 
 Einu sinni breytti dómsmálaráðherra skipun dómara í Landsrétt með geðþóttaákvörðun þar sem hæfari dómarar þurftu að víkja fyrir síður hæfari umsækjendum. Upplýsingum um álit sérfræðinga var haldið frá Alþingi. Píratar kvörtuðu og spurðu hvað væri eiginlega í gangi. Hvernig ráðherra gæti komist upp með svona ákvarðanir. Ekkert gerðist fyrr en þeir umsækjendur sem gengið var fram hjá sóttu rétt sinn.

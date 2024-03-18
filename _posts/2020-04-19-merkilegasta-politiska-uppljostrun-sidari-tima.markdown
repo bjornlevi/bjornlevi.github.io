@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Merkilegasta pólitíska uppljóstrun síðari tíma"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-04-24 16:27:34 +0000
-categories: kvennabladid
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_98795189f6
+title: Merkilegasta pólitíska uppljóstrun síðari tíma
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2020-04-24
 ---
+
 *“Því færri óumdeildum málum sem ríkisstjórnin komi áfram, þeim mun þrengra verði um „sérstök áhugamál“ ríkisstjórnarinnar”* sagði Sigmundur Davíð Gunnlaugsson. Þessi orð eru merkilegasta pólitíska uppljóstrun síðari tíma. Það er gríðarlega mikilvægt að fólk átti sig á því af hverju svo er. Frá því að ég las þessi orð úr tölvupósti þar sem óvart var gert “svar til allra” hef ég beðið eftir fjölmiðlaumfjöllun um þessi orð. Engin frétt hefur hins vegar fjallað nákvæmlega hvað þessi ummæli þýða, sem mér finnst stórkostlega merkilegt líka. Mig langar til þess að reyna að útskýra af hverju þetta eru merkilegasta pólitíska uppljóstrun síðari tíma en í stuttu máli er það af því að þetta opinberar hversu óheiðarleg pólitíkin á Íslandi er. Hvert markmið margra stjórnmálamanna er í raun og veru.
 
 Starfið á Alþingi er undarlegt þessa dagana út af samkomubanni og tveggja metra fjarlægðarreglu. Það hefur þau áhrif að skammta verður hversu margir þingmenn komast að í umræðum um þingmál sem augljóslega hefur gríðarlega mikil áhrif á lýðræðislegt aðhald þingsins gagnvart framkvæmdavaldinu. Það reyndi all svakalega á það í liðinni viku þegar forseti þingsins reyndi að setja umdeilt mál á dagskrá þingsins, þrátt fyrir andmæli minnihluta. Það er alvarlegt mál í ljósi þeirra aðstæðna sem stýra störfum þingsins þessa dagana því þegar allt kemur til alls snúast réttindi alla jafna um að verja stöðu minnihlutahópa eða að verja þá sem eru beittir valdi af þeim sem valdið hafa. Lýðræði snýst að miklu leyti ekki um meirihlutaræði, heldur tillitsemi við minnihluta vegna þess að í lýðræðislegum kosningum þar sem meirihlutinn ræður vissulega þá er alltaf til staðar minnihluti sem hver sem er getur orðið hluti af. Forseti þingsins fer til dæmis með völd vegna þess að hann hefur stuðning meiri hluta þingsins. Það þýðir ekki að allar ákvarðanir sem hann gerir séu réttar eða góðar þó þær séu strangt til tekið lýðræðislegar í skilningi atkvæða.

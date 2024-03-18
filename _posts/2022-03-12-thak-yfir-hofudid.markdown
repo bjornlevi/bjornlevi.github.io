@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Þak yfir höfuðið."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-03-13 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_dbf245ba58
+title: Þak yfir höfuðið.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2022-03-13
 ---
+
 Byggjum 20 þúsund íbúðir á næstu fimm árum, samkvæmt formanni Framsóknarflokksins í grein Morgunblaðsins þann 10. mars s.l. Sem ráðherra innviðamála hefði ég búist við að sjá einhverjar tilkynningar um þessa stefnu ríkisstjórnarinnar á vefsíðu stjórnarráðsins en þar er ekkert að finna. Þetta eru greinilega kosningaloforð Framsóknarflokksins fyrir sveitarstjórnarkosningar sem ríkissjóður á að fjármagna. 
 
 Þetta er áhugaverð stefnubreyting hjá Framsóknarflokknum sem hefur ekki talað mikið fyrir uppbyggingu íbúða í undanförnum kosningum. Þar er bara að finna einhverja svissneska leið sem hjálpar fólki að kaupa íbúð með þeirra eigin lífeyrissparnaði eða einhverjar lánaleiðir bara.

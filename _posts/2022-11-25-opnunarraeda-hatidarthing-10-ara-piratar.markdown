@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Opnunarræða á hátíðarmálþingi vegna 10 ára afmælis Pírata"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-11-25 09:03:00 +0000
-published: true
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_128bfcd65e
+title: Opnunarræða á hátíðarmálþingi vegna 10 ára afmælis Pírata
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2022-11-25
 ---
+
 Kæru gestir. Velkomin á hátíðarmálþing um gagnsæi gegn spillingu og aðhald með valdi í tilefni 10 ára afmælis Pírata.
 
 Á þessum 10 árum frá stofnun Pírata hafa gagnsæis- og aðhaldsmál verið stór hluti af störfum Pírata, bæði á alþingi og í sveitarstjórnum, enda eru þau mál þungamiðja í grunnstefnu okkar um gagnsæi og ábyrgð. 

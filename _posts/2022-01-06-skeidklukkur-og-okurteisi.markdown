@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Skeiðklukkur og ókurteisi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-01-06 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_f2f1004eaa
+title: Skeiðklukkur og ókurteisi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2022-01-06
 ---
+
 Það var í kosningasjónvarpinu á stöð tvö. Ég hafði aldrei verið í kosningasjónvarpi áður, bara horft á það og var nú í tilbúinn til þess að útskýra frábæra kosningastefnu Pírata í beinni útsendingu ásamt frambjóðendum hinna flokkanna. En hvað gerðist? Eitthvað allt annað en ég bjóst við.
 
 Kannski hefði þetta ekki átt að koma mér á óvart. Kannski var þetta vegna þess að ég hef aldrei verið með stöð tvö og ekki fylgst nægilega vel með fyrirkomulaginu á þessum umræðum þar áður. Hver svo sem orsökin var þá var afleiðingin sú að ég var ókurteis og ég sé eftir því. Það er ekki neinum öðrum að kenna en mér, en mig langar samt að útskýra hvað gerðist og af hverju því þetta er gegnumgangandi vandamál í íslenskum fjölmiðlum, gerist allt of oft.

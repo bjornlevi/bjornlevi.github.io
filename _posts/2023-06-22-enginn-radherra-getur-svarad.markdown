@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Enginn ráðherra getur svarað ..."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-06-22 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_357ccb53aa
+title: Enginn ráðherra getur svarað ...
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2023-06-22
 ---
+
 … þessari spurningu.
 
 Sif Sigmarssdóttir skrifaði pistil í Heimildina í síðustu viku sem heitir “Lögföst spilling og niðurlæging þjóðar”. Pistillinn fjallar einfaldlega um, eins og þar er dregið saman að Bret­ar “hafa sett stjórn­mála­stétt sinni tak­mörk. Þar mega feð­ur ráð­herra ekki kom­ast í ná­lægð við spen­ann. Á Ís­landi fá feð­ur ráð­herra að kaupa í bönk­um sem rík­ið sel­ur.” Í lok pistilsins spyr Sif svo þessarar einföldu spurningar: “Hvar hyggjumst við Íslendingar draga línuna?

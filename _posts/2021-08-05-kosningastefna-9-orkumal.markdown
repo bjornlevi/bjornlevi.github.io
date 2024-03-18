@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Orkumál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:09:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_c39d3dc381
+title: Kosningastefna Pírata 2021 - Orkumál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-08-05
 ---
+
 Við Píratar teljum að auðlindir Íslands og arður þeirra eigi að vera samfélaginu öllu til hagsbóta. Nýting orkuauðlinda á að vera sjálfbær, í samræmi við lög og alþjóðasáttmála og til þess fallnar að ná markmiðum Íslands um kolefnishlutleysi sem fyrst. Við eigum öll að hafa aðgang að ódýrri, vistvænni orku óháð efnahag. Stefna ætti að kolefnishlutlausum samgöngum eins fljótt og fýsilegt er og draga stórkostlega úr þörf okkar fyrir innflutning á orku.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Orkumál)

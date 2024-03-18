@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Sporvagnavandamálið og faraldurinn"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-04-15 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_3bfa015fae
+title: Sporvagnavandamálið og faraldurinn
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2020-04-15
 ---
+
 Margir kannast við sporvagnavandamálið þar sem þú ert vagnstjóri sem hefur þá tvo möguleika að beygja á sporin til hægri þar sem hópur fólks stendur á teinunum eða til vinstri þar sem einn stendur á teinunum. Svo er spurt, hvað myndir þú gera?
 
 Afbrigðin af þessu vandamáli eru fjölmörg, þar sem sú eina sem stendur á teinunum til vinstri er barn, ólétt kona eða Trump. Þar sem hópurinn hægra megin er einsleitur á einhvern hátt eða á annan hátt spilað með samanburð þessara tveggja hópa og miðað við það, hvað myndir þú gera.

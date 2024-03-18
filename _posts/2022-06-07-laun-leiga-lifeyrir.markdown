@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Laun, leiga, lífeyrir"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-06-07 06:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_104f455131
+title: Laun, leiga, lífeyrir
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2022-06-07
 ---
+
 Ráðstöfunartekjur flestra landsmanna minnkuðu í síðustu viku þegar fasteignamat hækkaði um 19,9% og hafði þannig áhrif á fasteignagjöld allra. Fasteignamati er breytt samkvæmt lögum um skráningu og mat fasteigna og fasteignagjöld eru innheimt samkvæmt lögum um tekjustofna sveitarfélaga sem hlutur af fasteignamati, allt að 0,5% af íbúðarhúsnæði. Reykjavíkurborg var til dæmis með 0,18% hlutfall, Kópavogsbær 0,212% og Akureyri með 0,33% árið 2021.
 
 Hvaða áhrif hefur þessi hækkun á ráðstöfunartekjur? Ef við miðum við 50 milljón króna fasteign sem hækkar um 20% þá er það 10 milljón króna hækkun. Í Reykjavík þýðir það 18 þúsund króna hækkun á ári eða 1.500 kr. hækkun á mánuði. Í Kópavogi er það 21.200 kr. hækkun (1.766 kr. á mánuði) og á Akureyri 33 þúsund (2.750 kr. á mánuði). 

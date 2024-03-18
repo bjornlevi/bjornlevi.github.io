@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Að selja ríkiseign"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-08-22 09:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_2e5c05ab8d
+title: Að selja ríkiseign
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2022-08-22
 ---
+
 Nú eru liðnir nákvæmlega fimm mánuðir frá því að fjármálaráðherra seldi aftur eignarhluti ríkisins í Íslandsbanka. 22. mars 2022 var 22,5% hlutur seldur í Íslandsbanka með 2,25 milljarða afslætti til 207 fjárfesta. Salan fór fram með svokölluðu tilboðsfyrirkomulagi sem er sérstaklega miðað að hæfum fagfjárfestum en ekki almennum fjárfestum. Í stuttu máli þýðir það að útboðið er ekki opið og aðgengilegt öllum. Þetta er mikilvægt. 
 
 Fljótlega komu í ljós mjög alvarlegar vísbendingar um að margt hefði farið úrskeiðis í söluferlinu. Á nefndarfundum í kjölfarið kom fram að mismunandi kaupendur hefðu verið skertir mismikið, kaupendur fengu ekki að kaupa eins mikið og þau vildu á því verði sem þau buðu. Eins og þingmaður VG í efnahags- og viðskiptanefnd sagði, þá bjuggust allir við því að það væri verið að selja kjölfestufjárfestum. Kynningarnar fyrir bæði fjárlaganefnd og efnahags- og viðskiptanefnd voru þannig. 

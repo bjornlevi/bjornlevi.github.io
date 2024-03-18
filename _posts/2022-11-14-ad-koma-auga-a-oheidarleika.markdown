@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Að koma auga á óheiðarleika ..."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-11-14 09:02:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_0ce172c861
+title: Að koma auga á óheiðarleika ...
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2022-11-14
 ---
+
 … er mjög erfitt þegar hann er snilldarlega falinn.
 
 Flestir sem lesa þetta kinka væntanlega kolli innan í sér og segja, já. Þegar óheiðarleiki er snilldarlega falinn er erfitt að átta sig á því. Vandinn er að þetta er ekki alveg rétt. Það er líka erfitt að sjá hvað er ósatt sem er vel falið. 

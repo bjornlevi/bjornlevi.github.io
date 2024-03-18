@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Lagar stofnun lög?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-08-18 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_8150269ddc
+title: Lagar stofnun lög?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2023-08-18
 ---
+
 Sitt sýnist hverjum um umsækjendur um alþjóðlega vernd en ég held að við getum öll verið sammála um að lögin þurfa að vera skýr og mannréttindi þurfa að vera virt. Umræðan bendir samt til þess að fólk er ekki alveg sammála um hver þau réttindi eiga að vera. Það er þó öllu verra þegar fólk og flokkar innan ríkisstjórnarinnar eru ekki sammála um hver réttindi flóttafólks eru samkvæmt þeim lögum sem þau sömdu og samþykktu sjálf. Félags- og vinnumarkaðsráðherra segir að þegar fólki er þjónustusvipt þá eigi sveitarfélögin að taka við og þjónusta fólkið á meðan dómsmálaráðherra og sveitarfélögin telja að það sé ekki skylda sveitarfélaganna að sinna þjónustunni.
 
 Sem betur fer erum við með forsætisráðherra sem ber ábyrgð á ríkisstjórnarsamstarfinu og getur sagt okkur hver stefna ríkisstjórnarinnar sé … eða hvað?

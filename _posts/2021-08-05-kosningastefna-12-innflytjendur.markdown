@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Málefni innflytjenda"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:12:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_0e1426fe48
+title: Kosningastefna Pírata 2021 - Málefni innflytjenda
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-08-05
 ---
+
 Fjölmenning er fjársjóður. Ólíkur uppruni okkar auðgar heildina. Setja þarf nýjan tón í málefnum innflytjenda á Íslandi. Í stað hindrana, tortryggni og andúðar þarf nálgun sem byggir á mannúð, virðingu og einlægum vilja til að taka vel á móti fólki sem vill setjast hér að. Einföldum regluverkið og tryggjum fullnægjandi aðbúnað og umgjörð þegar umsóknarferli er í gangi og ekki síður eftir að dvalarleyfi hefur verið veitt. Gagnkvæm menningarleg aðlögun er lykillinn að velgengni innflytjenda á Íslandi og farsælu fjölmenningarsamfélagi.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Innflytjendur)

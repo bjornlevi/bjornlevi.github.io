@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Stjórnarandstöðufræði"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-03-15 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_264f963a6f
+title: Stjórnarandstöðufræði
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-03-15
 ---
+
 Fræðin um stjórnarandstöðu segja: “Ég gerði öll mál tortryggileg og fylgdi þeirri reglu veiðimannsins að maður má ekki einungis kasta flugu sem manni finnst falleg því að maður veit aldrei hvaða flugu laxinn tekur. Ég tók því upp öll mál, jafnvel þó að ég væri í hjarta mínu samþykkur þeim, og hjólaði í þau því að ég leit á stjórnarandstöðu sem stjórnarandstöðu”. Svo var vitnað í Davíð Oddson í Morgunblaðinu þann 3. janúar 2001.
 
 Fræðin um stjórnarandstöðu eru rugl. Þessi stjórnarandstöðufræði sem núverandi ritstjóri Morgunblaðsins beitti, eru ekkert annað en aðvörunin sem strákurinn fékk sem kallaði úlfur, úlfur. Það verður enginn munur á stjórnarandstöðu vegna máls sem er gott eða slæmt. Utan frá lítur út fyrir að galað sé úlfur, úlfur í öllum málum sem gerir það að verkum að lokum að enginn tekur mark á stjórnarandstöðu. Það er auðvitað heppilegast fyrir valdhafa þegar allt kemur til alls. Gagnrýnin verður að bakgrunnssuði og það verður alltaf að kalla hærra og hærra til þess að láta í sér heyra. Afleiðingin er að enginn heyrir og mál sem eru virkilega gagnrýniverð raungerast og kosta okkur formúgu fjár eða brjóta á mannréttindum, eins og skipun dómara í Landsrétt og afturvirk skerðing lífeyris.

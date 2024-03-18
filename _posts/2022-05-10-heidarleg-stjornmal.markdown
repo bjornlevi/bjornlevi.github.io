@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Heiðarleg stjórnmál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-05-10 06:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_d609f70597
+title: Heiðarleg stjórnmál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2022-05-10
 ---
+
 Næstu helgi eru kosningar til sveitarstjórna út um allt land. Þar bjóða fram ýmsir flokkar og fólk með mismunandi hugmyndir og markmið fyrir næstu kjörtímabil. Ég mæli auðvitað með því að fólk setji X við P alls staðar þar sem það er í boði - í Reykjavíkurborg, Kópavogi, Hafnarfirði, Ísafjarðarbæ, Reykjanesbæ og á Akureyrarbæ. Píratar taka einnig þátt í öðrum framboðum, xÁ í Árborg, A lista Framtíðarinnar á Seltjarnarnesi, G fyrir Garðabæjarlistann í Garðabæ og xO fyrir Bæjarlistann í Suðurnesjabæ. 
 
 Ef fólk á í erfiðleikum með að velja flokka eða fólk til þess að kjósa í þessum komandi kosningum þá eru nokkur atriði sem gott er að hafa í huga - atriði sem útiloka nokkra valkosti umsvifalaust.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Heilbrigðiskerfið á krossgötum"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-14 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_8bb8ec9d64
+title: Heilbrigðiskerfið á krossgötum
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2020-10-14
 ---
+
 Heilbrigðisráðherra skrifaði nýlega grein í Morgunblaðið sem hún birtir einnig á [FB síðu](https://www.facebook.com/svandissvavars/posts/4838613716212970) sinni. Þar er farið yfir þróun fjárheimilda til heilbrigðiskerfisins á næstu árum. Flest sem kemur þar fram er hárrétt en það er samt áhugavert að fara yfir þær fullyrðingar sem þar koma fram.
 
 * Framlög til heilbrigðismála verða aukin um ríflega 15 ma.kr. á næsta ári, samkvæmt frumvarpi til fjárlaga, að frátöldum launa- og verðlagsbótum

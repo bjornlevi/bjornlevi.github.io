@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Hvernig klúðruðu stjórnvöld sóttvarnarhúsinu?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-04-20 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_26bcad7429
+title: Hvernig klúðruðu stjórnvöld sóttvarnarhúsinu?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2021-04-20
 ---
+
 Nú er mikið rætt um nauðsyn þess að allir sem komi til landsins fari á svokallað sóttkvíarhótel, eðlilega. Í þeirri umræðu er fjallað þó nokkuð um ábyrgð Alþingis að það hafi ekki tekist að tryggja viðeigandi heimidlir og þar með hafi heilsu almennings verið ógnað. Ef málið er skoðað nánar, hins vegar, þar sem horft er í gegnum ónákvæm ummæli og villandi upplýsingar þá sjáum við allt aðra mynd.
 
 Byrjum á byrjuninni, frumvarpi heilbrigðisráðherra um [opinberar sóttvarnarráðstafanir](https://www.althingi.is/altext/151/s/0385.html). Markmið frumvarpsins eru samkvæmt flutningsræðu ráðherra: 

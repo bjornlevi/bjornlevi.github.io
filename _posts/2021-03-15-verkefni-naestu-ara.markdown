@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Verkefni næstu ára"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-03-15 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_042699cc10
+title: Verkefni næstu ára
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-03-15
 ---
+
 Augljósa verkefni næstu ára er að glíma við afleiðingarnar af Kófinu. Nokkur hundruð milljörðum hefur verið bætt í hagkerfið til þess að koma til móts við efnahagsvanda vegna hruns í ferðaþjónustunni og aðgerða vegna veirufaraldurs. Þó nokkur misskipting hefur verið í þeim mótvægisaðgerðum sem hefur verið ráðist í, til dæmis hefur mjög stór hluti þess runnið inn á húsnæðismarkaðinn og líklega valdið þó nokkurri hækkun á húsnæðisverði, séstaklega á höfuðborgarsvæðinu (7,1% hækkun á vísitölu undanfarna 12 mánuði) með tilheyrandi verðbólguáhrifum. 
 
 Verðbólgan á Íslandi er merkilegt fyrirbæri. Hún skiptir okkur miklu máli út af verðtryggingu en á sama tíma er mjög erfitt að komast að því af hverju það er verðbólga. Fjármálaráðherra segir að það sé út af launahækkunum í kjarasamningum, án þess að ég eða Gunna getum flett upp því upp og sannreynt slíkar fullyrðingar. Eina sundurliðunin á vef Hagstofunnar er vísitala með og án húsnæði en á sl. ári hefur vísitala án húsnæðis hækkað um 4,5% á meðan vísitala með húsnæði hækkað um 4,1%. 

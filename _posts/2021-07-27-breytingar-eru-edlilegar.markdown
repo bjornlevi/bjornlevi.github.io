@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Breytingar eru eðlilegar"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-07-27 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_cd8ce5f91e
+title: Breytingar eru eðlilegar
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2021-07-27
 ---
+
 Athygli vakti þegar Ragnar Freyr Ingvarsson, fyrrverandi yfirmaður Covid-göngudeildar Landspítala, sagði að stjórnvöld hefðu brugðist þjóðinni tvívegis. Nú einu og hálfu ári eftir að faraldurinn skall á þurfi ekki nema þrjár innlagnir til þess að setja Landspítalann á hættustig. 
 
 Í viðtali við Kjarnann segir Þórólfur Guðnason sóttvarnalæknir að hann hefði viljað sjá betri stjórn á landamærunum en að það „hafi ekki verið hægt“. 

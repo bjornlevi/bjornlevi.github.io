@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Gamlir ósiðir sem við verðum að hafna"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-06-29 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_7a441dac35
+title: Gamlir ósiðir sem við verðum að hafna
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-06-29
 ---
+
 “Jón var að stríða mér!”, segir Gunna. “Gunna tók af mér bílinn!”, segir Jón. Við könnumst flest við að krakkar á ákveðnum aldri klagi allt á milli himins og jarðar og ég þori að veðja að viðbrögð mjög margra séu að segja “ekki vera klöguskjóða”. 
 
 “Klöguskjóða” er uppnefni sem heyrist oft bergmála á leikvellinum, og skildi engan undra þegar viðbrögð fullorðinna eru að segja krökkum að klaga ekki. Lærdómurinn sem börn draga af  því er að það sé vont að klaga. Merking orðsins er neikvæð á þann hátt. 

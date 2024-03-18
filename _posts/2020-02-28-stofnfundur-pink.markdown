@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Erindi á stofnfundi Pírata í norðvestur kjördæmi (PINK)"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-02-28 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_2b97d49dcf
+title: Erindi á stofnfundi Pírata í norðvestur kjördæmi (PINK)
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2020-02-28
 ---
+
 Kæru Píratar.
 
 Mig langar til þess að segja ykkur tvær dæmisögur, til þess að setja tóninn fyrir það sem mig langar til þess að segja hér í dag. Fyrri sagan fjallar um munka og seinni sagan um hafnarverkamenn í bandaríkjunum.

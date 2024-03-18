@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Á morgun segir sá lati"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-16 12:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_5da694b201
+title: Á morgun segir sá lati
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-08-16
 ---
+
 Af öllum þeim málum sem krefjast athygli fyrir komandi kosningar (og er þar af mörgu að taka) stendur umræðan um heilbrigðiskerfið upp úr. Aðallega vegna þess að það er aðkallandi. Vandamál nútímans fá yfirleitt meiri athygli en framtíðarvandi sem er sorglegt, vegna þess að ef við komum til móts við framtíðarvanda í dag þá þurfum við ekki að standa í því veseni seinna. Orðatiltækið að á morgun segi sá lati er viðeigandi í því samhengi.
 
 Helsti vandi okkar framtíðar eru augljóslega loftslagsmálin, en þau eru óáþreifanleg fyrir allt of mörgum. Þegar þau brenna ekki á skinni fólks er bara þægilegt að ýta á snooze-takkann og halda áfram að sofa. Einmitt þetta hefur gerst í heilbrigðiskerfinu og þess vegna er álag á heilbrigðiskerfinu, þess vegna eru samkomutakmarkanir og fjarlægðarmörk.

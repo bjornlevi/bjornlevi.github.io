@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Getum við gert betur?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-21 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_42008da337
+title: Getum við gert betur?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2020-10-21
 ---
+
 Getum við gert betur? Við öll? Ég myndi halda að augljósa svarið sé já. Ekkert er svo fullkomið að það endist að eilífu. Við getum alltaf gert betur, eða að minnsta kosti reynt það. Hvernig gerum við betur væri kannski eðlileg framhaldsspurning, því sitt sýnist hverjum um hvað er hægt að gera betur.
 
 Við höfum búið til fyrirkomulag til þess að ákveða hvað við viljum gera betur. Það fyrirkomulag heitir lýðræði. Alveg eins og öll sköpunarverk mannsins þá er lýðræði ekki fullkomið, en það er besta aðferðin sem við höfum. Lýðræði er ekki einfalt verkfæri eins og hamar, það er margslungið og búið alls konar tækjum og tólum til þess að passa upp á einfaldleika og tillitsemi. Við erum með kjörna fulltrúa, atkvæðagreiðslur um einstök mál, þrískiptingu valds, fjórða valdið, fimmta valdið, málfrelsi, fundafrelsi og getum safnað undirskriftum til stuðnings mála svo einhver dæmi séu nefnd.

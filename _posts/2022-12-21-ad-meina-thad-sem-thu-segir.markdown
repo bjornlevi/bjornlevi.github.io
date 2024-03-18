@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Að meina það sem þú segir"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-12-21 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_dda8f37e3b
+title: Að meina það sem þú segir
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2022-12-21
 ---
+
 Tungumál er flókið fyrirbæri til samskipta. Fólk getur svarað á kaldhæðinn, ljóðrænan, háleitan og beinskeittann hátt - og á svo marga aðra vegu að ómögulegt er að telja það upp í stuttum pistli. Ofan á alla þessa mismunandi möguleikar til samskipta bætist við að orðanotkun fólks er ekki nákvæm. Fólk leggur mismunandi skilning í ýmis orð, eftir aðstæðum og áherslum. Það er hægt að nota orð af varkárni eða með sannfæringu og allt hefur þetta áhrif á það hvaða merkingu áheyrendur meðtaka. 
 
 Svo getur verið mismunandi hvort fólk sjái þann sem er að tala, og þá getur látbragð og líkamstjáning haft enn meiri áhrif á þann boðskap sem mælandi flytur. Nokkurs konar andstæða við það er skriflegur flutningur, þar sem hægt er að greina nákvæmlega hvaða orð voru notuð í bæði upphafi og enda greinarinnar. 

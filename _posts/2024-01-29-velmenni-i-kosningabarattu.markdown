@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Vélmenni í kosningabaráttu?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2024-01-29 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_cc4706f52c
+title: Vélmenni í kosningabaráttu?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2024-01-29
 ---
+
 Það er 28. september 2023. Það eru tveir dagar í þingkosningar í Slóvakíu og fjölmiðlum og stjórnmálamönnum eiga að hafa sig hæga til þess að gefa kjósendum frið til þess að ákveða sig áður en þeir ganga í kjörklefann. Einmitt þá er hljóðupptaka birt á Facebook. Á hljóðupptökunni má heyra rödd formanns framfaraflokks Slóvakíu ræða við fjölmiðlakonu dagblaðsins Denník N og útskýra fyrir henni hvernig að að svindla í kosningunum með því að kaupa atkvæði frá Rómafólki. 
 
 Tveir stærstu flokkarnir í kosningunum voru framfaraflokkurinn, sem styður NATO. Og SMER flokkurinn, sem mælir með því að draga úr hernaðarlegum stuðningi við Úkraínu. Þegar talið hafði verið upp úr kjörkössunum stóð SMER uppi sem sigurvegari, með flesta þingmenn og bætti við sig 4 þingmönnum. Óljóst er hversu mikil áhrif upptakan sem var birt einmitt þegar þagnarbindindi fjölmiðla og stjórnmálamanna fyrir kosningarnar tók gildi. 

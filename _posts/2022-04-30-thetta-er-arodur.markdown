@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Þetta er áróður!"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-04-30 06:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_89fc8cc86c
+title: Þetta er áróður!
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2022-04-30
 ---
+
 Bjarni. Heldur þú að þú komist í alvörunni upp með að selja pabba þínum banka eftir allt sem á undan hefur gengið … Vafninginn. Sjóð 9. Borgun. Falson og skýrslufeluleikurinn. Uppreist æru. Lögbannsmálið. Sendiherrakapallinn. Samherjamálið. Ásmundarsal … eftir allt þetta vesen sem þú og flokkurinn sem þú ert í forsvari fyrir hefur látið vaða yfir landsmenn undanfarinn áratug - þar sem hvert eitt og einasta mál hefði fengið stjórnmálamenn með snefil af virðingu fyrir siðmenntuðu samfélagi til að segja af sér — heldur þú að þú komist í alvörunni upp með þetta?
 
 Kæru landsmenn, þetta er víst bara áróður samkvæmt hæstvirtum fjármálaráðherra sem reynir að skýla sér á bak við armslengd sem hvergi er að finna. Á bak við hlutlægar reglur sem hvergi er að finna. Á bak við traust um pólitíska samtryggingu sem hefur ávallt komið í veg fyrir að formaður Sjálfstæðisflokksins axli einhverja ábyrgð - aðra en að þurfa að svara fyrir málin í almennum þingkosningum. Það er svarið við öllu hjá Bjarna, hann telur sig hafa leyfi til þess að gera hvað sem er og vísar bara öllum umræðum um það inn í næstu alþingiskosningar. 

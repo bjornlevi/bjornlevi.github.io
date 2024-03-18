@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Litið yfir farinn veg"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-03-11 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_3d6d6fd1a7
+title: Litið yfir farinn veg
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2021-03-11
 ---
+
 Frá því að ég tók sæti á þingi hef ég lagt fram fjölda mála, nokkur oftar en einu sinni af því að málið var ekki klárað eða fyrirspurn ekki svarað. Í heildina hef ég lagt fram 417 þingmál, þarf 345 fyrirspurnir og skýrslubeiðnir. Fjöldinn segir ekki alla söguna því þó nokkrar af fyrirspurnunum eru endurtekningar á milli mismunandi ráðuneyta og stofnanna, eða um 200 af þeim. Að auki er svo fjöldi óskráðra fyrirspurna í nefndarvinnu. 
 
 ## Eftirlit og spurningar

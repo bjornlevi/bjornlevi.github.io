@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Samanburður á Stjórnarskrá Íslands og frumvarpi stjórnlagaráðs"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2016-08-11 13:00:34 +0000
-categories: kvennabladid
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_bc097b8bdc
+title: Samanburður á Stjórnarskrá Íslands og frumvarpi stjórnlagaráðs
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2016-08-11
 ---
+
 Ný stjórnarskrá hefur verið mikið í umræðunni undanfarið. Sumir mæla með nýrri stjórnarskrá og aðrir vilja litlar eða jafnvel engar breytingar. Umræðan er eðlileg, breytingar geta verið flóknar og erfiðar. Hvað þá breytingar á einhverju eins mikilvægu og sjálfri stjórnarskránni. Ég hef heyrt ýmis rök í eina eða aðra átt fyrir því að það eigi eða eigi ekki að breyta stjórnarskránni. Rökin eru allt frá því að breytingar muni valda óvissu til þess að það sé óvissa að halda núverandi stjórnarskrá.
 
 Nú eru stjórnarskrár uppfærðar tiltölulega reglulega í flestum löndum heimsins. Líftími stjórnarskráa í vestrænum lýræðislöndum er um 76 ár. Stjórnarskrá Íslands er nú orðin 72 ára og sumir segja að hún hafi verið komin til ára sinna frá fyrsta degi. Samfélagið breytist og því verður samfélagssáttmálinn óhjákvæmilega að breytast með. Kannski ekki í heilu lagi eins og sumir stinga upp á en það þarf óhjákvæmilega að breyta og bæta með tíð og tíma.

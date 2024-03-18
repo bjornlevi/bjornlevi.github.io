@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Ráðherrar eiga enga vini"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-19 13:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_bd5e60c07f
+title: Ráðherrar eiga enga vini
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2020-08-19
 ---
+
 Vinkvennahittingur er einna helst í fréttum þessa dagana. Það væri alla jafna ekki í frásögur færandi nema vegna þess að ein vinkvennanna er ráðherra. Það eitt og sér er heldur ekkert merkilegt, því ráðherrar eru fólk og fólk á vini. En þó fólk eigi vini þá eiga ráðherrar enga vini, hvað svo sem [sjávarútvegsráðherra finnst um það](https://kjarninn.is/skodun/2019-12-26-hvernig-lidur-ther-elsku-vinur-bara-prydilega-takk-eg-er-med-ykkur-oll-i-vasanum/) en hann hringi frægt símtal í vin sinn og forstjóra Samherja til þess að spyrja hvernig honum liði. 
 
 Það er ekkert athugavert við að vinir hittist og geri sér glaðan dag þó það sé varhugaverðara í Covid ástandi dagsins í dag, það þarf að huga að fjarlægðarmörkum sem myndir sýndu svo "[óheppilega](https://www.ruv.is/frett/2020/08/17/bjarni-hegdun-ferdamalaradherra-oheppileg)" að var ekki sinnt. Það jákvæða sem kom út úr því veseni öllu var að sóttvarnarreglur voru gerðar skýrari ... eftirá. Vinir geta meira að segja verið styrktir af einkafyrirtækjum til þess að birta myndir af sér í slíkum hitting. Það geta ráðherrar hins vegar ekki. Vinir geta fengið hlunnindi eins og gistingu og veitingar frá einkafyrirtæki, svo lengi sem það er allt gefið upp á réttan hátt m.t.t opinberra gjalda og þess háttar. Ráðherra getur það varla því þá geta komið upp alls konar hagsmunaárekstrar og þvíumlíkt. Ráðherra þarf auðvitað gefa allt upp vegna opinberra gjalda á sama hátt og allir aðrir en þarf aukalega að standa skil á ákveðnum gagnsæiskröfum.

@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Að skipta um þjóð?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-07-20 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_c2d97f1c60
+title: Að skipta um þjóð?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2023-07-20
 ---
+
 Nýlega er haft eftir Eyjólfi Ármannsyni, þingmanni flokks fólksins, að verið sé að „skipta um þjóð í landinu”. Þetta bergmálar skoðanir sem hafa birst í Morgunblaðinu, í grein Ögmundar Jónassonar „að losa þjóðina við landið og landið við þjóðina”, sem og nokkrum öðrum greinum.
 
 Skoðunin virðist koma frá nokkrum mismunandi sjónarhornum. Eyjólfur vitnar í „stjórnlausan” málaflokk hælisleitenda á meðan Ögmundur kennir hraðvexti efnahagslífsins um. Önnur sjónarmið eru um glóbalisma, marxíska fjölmenningu og gróðabraskara sem nýta sér eymd fólks. Niðurstaðan er hins vegar sú sama hjá þeim öllum, að verið sé að skipta um þjóð í landinu.

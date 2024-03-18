@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Virkar lýðræðið?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-05-05 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_5251fe5d94
+title: Virkar lýðræðið?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2023-05-05
 ---
+
 Flest mætum við reglulega í kjörklefann og setjum kross við einn flokk eða annan. Í einhverjum tilfellum setjum við kross eða tölu við nafn á einhverjum einstaklingi. X fyrir framan P eða C eða S eða B eða hvaða annan bókstaf sem við teljum að muni leiða til betra samfélags. Af hverju er þá heilbrigðiskerfið ekki eins gott og við viljum? Af hverju erum við enn með kvótakerfið eins og það er þrátt fyrir andstöðu mikils meirihluta landsmanna? Af hverju er þá ekki búið að leysa húsnæðisvandann og verðbólguna og … ?
 
 Ætti ekki að vera búið að leysa öll þessi vandamál ef lýðræði virkar? Þó þetta sé gölluð spurning, af því að öll önnur stjórnkerfi sem við höfum prófað eru verri, þá hljótum við samt að þurfa að svara þessari spurningu einhvern vegin. 

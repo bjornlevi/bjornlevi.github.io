@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "2022 11 15 Athugasemdir BR v skýrslu RE FINAL MEÐ LOGO.pdf"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-11-14 09:02:00 +0000
-published: true
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_f3e8dca3c5
+title: 2022 11 15 Athugasemdir BR v skýrslu RE FINAL MEÐ LOGO.pdf
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2022-11-14
 ---
+
 Takk kærlega fyrir umsögnina þína um skýrslu Ríkisendurskoðunar um sölu á hlut ríkisins í Íslandsbanka. Mér fannst nafnið á skjalinu einstaklega uppljóstrandi; “2022 11 15 Athugasemdir BR v skýrslu RE FINAL MEÐ LOGO.pdf”. 
 
 ![brvrefinallogo.png](/assets/images/brvrefinallogo.png)

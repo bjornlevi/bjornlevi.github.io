@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Vitlaust Alþingi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-06-11 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_dfcd51aae6
+title: Vitlaust Alþingi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2020-06-11
 ---
+
 Á Alþingi er allt vitlaust, á fleiri vegu en einn, og Ísland er verra vegna þess. Nóg hefur samt verið talað um vitleysuna sem fólk lætur út úr sér þar og minna er talað um hversu vitlaus þingstörfin eru. Þar á ég ekki við hversu vitlaus dagskráin er. Ég er að tala um hlutverk þingsins og hversu vitlaust er farið með það. 
 
 Hlutverk þingsins er þrískipt. Þingið setur lög, ákveður fjárveitingar og hefur eftirlit með framkvæmdavaldinu. Það sem þingið gerir aðallega er að setja lög, og gerir það illa. Það er ekki hægt að segja að þingið sé skilvirkt vegna þess að sömu málin eru óafgreidd þing eftir þing. Það er ekki hægt að segja að þingið sé vandvirkt af því að reglulega er málum troðið í gegn með tilheyrandi fjárhagslegum og réttindalegum skaða. Það er ekki hægt að segja að þingið sýni festu því í fyrradag afgreiddum við enn ein lögin um einhvern sjóð þar sem breytingatillögu um fagráð, eins og var gert í öðrum sjóði fyrir stuttu, var hafnað. Tveir sjóðir, mismunandi fyrirkomulag.

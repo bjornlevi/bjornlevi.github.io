@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Stuð. Stuð. Stuð."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-03-27 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_b6e4636d3f
+title: Stuð. Stuð. Stuð.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2023-03-27
 ---
+
 Hver man eftir því þegar lögreglan gekk inn í hóp mótmælenda með piparúða og kylfum til þess að dreifa mótmælendum? 10 voru handteknir og 4 voru fluttir á sjúkrahús, þar af einn lögegluþjónn. Það var kannski hvað minnisstæðast hvernig tveir lögregluþjónar gengu inn í hóp mótmælenda öskrandi “Gas, gas, gas” á sama tíma og piparúða var sprautað yfir mótmælendur.
 
 Í frétt stöðvar 2 sést hvernig nokkrir lögregluþjónar halda niðri mótmælendum að handjárna þá. Einn þeirra er beðinn um að róa sig - en hann svarar að hann geti það ekki. Hann segir svo skýrt heyrist “ég er að kafna maður. Ég er að kafna.” og “vertu bara rólegur, slakaðu á” er svarað andstutt með “ég get það ekki”.

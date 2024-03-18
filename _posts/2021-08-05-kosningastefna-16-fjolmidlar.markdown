@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Fjölmiðlar"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:16:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_21e9f9f760
+title: Kosningastefna Pírata 2021 - Fjölmiðlar
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-08-05
 ---
+
 Óháðir fjölmiðlar gegna lykilhlutverki í því að veita stjórnvöldum aðhald, miðla upplýsingum til almennings og veita vettvang fyrir upplýsta þjóðmálaumræðu. Við viljum tryggja fjölmiðlafrelsi með því að bæta réttarvernd blaðamanna, tryggja rekstrarlegt og lagalegt umhverfi fjölmiðla og að auka möguleika þeirra til tekjuöflunar, m.a. með því að taka RÚV af auglýsingamarkaði.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Fjölmiðlar)

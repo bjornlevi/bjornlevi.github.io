@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Ráðleggingar OECD í efnahagsmálum"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-07-08 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_b39100e1cb
+title: Ráðleggingar OECD í efnahagsmálum
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-07-08
 ---
+
 Það er áhugavert að skoða ráðleggingar OECD þar sem þaðan kemur ákveðið sjónarhorn sem er með stærra samhengi en oft er fjallað um hérna heima. Nokkurs konar "glöggt er gests augað". En á sama tíma og það er mjög heilbrigt að fá slíkt sjónarhorn þá eru lausnirnar sem lagðar eru fram ekkert endilega þær bestu - þar sem um er að ræða stærra samhengi einmitt.
 [Skýrsla OECD mælir með eftirfarandi kerfisbreytingum og fjallar um umbætur á árunum 2019 - 2020](https://www.oecd.org/economy/growth/Iceland-country-note-going-for-growth-2021.pdf):
 

@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Trylltur dans múgsins"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2023-10-23 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_70d8f83f6c
+title: Trylltur dans múgsins
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2023-10-23
 ---
+
 "Dansæðið, galdrafárið, hundurinn Lúkas. Æðið mun renna sitt skeið. Sagan sýnir þó að trylltur dans múgsins er sjaldnast skaðlaus", skrifar Sif Sigmarsdóttir í Heimildina á laugardaginn.
 
 Múgurinn skiptist í tvennt. Fólk sem er að reyna að lifa sínu lífi í sátt við samfélagið og fólk sem er að reyna að lifa lífi sínu þannig samfélagið eigi að vera sátt við það. 

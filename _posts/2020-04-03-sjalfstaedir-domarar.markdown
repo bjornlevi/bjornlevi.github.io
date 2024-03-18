@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Sjálfstæðir dómarar"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-04-03 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_2ab3630046
+title: Sjálfstæðir dómarar
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2020-04-03
 ---
+
 Eruð þið nokkuð búin að gleyma Landsrétti? Þið vitið, nýja millidómstiginu okkar  sem var mörg ár í undirbúningi og fyrrverandi dómsmálaráðherra klúðraði á lokametrunum með því að skipa ekki hæfustu dómarana. 
 
 Landsréttur tók til starfa 2018 með fimmtán dómurum sem höfðu verið valdir af dómsmálaráðherra og staðfestir með naumum meirihluta í atkvæðagreiðslu á Alþingi. Ástæða mótstöðunnar á Alþingi var að dómsmálaráðherra hafði hunsað ráðleggingar hæfnisnefndar og handvalið fjóra dómara til setu í réttinum sem þó voru ekki hæfastir til þess. Enn fremur faldi ráðherra upplýsingar fyrir Alþingi þar sem fram komu álit sérfræðinga í dómsmálaráðuneytinu þar sem ráðherra var ráðlagt gegn þeirri vegferð sem hún valdi. 

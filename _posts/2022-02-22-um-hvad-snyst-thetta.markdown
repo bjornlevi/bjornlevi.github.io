@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Um hvað snýst þetta?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-02-22 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_dc94201b1b
+title: Um hvað snýst þetta?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2022-02-22
 ---
+
 Þegar ég var að byrja í stjórnmálum kom að mér einn reyndur úr flokkspólitíkinni og útskýrði fyrir mér hvað það þýddi að "ramma inn umræðuna". Að hann gæti "unnið" allar rökræður ef hann fengi að stjórna því hvert sjónarhornið á umræðunni væri.
 Það er þess vegna sem við sjáum oft hina ýmsu varðhunda valdsins sífellt útskýra fyrir öllum öðrum um hvað hitt og þetta mál snýst í raun og veru um, með því að gera öðrum upp skoðanir. Í versta falli snýst þá umræðan um þann strámann frekar en málið sjálft og afvegaleiðingin heppnast.
 Sem dæmi. Það er satt að það hvorki þingið né framkvæmdavaldið eigi að hafa afskipti af störfum lögreglu í miðjum málarekstri. Í nýlegri færslu fjármálaráðherra er einmitt ásökun um að eitthvað slíkt sé í gangi. Stundum er erfitt að gera greinarmun á því hvað er strámaður og hvað ekki vegna þess að efnislega eru rökin rétt - en það er bara enginn að leggja það til að það eigi að trufla störf lögreglu. Það eru allir sammála um að lögreglan eigi að fá frið til þess að sinna starfi sínu. Þau einu sem halda öðru fram eru fjármálaráðherra og hans lið.

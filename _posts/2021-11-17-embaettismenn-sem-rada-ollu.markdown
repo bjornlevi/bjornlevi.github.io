@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Embættismennirnir sem ráða öllu"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-11-17 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_c8e10eedc1
+title: Embættismennirnir sem ráða öllu
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2021-11-17
 ---
+
 Oft er sagt að embættismenn ráði öllu og pólitískir fulltrúar hafi engin áhrif. Það er dálítið merkilegt því oft er líka talað um hvernig ráðherra ræður öllu. Hvort tveggja getur ekki verið satt á sama tíma. Annað hvort erum við undir hælnum á ráðherra eða embættismönnum, ekki satt?
 
 Áður en ég svara þeirri spurningu neitandi finnst mér merkilegt að benda á í því samhengi að aldrei er talað um að Alþingi ráði neinu. Þrátt fyrir að við búum í þingbundnu lýðræði. Það er nefnilega þannig að samkvæmt stjórnarskrá á það að vera þingið sem ræður. Það er þingið sem setur stefnuna, samþykkir fjárlög og passar upp á að framkvæmdavaldið fari eftir lögum og reglum.

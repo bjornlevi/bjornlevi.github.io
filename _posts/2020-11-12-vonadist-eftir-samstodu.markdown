@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Vonaði að samstaða myndi nást"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-11-12 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6f2d6f4d8f
+title: Vonaði að samstaða myndi nást
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2020-11-12
 ---
+
 ["Ég átti svo sem aldrei von að samstaða myndi nást"](https://www.ruv.is/sjonvarp/spila/tiufrettir/25206/8kvqnt/umraeda-um-stjornarskra-staerri-en-einstaka-flokkar)
 
 Samt var reynt í 3 ár. 

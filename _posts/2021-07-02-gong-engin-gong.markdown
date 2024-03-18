@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Göng? Engin göng?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-07-02 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_568457062a
+title: Göng? Engin göng?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-07-02
 ---
+
 Í vikunni kom í ljós að samgönguáætlun er vanfjármögnuð. Það hefð ekki átt að koma á óvart, en gerði það samt. Þannig er það venjulega. Ástæðan fyrir því að það kom á óvart í þetta skipti er vegna þess að Alþingi afgreiddi tvær samgönguáætlanir á kjörtímabilinu. Fyrst samgönguáætlun fyrir árin 2019 - 2023 (ásamt 15 ára áætlun) og svo var samgönguáætlun uppfærð fyrir árin 2020 - 2024 (ásamt 15 ára áætlun). Mikið var gert úr því í fyrri samgönguáætluninni að hún væri fullfjármögnuð, eða eins og forsætisráðherra sagði í [atkvæðagreiðslu um málið](https://www.althingi.is/altext/raeda/149/rad20190207T144154.html): "Ég tek undir með þeim sem fagna því að hér liggur fyrir fullfjármögnuð samgönguáætlun".
 
 Sú fullyrðing stóðst nú ekki lengi því strax á næsta þingi var lögð fram ný samgönguáætlun með _innbyggðri_ vanfjármögnun. Eða eins og samgönguráðherra sagði í [framsögu sinni](https://www.althingi.is/altext/raeda/150/rad20191204T173449.html): "Á árunum 2022–2024 er þó gert ráð fyrir að útgjöld til nýframkvæmda á vegakerfinu verði 1,5 milljarðar kr. umfram ramma fjármálaáætlunar. Við þurfum sem sagt meira fé."

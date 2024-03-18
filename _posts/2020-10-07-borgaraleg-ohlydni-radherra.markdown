@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Borgaraleg óhlýðni ráðherra?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-10-07 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_9cfcb6a025
+title: Borgaraleg óhlýðni ráðherra?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2020-10-07
 ---
+
 [Ræða úr störfum þingsins](https://www.facebook.com/bjornlevi/posts/10158969714321869)
 
 Í umræðum um fjármálaáætlun í gær varð fjármálaráðherra rosalega fúll yfir því að ég væri að spyrja hann út í formið og fannst það ekki nægilega praktísk umræða. Það er mjög kaldhæðnislegt miðað við að hann var fjármálaráðherra þegar form laga um opinber fjármál voru samþykkt. Fjármálaráðherra hefur kvartað yfir þessu áður, að það þurfi nú tíma til þess að innleiða verkferlana sem lögin kveða á um. 

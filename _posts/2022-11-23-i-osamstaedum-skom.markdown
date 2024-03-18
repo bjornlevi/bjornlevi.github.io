@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Í ósamstæðum skóm"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-11-23 09:02:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_4981ada9d8
+title: Í ósamstæðum skóm
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2022-11-23
 ---
+
 Oft er sagt – og sérstaklega í stjórnmálum – að við verðum öll að gera málamiðlanir. Það er í sjálfu sér alveg dagsatt, en það er hins vegar ekki algilt. Það er nefnilega ekki hægt að málamiðla um allt.
 
 Tökum sem dæmi hjón á leið í veislu. Eiginmaðurinn vill fara í strigaskóm, en eiginmaður hans vill endilega að hann fari frekar í háhælaskóm. Hver væri málamiðlunin hér? Ætti maðurinn að fara í einum strigaskó og einum háhælaskó? Ætti hann kannski að skipta um skópar í miðri veislu? Nei, auðvitað ekki.

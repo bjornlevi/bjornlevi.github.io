@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Hver fær kökuna"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-02-12 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_66c4ae8fe5
+title: Hver fær kökuna
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2022-02-12
 ---
+
 Fjármálaráðherra segir að hvergi á Norðurlöndunum sé betur gert og heimilin hafi aldrei haft það betra. En er það rétt?
 
 Frá því fyrir eftir hrun hefur verðbólgan verið um rúmlega 37%. Það sem kostaði einu sinni 100 kr. kostar núna 137 kr. Launavísitala hefur hins vegar hækkað um 54% sem þýðir að sá sem fékk áður 100 kr. í laun fær nú 153 kr. Á sama tíma hefur landsframleiðsla hækkað um 17% (ef við horfum fram hjá Covid). Miðað við þetta lítur dæmið ágætlega út. Við fáum meira fyrir krónurnar okkar en áður. En þetta eru meðaltöl. Hvað gerist þegar við skoðum málið nánar?

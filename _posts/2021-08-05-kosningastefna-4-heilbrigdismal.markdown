@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Heilbrigðisstefna"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:04:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_305e26a98f
+title: Kosningastefna Pírata 2021 - Heilbrigðisstefna
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-08-05
 ---
+
 Við Píratar setjum forvarnir, fyrirbyggjandi aðgerðir, velferð sjúklinga og réttindi notenda heilbrigðisþjónustu í forgang. Við viljum að sjúklingurinn njóti vafans, ekki kerfi eða kostnaður. Langtíma heilbrigðisáætlun á að stuðla að mannúðlegu viðmóti og nærgætni í heilbrigðiskerfinu, lausu við fordóma. Við viljum stefna að gjaldfrjálsri heilbrigðisþjónustu og tryggja aðgengi okkar allra að fjölbreyttri hágæða þjónustu þar sem réttindi notenda eru sett í forgang.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Heilbrigðisstefna)

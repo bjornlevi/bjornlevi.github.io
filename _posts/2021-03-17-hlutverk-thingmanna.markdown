@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Hvað gera þingmenn?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-03-17 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_50a0d1f1a7
+title: Hvað gera þingmenn?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2021-03-17
 ---
+
 Ég rek augun og eyrun oft í alls konar hugmyndir um hvað fólk telur að þingstarfið sé. Ég hafði sjálfur ýmsar hugmyndir um í hverju það starf fælist áður en ég fór að sinna því starfi. Augljósi hluti starfsins væri að setja lög. Svo fannst mér augljóst að þingmenn ættu ekki að snúa út úr umræðu og hvað þá að beinlínis ljúga. Ég var samt ekki með mikið skýrari sýn á það hvert starf þingmanna væri í raun og veru. Eftir að hafa sinnt þessu starfi í rúm fjögur ár núna þá tel ég mig skilja ágætlega af hverju það er. Til að byrja með er ekki einu sinni reynt að útskýra það fyrir einum né neinum þegar inn á þing er komið, sem er svo sem ekki af ástæðulausu. Grunninn að starfi þingmanna er nefnilega að finna í 48. gr. stjórnarskrárinnar, en þar segir:
 
 > Alþingismenn eru eingöngu bundnir við sannfæringu sína og eigi við neinar reglur frá kjósendum sínum.

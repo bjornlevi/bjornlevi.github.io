@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Heimilisbókhald ríkisstjórnarinnar í Covid"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-11 10:09:00
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6e989c1139
+title: Heimilisbókhald ríkisstjórnarinnar í Covid
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-08-11
 ---
+
 Í [speglinum þann 10. ágúst](https://www.ruv.is/utvarp/spila/spegillinn/23680/7gpcpl/politiska-hlidin-a-covid) var spurt hvort verið væri að fórna meiri hagsmunum fyrir minni. Formaður Efnahags- og viðskiptanefndar svarar þeirri spurningu á áhugaverðan og einstaklega þröngsýnan hátt, sem er frekar sorglegt miðað við stöðu hans í samfélaginu sem formaður þeirrar nefndar sem á að vakta efnahagsmálin. Hann segir að "við höfum ekki efni á því að skrúfa niður allt hagkerfið, loka landinu hér, til lengri tíma litið. Vegna þess að það mun verða til þess að við gröfum undan sjálfum okkur, við munum ekki hafa efni á því að reka hér öfluga skóla, ekki hafa efni á því að reka hér öflugt heilbrigðiskerfi". Enn fremur segir hann að við verðum að passa að "lama ekki hér íslenskt efnahagslíf [...] það er efnahagslífið, viðskiptalífið sem fjármagnar þetta allt saman".
 
 Byrjum aðeins á grundvallaratriðunum. Það er fullyrt að það sé viðskiptalífið sem fjármagnar þetta allt saman. Það er einfaldlega rangt. Það er hið opinbera sem fjármagnar þetta allt saman (menntakerfið, heilbrigðiskerfið, velferðarkerfið). Það er ekki svo flókið mál og er vel farið yfir það í þessari [grein Ólafs Margeirssonar](https://kjarninn.is/skodun/2019-02-04-hvad-er-modern-monetary-theory/) um modern monetary theory. Þau sem vilja lesa meira um málið geta lesið bókina [The Deficit Myth: Modern Monetary Theory and the Birth of the People's Economy](https://www.amazon.com/Deficit-Myth-Monetary-Peoples-Economy/dp/1541736184). Í aðalatriðum snýst sú kenning um að það er hið opinbera sem býr til gjaldmiðilinn, allir aðrir nota gjaldmiðilinn. Það er ekki hið opinbera sem innheimtir skatta og gjöld til þess að eyða heldur býr til pening sem aðrir geta svo notað. Hlutverk skatta er ekki tekjuöflun heldur eru þeir efnahagstæki sem eyðir peningum úr efnahagskerfinu. Einhverjir gætu spurt, skiptir það máli? Er þetta ekki eins og vandamálið um hænuna og eggið? Jú, það skiptir máli hvort kemur á undan af því að ef horft er á efnahagsmálin út frá því sjónarhorni að skattar séu tekjuöflunarleið þá gengur heildardæmið síður upp. Það eru nefnilega fleiri atriði sem skipta máli í efnahagskerfinu en bara tekjur og gjöld hins opinbera. Atriði eins og vextir, verðbólga, erlend lán og atvinnuleysi. 

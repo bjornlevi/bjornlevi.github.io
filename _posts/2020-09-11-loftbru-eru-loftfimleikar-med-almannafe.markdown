@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Loft­brú eru loft­fim­leikar með al­manna­fé"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-09-11 10:00:34 +0000
-categories: visir
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_9dbe373fde
+title: Loft­brú eru loft­fim­leikar með al­manna­fé
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2020-09-11
 ---
+
 Hin svokallaða Loftbrú, eða niðurgreiðsla á flugfargjöldum fyrir íbúa sem búa ákveðið langt frá höfuðborgarsvæðinu, er gríðarleg sóun á almannafé. Það sem meira er: Það er ekkert sem tryggir að Loftbrúin fljúgi ofan í vasa almennings.
 
 Loftbrúin er yfirleitt útskýrð á þann hátt að hún geri fólki auðveldara að sækja þá þjónustu sem það þarfnast til höfuðborgarsvæðisins. Hið augljósa er hins vegar að Loftbrúin er í raun bara styrkur til flugfélaga innanlands. Það er þannig ekkert í hendi um að niðurgreiðslan gagnist farþegum. Allar líkur eru þess vegna á, til lengri tíma, að miðaverð hækki einfaldlega um þá upphæð sem er niðurgreidd af ríkinu, nákvæmlega eins og húsaleigubætur hækka leiguverð.

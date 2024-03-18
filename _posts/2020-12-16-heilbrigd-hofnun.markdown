@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Heilbrigð höfnun"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-12-16 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_72b4e8c056
+title: Heilbrigð höfnun
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2020-12-16
 ---
+
 Í pólitík er til tvenns konar samstarf. Annars vegar valdasamstarf og hins vegar málefnasamstarf. Enginn hefur nokkurn tíma útilokað samstarf um einstaka málefni. Valdasamstarf er allt annað mál. Flokkar sem hafa sýnt að þeir kunna ekki að fara með völd eiga ekkert erindi í valdastöður. Þetta ætti ekki að koma neinum á óvart, þetta ættu að vera sjálfsögð sannindi.
 
 En einhverra hluta vegna virkar samstarf um völd öðruvísi á Íslandi. Annað hvort gerir stjórnmálastéttin sér ekki grein fyrir því eða að valdagræðgin er einfaldlega svo mikil að allt annað fýkur út í veður og vind. Nema hvort tveggja sé.

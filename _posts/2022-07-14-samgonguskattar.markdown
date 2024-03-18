@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Samgönguskattar"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-07-14 09:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_818ab89c7e
+title: Samgönguskattar
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2022-07-14
 ---
+
 Nýlega kynnti innviðaráðherra áform um gjaldtöku í öllum jarðgöngum landsins ásamt “annarskonar gjaldtöku” þar sem eldsneytisgjald úreldis fyrr en síðar. Í staðinn eiga að koma “einhverskonar notkunargjöld”. 
 
 Í fjármálastefnu ríkisstjórnarinnar segir að endurskoðun eigi skattkerfi samgöngumála til að tryggja sambærilegar skatttekjur af ökutækjum og á árunum 2010 - 2017. Þessar skatttekjur voru þá um 1,5% af vergi landsframleiðslu. Það myndi þýða að í ár ættu um 50 milljarðar að koma í ríkiskassann með slíkri skattheimtu af vörugjöldum, olíugjaldi, kolefnisgjaldi, bifreiðagjaldi og kílómetragjaldi. 

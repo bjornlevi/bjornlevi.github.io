@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Internet og netfrelsi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:13:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_dd1f9cfe8e
+title: Kosningastefna Pírata 2021 - Internet og netfrelsi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2021-08-05
 ---
+
 Við Píratar viljum að aðgangur fólks að internetinu sé án hindrana, enda er netið ein af grunnstoðum samfélagsins. Tryggjum öllum á Íslandi alhliða, frjálst, opið og óskert internet á viðráðanlegu verði. Píratar vilja ná fram réttarúrbótum í netfrelsi almennings og standa vörð um réttarstöðu borgara, fjölmiðla, heimildamanna, uppljóstrara og upplýsingafrelsi á netinu.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Internet og netfrelsi)

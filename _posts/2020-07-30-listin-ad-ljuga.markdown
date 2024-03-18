@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Listin að ljúga"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-07-30 16:27:34 +0000
-categories: mannlif
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_bcf2f6a449
+title: Listin að ljúga
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2020-07-30
 ---
+
 Ein uppáhalds greinin mín í stjórnarskránni er 48. greinin. Þar segir að “alþingismenn eru eingöngu bundnir við sannfæringu sína og eigi við neinar reglur frá kjósendum sínum”. Það eru fjölmargar ástæður fyrir því að þessi grein er í ákveðnu uppáhaldi. Til að byrja með vegna þess að hún setur ákveðnar væntingar um kjörna fulltrúa. Kjörinn fulltrúi þarf ekki að vera menntaður upp fyrir haus eða hokinn af reynslu. Kjörinn fulltrúi þarf einungis að fylgja sannfæringu sinni.
 
 Hvers vegna skiptir það máli? Vegna þess að það er lífsins ómögulegt að vera sérfræðingur í öllu. Þess vegna er það svo mikilvægur hluti af ferli þingmála að fá umsagnir um þingmál. Ekki bara umsagnir sérfræðinga og sértækra hagsmunaaðila, heldur umsagnir frá öllum. Þingmenn vega svo og meta umsagnir. Skoða álitaefni og mótsagnir og taka svo ákvörðun út frá sannfæringu sinni um afdrif mála. 

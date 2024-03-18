@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Tölum um réttindi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-01-11 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_44269b2dde
+title: Tölum um réttindi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2023-01-11
 ---
+
 Í mannréttindakafla stjórnarskrárinnar er einfaldlega sagt að allir skulu vera jafnir fyrir lögum og njóta mannréttinda án tillits til: “kynferðis, trúarbragða, skoðana, þjóðernisuppruna, kynþáttar, litarháttar, efnahags, ætternis og stöðu að öðru leyti”. Þrátt fyrir þetta, mjög svo afdráttarlausa ákvæði, eru ýmis lagaákvæði sem má alveg segja að sé vafi að standist þessar kröfu stjórnarskrárinnar um jafnvægi.
 
 Hver getur sagt af eða á um það? Dómstólar gera það vissulega. Það kom til dæmis dómur vegna afturvirkra skerðinga sem settar voru í lög 2017. Þau lög fóru í gegnum þingið þrátt fyrir aðvaranir Pírata um að þau stæðust ekki stjórnarskrá og svo fór að dómstólar staðfestu það mat. 

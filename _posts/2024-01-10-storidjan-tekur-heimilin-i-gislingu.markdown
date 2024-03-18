@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Stóriðjan tekur heimilin í gíslingu"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2024-01-09 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_7d985600a2
+title: Stóriðjan tekur heimilin í gíslingu
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2024-01-09
 ---
+
 Forgangsröðun orku ætti ekki að vera flókin. Fyrst þarf að tryggja orku fyrir heimilin og grunninnviði samfélagsins, síðan fyrir verðmætasköpunina. Heimilin og verðmætasköpunin eru þó auðvitað samofin. Það væri engin verðmætasköpun án heimila og engin heimili án verðmætasköpunar. 
 
 Umræðan þessa dagana um orkuskort er á villigötum ef kjarni málsins er skoðaður. Á Íslandi framleiðum við gríðarlegt magn af orku. Miklu meiri orku en heimilin og grunninnviðir landsins þurfa. Umfram orkan er síðan notuð í verðmætasköpun og því meiri orku sem við höfum aflögu til þess að auka verðmætasköpun, því betra. En, og það er risastórt en, það þýðir ekki að við eigum að ganga í að búa til eins mikla orku og við mögulega getum, því orkuframleiðslan gengur á náttúruna. Flestir hljóta að vera sammála um það og því ætti umræðan að snúast í staðinn um hvernig við eigum að ráðstafa þeirri orku sem við framleiðum. 

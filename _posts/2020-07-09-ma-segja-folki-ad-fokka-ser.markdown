@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Má segja fólki að fokka sér"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-07-09 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_02d1f9e316
+title: Má segja fólki að fokka sér
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2020-07-09
 ---
+
 Við eigum að vera kurteis við hvort annað. Ákveðin háttsemi og gestrisni er til dæmis umfjöllunarefni margra kvæða í Hávamálum. Þar er talað um að góður orðstír deyr aldrei, að fróður sé sá sem spyr og svarar og hvernig gestir eiga ekki að ganga á gestrisni. 
 
 Án þess að verða of fræðilegur um Hávamál þá rekja þau ákveðna slóð kurteisi. Það er mjög góð lífsregla, að sýna kurteisi og vænta þess að þér sé mætt í sömu mynt. En hvað gerist þegar kurteisin hverfur og blekkingar og útúrsnúningar birtast í staðinn? Hvað áttu að gera þegar þú skilar góðu verki en samstarfsmenn rengja það og rægja? 

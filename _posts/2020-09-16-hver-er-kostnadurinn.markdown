@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Samkomutakmarkanir - Hver er kostnaðurinn?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-09-16 10:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6de46fdb25
+title: Samkomutakmarkanir - Hver er kostnaðurinn?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-09-16
 ---
+
 Þann 27. janúar síðastliðinn var lýst yfir óvissustigi vegna kórónaveirunnar á Íslandi. 30. janúar var lýst yfir neyðarástandi á heimsvísu vegna faraldursins. 26. febrúar er öllum sem koma til landsins gert að fara í 2 vikna sóttkví. 28. febrúar var svo fyrsta smitið staðfest á Íslandi. Þá var hættustig almannavarna virkjað. Neyðarstigi almannavarna var virkjað viku seinna, 6. mars. Framhalds- og háskólum var lokað 13. mars og grunnskólastarfsemi var takmörkuð. Takmarkanir á samkomum voru hertar 24. mars, sama dag og fyrsta andlátið af völdum Covid-19 var tilkynnt. 4. maí var svo í fyrsta sinn slakað á takmörkunum á samkomum og skólahaldi. 15. maí eru engar sóttvarnir gagnvart fólki sem kemur frá Færeyjum og Grænlandi og mánuði seinna, 15. júní er ferðamönnum gefinn kostur á því að fara í sýnatöku í stað þess að fara í tveggja vikna sóttkví en þá höfðu mjög fá tilfelli greinst frá lokum apríl, eða færri en eitt á dag. 
 
 Nýr kafli byrjar þegar sýnataka er leyfð í staðinn fyrir sóttkví. Til að byrja með gengur allt ágætlega en á sama tíma heldur tilfellum á heimsvísu áfram að fjölga. 15. júní, þegar slakað er á takmörkunum við landamæri greinast rúmlega 132 þúsund ný tilfelli á heimsvísu en rúmum mánuði seinna greinast flest ný tilfelli á einum degi í heiminum, tæplega 329 þúsund. Fjöldi nýrra tilfella hefur haldist nokkuð stöðugur síðan þá eða í kringum 250 þúsund ný tilfelli á dag. Áhrif þess sjást á Íslandi en um það leiti sem flest ný smit greinast í heiminum fer innanlandssmitum aftur að fjölga. Sú þróun ætti ekki að koma neinum sem skoðar gögnin á óvart. Á sama tíma og fjölda nýrra smita í heiminum fer fjölgandi þá slakar Ísland á landamæratakmörkunum sem leiðir til þess að fólk frá miklu fleiri löndum fara að koma til landsins. Það er meira að segja um [þriðjungs fjölgun á fjölda ferðamanna frá Danmörku í júlí miðað við júlí 2019](https://www.ferdamalastofa.is/static/files/ferdamalastofa/Frettamyndir/2020/september/2020-januar-agust.xlsx). 

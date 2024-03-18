@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Biðin endalausa, 2023 útgáfan"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-01-02 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_4340fb6d22
+title: Biðin endalausa, 2023 útgáfan
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2023-01-02
 ---
+
 „Stjórnvöld eiga ekki að biðja fátækt fólk á Íslandi að bíða eftir réttlætinu,“ sagði Katrín Jakobsdóttir, formaður Vinstri-grænna, í umræðu um stefnuræðu forsætisráðherra árið 2017. Þá í stjórnarandstöðu örstuttu áður en ríkisstjórnin sprakk út af upprreist æru málinu. Í kjölfar kosninganna hurfu Viðreisn og Björt framtíð úr ríkisstjórn og VG og Framsókn fóru inn í ríkisstjórn í staðinn. Flokkurinn sem var áhrifavaldurinn í uppreist æru málinu sat áfram sem fastast í ríkisstjórn. Á þeim fimm árum síðan þessi orð voru sögð hefur Katrín Jakobsdóttir verið forsætisráðherra. 
 
 Í áramótaávarpi sínu segir forsætisráðherra svo: “við eigum í öllum okkar verkum að stefna að því útrýma fátækt sem er samfélagsmein sem á ekki að líðast í okkar samfélagi”. Það er því kannski eðlilegt að spyrja, hvað hefur breyst á þessum 5 árum? 

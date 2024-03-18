@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Menntamál"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:17:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_3e2aa0f3df
+title: Kosningastefna Pírata 2021 - Menntamál
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-08-05
 ---
+
 Menntun er undirstaða framfara. Til að tryggja framfarir til framtíðar þarf menntakerfið að vera búið undir þær samfélagslegu breytingar sem fram undan eru. Það gerum við með því að auka sveigjanleika og frjálsræði í menntakerfinu, setja nemandann í forgrunn, styðja við starfsfólk og auka áherslu á færni sem nýtist í sjálfvirknivæddu samfélagi á upplýsingaöld.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Menntamál)

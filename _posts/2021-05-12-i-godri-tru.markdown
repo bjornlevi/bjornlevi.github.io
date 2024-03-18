@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Í góðri trú?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-05-12 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_0b0723886d
+title: Í góðri trú?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic9.jpg"
+date: 2021-05-12
 ---
+
 Ásýnd stjórnmála og stjórnsýslu er lykilatriði þegar kemur að trausti almennings. Þetta segir skýrsla sem ríkisstjórnin lét gera í upphafi kjörtímabilsins. Vandamálið er hins vegar hvort ásýndin endurspegli reynd eða sé bara sýndarmennska. 
 
 Á undanförnum misserum hafa ýmis mál farið í gegnum þingið sem ætlað er að efla traust almennings á stjórnmálum. Þar á meðal eru lög um hagsmunaverði, þar sem ráðherra og aðstoðarmenn ráðherrar voru reyndar undanskildir og eftirlit með skráningu ráðherra var sett í hendur forsætisráðherra. Einnig voru lög um vernd uppljóstrara samþykkt, þó með þeim galla að uppljóstrarar þurfa að vera í “góðri trú” og hafi ekki aðra leið til þess að koma í veg fyrir þau brot sem uppljóstrunin á að afhjúpa.

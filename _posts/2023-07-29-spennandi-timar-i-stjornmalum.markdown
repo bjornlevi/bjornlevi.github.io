@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Spennandi tímar í stjórnmálum"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-07-29 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_13b5405de7
+title: Spennandi tímar í stjórnmálum
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2023-07-29
 ---
+
 Það er enn júlí og merkilegt nokk þá er engin gúrkutíð í stjórnmálum landsins eins og venjulega. Það eru herkvaðningar á hægri vængnum og stórkostlega miklar breytingar samkvæmt skoðanakönnunum á fylgi flokka miðað við niðurstöður síðustu kosninga (þessara sem snérust um talningu í Borgarnesi, munið þið?).
 
 Lindarhvolsmálið er umfangsmikið, þar ganga ásakanir ríkisendurskoðenda á milli um alls konar vinnubrögð. Undir eru milljarðar af almannaeigum sem voru líklega seldar með úreldu verðmætamati - og þar af leiðandi með töluverðum afslætti. Í miðju þeirra mála er auðvitað fjármála- og efnahagsráðherra sem átti ekki að skipta sér neitt af starfsemi Lindarhvols en skipar þar stjórn og útvegar stjórninni eiginlegan framkvæmdastjóra. 

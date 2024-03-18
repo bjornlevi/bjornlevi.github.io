@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Byggðir og valdefling nærsamfélaga"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:07:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_2928bca056
+title: Kosningastefna Pírata 2021 - Byggðir og valdefling nærsamfélaga
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2021-08-05
 ---
+
 Allar stefnur Pírata eru byggðastefna. Markmið Pírata eru að sveitarfélög séu sjálfbær, íbúar þeirra njóti grunnþjónustu sem þeir eiga rétt á og að skapa aðstæður sem tryggja aukna nýsköpun og framleiðslu í heimahögum. Við viljum draga úr miðstýringu valds og færa ákvarðanatöku í málefnum byggða og sveitarfélaga í auknum mæli til nærsamfélagsins og tryggja að stærra hlutfall skatttekna svæðisbundinnar starfsemi renni beint til sveitarfélaganna. Aukið íbúalýðræði í nærsamfélagi er grundvöllur fyrir sterku og valdeflandi samfélagi.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Byggðamál)

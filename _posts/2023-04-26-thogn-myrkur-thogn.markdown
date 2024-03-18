@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Þögn. Myrkur. Þögn"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-04-26 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_4cf2449aae
+title: Þögn. Myrkur. Þögn
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2023-04-26
 ---
+
 Aðfararnótt 30. júní fyrir rétt tæplega þremur árum var atkvæðagreiðsla á Alþingi um frumvarp um afglæpavæðingu neysluskammta vímuefna. Frumvarpinu var hafnað með 28 atkvæðum ríkisstjórnarflokkanna og Miðflokksins. Nokkrir stjórnarþingmenn gerðu grein fyrir atkvæði sínu þá nóttina með eftirfarandi orðum.
 
 Þórunn Egilsdóttir: “Þingflokkur Framsóknar styður hugmyndina um afglæpavæðingu neyslu vímuefna [...] Við getum verið sammála um að refsistefna sem hér hefur ríkt virkar ekki sem skyldi. Því þurfum við að fara aðrar leiðir.”

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Siðareglur eða reglur til að siða?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-04-03 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_f6881616d5
+title: Siðareglur eða reglur til að siða?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2021-04-03
 ---
+
 Sitt sýnist hverjum um hvort þörf sé á siðareglum. Skoðanir á slíkum reglum ná allt frá því að þær séu taldar vera algjört bull yfir í óþarfa vesen, ágætis viðmið, nauðsynlegt aðhald eða stjórntæki. Það merkilega er að það hafa allir rétt fyrir sér á sama tíma. Hvernig er það hægt?
 
 Til að byrja með þá er ekki þörf á siðareglum út um allt. Skoðanir eru auðvitað skiptar um það líka, en við getum öll verið sammála um að það eru til þær aðstæður þar sem það er engin þörf á slíkum reglum. Á sama hátt eru til aðstæður þar sem siðareglur eru allt frá því að vera hjálplegar til þess að vera nauðsynlegar. 

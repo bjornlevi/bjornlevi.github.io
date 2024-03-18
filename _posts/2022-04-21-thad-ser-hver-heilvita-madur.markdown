@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Það sér það hver heilvita maður ..."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-04-21 06:02:00 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_d6629839c3
+title: Það sér það hver heilvita maður ...
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2022-04-21
 ---
+
 … að ráðherra er ekki undirskriftarvél.
 
 Í morgunútvarpinu á miðvikudagsmorgun reyndi Óli Björn Kárason að þvæla málið um sölu Íslandsbanka fyrir öllum. Þar lagði hann sérstaka áherslu á að hver „heilvita maður“ sjái nú að fjármálaráðherra geti ekki farið yfir hvert eitt og einasta tilboð sem berast í Íslandsbanka. Óli Björn segir að í stað þess taki ráðherra afstöðu og samþykki „heildarniðurstöðuna“, á hvaða gengi er selt og fjölda tilboða.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Loksins niðurstaða í Landsréttarmálinu"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-12-01 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_8209b82a47
+title: Loksins niðurstaða í Landsréttarmálinu
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2020-12-01
 ---
+
 Kjörtímabilið 2016 - 2017 var viðburðarríkt. Landsréttarmálið, uppreist æra barnaníðinga, ríkisstjórnarslit og kosningar með minnsta mögulega fyrirvara eftir að boðað hafði verið til kosninga vegna ráðherraævintýra í skattaskjólum. Í kjölfarið er mynduð ný ríkisstjórn með helstu leikurum fyrri hneykslismála. Ríkisstjórn sem ver dómsmálaráðherra vantrausti vegna þess að annars væri ríkisstjórnarsamstarfið búið. Eða eins og Bjarkey Olsen Gunnarsdóttir orðaði það:
 
 > Vinstri græn tóku undir forystu Katrínar Jakobsdóttur sæti í ríkisstjórn vitandi af því að Hæstiréttur gæti staðfest niðurstöðu héraðsdóms. Það hefur verið margrætt af okkar hálfu. Níu þingmenn Vinstri grænna meta það svo að ríkisstjórnarsamstarfið sé undir ef vantraust verður samþykkt. Við myndum líta þannig á ef málið sneri að okkur, annað er einföldun á pólitíkinni að mínu mati.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Leikjafræði þingloka"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-06-19 16:27:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_cfb4254dc7
+title: Leikjafræði þingloka
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2020-06-19
 ---
+
 Hvað gerist rétt áður en þing fer í frí? Af hverju er oft málþóf á þeim tíma? Í grunnatriðum er það vegna þess að flokkar sem mynda meirihluta vilja ekki að flokkar sem eru í minnihluta fái nein mál í afgreidd í gegnum þingið. Meirihlutinn getur einfaldlega komið í veg fyrir það með því valdi sem hann tekur sér í öllu mögulegu. 
 
 Þingið starfar nefnilega á forsendum sama meirihluta út allt kjörtímabilið. Það þýðir að þó flokkarnir sem mynda meirihlutann séu ósammála, til dæmis ef einn af þeim flokkum væri sammála máli sem lagt var fram af minnihlutanum þá fær sá flokkur alla jafna ekki að kjósa með því máli. Á því eru örfáar undantekningar, eins og málin um þungunarrof og rafrettur sýna. Það skal þó hafa í huga að það var einungis leyft vegna þess að gerðir voru einhverjir samningar meðal meirihlutaflokkanna um að leyfa slíka atkvæðagreiðslu.

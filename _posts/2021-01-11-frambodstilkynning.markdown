@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Framboðstilkynning"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-01-10 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_482b6dc9b0
+title: Framboðstilkynning
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2021-01-10
 ---
+
 Ég, Björn Leví Gunnarsson, býð fram krafta mína og reynslu í prófkjöri Pírata fyrir komandi alþingiskosningar 2021 í Reykjavík.
 
 ## Hvað geri ég?

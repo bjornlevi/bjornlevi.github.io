@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Smurbók heimilanna - meiri gæði, meira öryggi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-05-21 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_0b77d0feb6
+title: Smurbók heimilanna - meiri gæði, meira öryggi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-05-21
 ---
+
 Í vikunni samþykkti þingið ályktun um að ástandsskýrslur eigi að fylgja með fasteignum sem eru seldar. Viðskipti með íbúðarhúsnæði eru afar vandasöm. Þau eru yfirleitt stærstu viðskipti sem einstaklingar og fjölskyldur taka þátt í á ævi sinni og mikill hluti fjármuna þeirra oftast undir. Fjárfesting í íbúðarhúsnæði er oftast einnig fjárfesting í heimili. Afar mikilvægt er að reglur um slík viðskipti auki fyrirsjáanleika og öryggi neytenda og dragi úr tjóni og óþörfum deilu- og dómsmálum. Þá er mikilvægt að koma í veg fyrir að fólk þurfi að þola íveru í heilsuspillandi húsnæði en nokkur vitundarvakning hefur orðið um þær hættur sem af því stafa. Hingað til hafa ekki verið gerðar teljandi úrbætur á þessu sviði.
 
 Á árunum 2010 - 2017 voru alls 102 dómar í héraði sem fjölluðu um galla í fasteignum. Gróflega má áætla málskostnað í þeim málum upp á um tvær og hálfa milljón á hvert mál. Samið er, utan dómstóla, um fjölda annara mála. Vandinn er augljós og allt of algengt að vandi komi upp vegna leyndra galla. 

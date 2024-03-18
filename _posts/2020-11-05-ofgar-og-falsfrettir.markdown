@@ -1,11 +1,16 @@
 ---
-layout: posts
-title:  "Öfgar og falsfréttir"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-og_image: https://bjornlevi.github.io/assets/images/How_to_Spot_Fake_News.jpg
-date:   2020-11-05 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6ccdcc2233
+title: Öfgar og falsfréttir
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic4.jpg"
+date: 2020-11-05
 ---
+
 Heimurinn á við mörg vandamál að stríða. Eitt þeirra eru öfgar, og að því er virðist meiri öfgar en áður. Það er hins vegar ekki rétt, maðurinn hefur oft látið leiða sig út í öfgar. Síðari heimsstyrjöldin ætti enn að vera minnisvarði um skaðsemi öfganna. 
 
 Öfgar dagsins í dag eru nákvæmlega þær sömu og alltaf áður, knúnar áfram af ótta við hið ókunna, við það sem er öðruvísi. Annar húðlitur. Önnur kynhneigð. Önnur trú. Aðrar skoðanir. Afleiðingar öfganna eru misrétti, útskúfun, einelti, stríð. Afleiðingar ákvarðanna sem eru teknar vegna ótta við hið ókunna. Ákvarðanir sem eru teknar af því að við viljum ekki skilja. 

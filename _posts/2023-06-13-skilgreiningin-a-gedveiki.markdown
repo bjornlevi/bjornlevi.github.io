@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Skilgreiningin á geðveiki"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-06-13 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_4715fcd92d
+title: Skilgreiningin á geðveiki
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2023-06-13
 ---
+
 Fræg setning, oft tileinkuð Albert Einstein, segir að skilgreiningin á geðveiki sé að reyna að gera það sama aftur og aftur og búast við öðrum niðurstöðum í hvert skipti. En þetta er hvorki skilgreiningin á geðveiki né nokkuð sem Einstein ku hafa sagt. Það er mjög skrítið að endurtaka sömu mistökin aftur og aftur og búast við því að í næsta skipti verði bara allt í góðu lagi.
 
 Þetta gæti verið pistill um verðbólguna eða húsnæðisvandann. Það er sífellt verið að reyna sömu gömlu brögðin aftur og aftur og búist við að núna muni allt ganga upp og verða betra. En þetta er pistill um heilbrigðiskerfið, geðheilbrigðiskerfið. 

@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Sanngjarn skattur?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-06-03 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_e91feeb1a8
+title: Sanngjarn skattur?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic5.jpg"
+date: 2023-06-03
 ---
+
 Hvað er fjármagnstekjuskattur? Er það sanngjarn skattur? Einfalda svarið er að fjármagnstekjuskattur er skattur sem er innheimtur af hluta tekna þeirra sem þéna mest. Fólk sem lifir af fjármagnstekjum greiðir í heldur ekki útsvar til sveitarfélaga. Semsagt, ekki sanngjarn skattur fyrir alla aðra sem borga nú þegar hærra hlutfall í skatt og útsvar af öllum tekjum sínum.
 
 Einhverra hluta vegna þá losna sumir einstaklingar við að borga jafn mikinn skatt og aðrir af því að þau geta flokkað hluta af tekjum sínum sem “fjármagns” tekjur í staðinn fyrir “launa” tekjur. Af þessum fjármagnstekjum greiða þau svo 22% skatt en ekki hefðbundinn tekjuskatt eins og allir aðrir. 

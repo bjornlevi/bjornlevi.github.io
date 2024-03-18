@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Lindarhvoll ... Hvað er málið?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-07-11 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_7a874e25ea
+title: Lindarhvoll ... Hvað er málið?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2023-07-11
 ---
+
 Í síðustu viku var greinargerð setts ríkisendurskoðanda birt. Í kjölfarið tók varnarkórinn við sér og sagði að ekkert nýtt hefði komið fram, að birtingin stangist á við reglur, engin lög brotin, þetta er ekki endanleg skýrsla … og svo framvegis.
 
 En þetta almenna væl í varnarkórnum eru bara innihaldslausar yfirlýsingar. Það eru atriði þarna sem við vissum ekki um, og nei, þetta er ekki endanleg skýrsla. Það vita það allir. Þess vegna rýnum við í þær ábendingar sem fram koma í greinargerðinni og berum þær saman við lokaskýrsluna.

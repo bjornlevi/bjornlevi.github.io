@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Þarf ný útlendingalög?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-10-25 09:02:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6f16139de2
+title: Þarf ný útlendingalög?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2022-10-25
 ---
+
 Í gær var rætt á þingi útlendingafrumvarp Jóns Gunnarssonar. Þar er “vandinn” lagður upp sem svo að “fjölgun umsókna undanfarinn áratug sýnir hversu mikilvægt er að stjórnvöld geti brugðist við, eftir atvikum með laga- og reglugerðarbreytingum, og aðlagað verndarkerfið að þeirri þróun sem á sér stað á hverjum tíma. Verndarkerfið þarf að vera í stakk búið og byggt þannig upp að þeir sem raunverulega eiga rétt á alþjóðlegri vernd fái skjóta og mannúðlega afgreiðslu mála sinna. Á sama tíma er nauðsynlegt að tryggja að misnotkun á kerfinu sé í lágmarki.”
 
 Vandinn er að það er hvergi útskýrt hvernig er verið að misnota kerfið né hvernig frumvarpið kemur í veg fyrir meinta misnotkun. En svo er mál með vexti að einhver fjöldi flóttafólks er kúgaður af óprúttnum aðilum. Við vitum ekki hversu margir það eru en við vitum að það er ekki flóttafólkið sem er að misnota kerfið heldur er verið að misnota flóttafólkið.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 13:00:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_44f57d9b20
+title: Kosningastefna Pírata
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic7.jpg"
+date: 2021-08-05
 ---
+
 [Kosningastefna Pírata](https://piratar.is/kosningastefna/) fyrir næsta kjörtímabil var samþykkt á dögunum. Stefnan er í 24. köflum:
 
 1. [Nýja stjórnarskráin]({% post_url 2021-08-05-kosningastefna-1-stjornarskrain %})

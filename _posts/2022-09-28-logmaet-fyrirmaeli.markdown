@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Lögmæt fyrirmæli"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-09-28 09:02:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_abb2010af7
+title: Lögmæt fyrirmæli
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic1.jpg"
+date: 2022-09-28
 ---
+
 Í gær mælti Þórhildur Sunna Ævarsdóttir fyrir einfaldri breytingu á lögreglulögum. Frumvarpið snýst um að bæta orðinu “lögmætum” við 19. grein laganna. Greinin mun þá segja: “Almenningi er skylt að hlýða lögmætum fyrirmælum sem lögreglan gefur, svo sem vegna umferðarstjórnar eða til þess að halda uppi lögum og reglu á almannafæri”.
 
 Það ætti að vera augljóst að þegar lögreglan gefur fólki fyrirmæli, að þau fyrirmæli þurfi að vera lögmæt. Lögreglan á ekki að hafa geðþóttavald til þess að ráðskast með fólk. Lögreglan þarf að hafa ástæðu, nánar tiltekið lögmæta ástæðu, til þess að gefa fólki fyrirmæli sem er refsing við að óhlýðnast.

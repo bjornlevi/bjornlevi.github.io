@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Skipun án auglýsingar"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-01-20 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_555330e5b3
+title: Skipun án auglýsingar
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2023-01-20
 ---
+
 Í síðustu viku var enn einn embættismaður skipuður í stöðu án auglýsingar. Í samantekt forsætisráðuneytisins sem mbl.is fjallaði um í október á síðasta ári kemur fram að um 20% embættisskipanna á árunum 2009 - 2022 hafi verið án auglýsingar. Áður hafði þjóðminjavörður verið skipaður án auglýsingar, viðkomandi var víst sérstaklega hæf og uppfyllir öll skilyrði.
 
 Nú er það vissulega svo að í lögum þá er gefið svigrúm til þess að færa fólk í starfi án auglýsingar - en umsagnir og álit um þær lagabreytingar gerðu ráð fyrir því að sambærilegt starf myndi þá verða laust á sama tíma sem myndi þá verða auglýst. Að eftir sem áður yrðu jafn margar stöður alltaf auglýstar. Á meðan þau rök hljóma skynsamlega þá verðum við að skoða hvernig heimildin er notuð. Í þessum tveimur nýlegu tilvikum þá er um að ræða stöðuhækkun. Það er strangt til tekið ekki verið að flytja fólk í starfi. Það er verið að veita fólki stöðuhækkun og auglýsingin sem kemur í kjölfarið er vegna öðruvísi starfs en þess sem hefði átt að auglýsa.

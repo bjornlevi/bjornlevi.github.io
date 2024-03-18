@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Útgerðin kostar þig 5000 kr."
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-02-03 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_5192835a73
+title: Útgerðin kostar þig 5000 kr.
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2022-02-03
 ---
+
 Á hverju ári lætur Hafrannsóknarstofnun okkur vita hversu mikið er hægt að veiða af fiski úr sjónum í kringum landið. Á hverju ári fá skip hlutdeild af því magni gegn því að greiða veiðigjald til baka. Veiðigjaldið er í sinni einföldustu mynd þriðjungur af verðmæti aflans eftir að búið er að draga frá allan kostnað.
 
 Hér er rétt að athuga að veiðigjaldið er eftir kostnað útgerðarinnar en fyrir kostnað ríkisins. Árið 2020 voru heildarkostnaður ríkisins við rekstur vegna sjávarauðlindarinnar um 6,1 milljarður króna. Hafrannsóknarstofnun um 3,1 milljarður, Matís 48 milljónir, Fiskistofa 895 milljónir, Verðlagsstofa skiptaverðs 49 milljónir, Alþjóðasamvinna 129 milljónir, skrifstofa fiskveiðistjórnunar 129 milljónir, MAST 84 milljónir og Landshelgisgæslan tæplega 1,7 milljarður.

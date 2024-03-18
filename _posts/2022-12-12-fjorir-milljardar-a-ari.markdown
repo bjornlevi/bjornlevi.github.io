@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "4 milljarðar á ári fyrir kirkjujarðir"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-12-12 09:03:00 +0000
-published: true
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_fca1c7d44b
+title: 4 milljarðar á ári fyrir kirkjujarðir
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2022-12-12
 ---
+
 Árið 1997 var gerður samningur milli ríkisins og íslensku þjóðkirkjunnar um yfirtöku ríkisins á kirkjujörðum í staðinn fyrir að greiða laun presta. Það er tvennt mjög ámælisvert við samninginn. Í fyrsta lagi er hann ótímabundinn og í öðru lagi, þó að allir myndu skrá sig úr kirkjunni þá væri ríkið samt skuldbundið til þess að greiða laun um 90 presta og 14 annara starfsmanna biskupsembættisins. 
 
 Frá því að samningurinn var gerður hefur skráðum meðlimum í þjóðkirkjunni fækkað um 15 þúsund á meðan Íslendingum hefur fjölgað um rúmlega 100 þúsund. Miðað við kirkjujarðasamkomulagið hefði það átt að þýða fækkun á fjölda stöðugilda sem ríkið greiðir fyrir en þegar viðbótarsamkomulag var gert við kirkjuna í desember 2019 kom fram að þessar greiðslur hefðu í rauninni ekkert breyst þrátt fyrir fækkun félagsmanna í þjóðkirkjunni. Núverandi samkomulag gerir ráð fyrir laun- og verðtryggðri upphæð.

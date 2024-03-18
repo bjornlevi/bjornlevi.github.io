@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Íþyngjandi húsnæðiskostnaður"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-08-12 09:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_02efebf90f
+title: Íþyngjandi húsnæðiskostnaður
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2022-08-12
 ---
+
 Samkvæmt Hagstofunni stendur 12 mánaða vísitala neysluverðs nú í 9,9%. Helstu ástæðurnar eru nokkuð skýrar, það er hækkun á húsnæðismarkaði að undanförnu og hækkun á vöruverði erlendis, aðallega vegna heimsfaraldurs og stríðsins í Úkraínu. 2,4 prósentustig eru vegna hækkunar á húsnæðisverði. Það hljómar kannski ekki mikið, bara um fjórðungur af heildar verðbólgunni, en 10% hækkun á mjólk eru miklu færri krónur en 2% hækkun á leigu húsnæðis.
 
 Hvernig er staðan eiginlega á húsnæðismarkaði? Þjóðskrá er með verðsjá þar sem hægt er að skoða kaupverð og leiguverð íbúða eftir svæðum. Það segir hins vegar bara hálfa söguna, þar sem við verðum að vita hvernig fólk hefur efni á því kaup- og leiguverði. Þá er hægt að skoða ráðstöfunartekjur fólks á tekjusagan.is. Nýjustu gögnin þar eru síðan 2020 þannig að einhver ónákvæmni er í samanburði á þeim ráðstöfunartekjum sem fólk er með og núverandi húsnæðisverði, því það hefur hækkað þó nokkuð umfram launaþróun á undanförnum 2 árum. Að lokum þarf að skoða framfærsluviðmið. Þar er til dæmis hægt að nota framfærsluviðmið umboðsmanns skuldara, en þau gera einmitt ekki ráð fyrir húsnæðiskostnaði. Sem er óheppilegt.

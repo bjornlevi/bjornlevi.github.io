@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Vantraust"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2023-04-05 09:03:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_dedd255078
+title: Vantraust
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2023-04-05
 ---
+
 Vantraust er erfitt. Efi umlykur allt og hverju skrefi fram á við fylgja óteljandi skref í allar aðrar áttir til þess að fólk geti fullvissað sig um að ekkert betra sé í boði. Blint traust er líka erfitt. Sama hversu oft er bent á betri leið þá er bara vaðið áfram í gegnum fen og forarpytti. 
 
 Í síðustu viku stóð ríkisstjórnin og þingmenn þeirra, öll sem ein, á bak við verk dómsmálaráðherra. Þó að vantrauststillagan sem Píratar, Samfylkingin, Viðreisn og Flokkur fólksins lögðu fram hafi grundvallast á því að dómsmálaráðherra fyrirskipaði útlendingastofnun að afhenta Alþingi ekki gögn, og með því brotið gegn upplýsingaskyldu sinni gagnvart þinginu, þá hljótum við óhjákvæmilega að horfa á þá samstöðu í stærra samhengi.

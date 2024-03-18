@@ -1,11 +1,16 @@
 ---
-layout: posts
-title: "Húsnæðisvandinn er efnahagslegt fangelsi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date: 2024-02-07 08:00:00 +0000
-published: true
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_6430050608
+title: Húsnæðisvandinn er efnahagslegt fangelsi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2024-02-07
 ---
+
 Húsnæðisvandann má finna víða í samfélaginu okkar. Núverandi húsnæðisvanda, samkvæmt greiningum Íbúðalánasjóðs, má rekja til ársins 2016 þar sem óuppfyllt íbúðaþörf jókst frá því að vera nær engin upp í um 2.000 íbúðir á einu ári. Vandinn jókst og þörfin var orðin á bilinu 4.000 - 8.000 íbúðir árið 2020. Heimsfaraldurinn dró aðeins úr skortinum og árið 2019 var það mat Íbúðalánasjóðs að þörfin yrði á bilinu 2.000 - rúmlega 7.000 íbúðir árið 2022. Raunþörf var ekki ljós á þessum tímapunkti.
 
 Hún er þó engu ljósari í dag, aðallega af því að það virðist vera ofmat á fjölda fólks sem býr á Íslandi sem gerir það að verkum að kannski er íbúðaþörf minni en áætlað hefur verið. Það er áhugavert að íbúðaþörf hefur ekki minnkað af því að tekist hafi að byggja fleiri íbúðir en áður heldur af því að það er verið að leiðrétta oftalningu á fólki. Þrátt fyrir þetta er þörf á um það bil  1.500 - 6.500 íbúðum sem er allt frá því að vera heilt ár af byggingarframkvæmdum yfir í þrjú ár af framkvæmdum. Í efnahagslegu samhengi er þetta skuld sem samfélagið er að borga fyrir með hærra íbúðaverði, hærri vöxtum og meiri verðbólgu. 

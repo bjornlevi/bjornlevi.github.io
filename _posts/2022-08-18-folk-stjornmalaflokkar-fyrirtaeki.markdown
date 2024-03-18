@@ -1,10 +1,16 @@
 ---
-layout: posts
-title: "Fólk, stjórnmálaflokkar og fyrirtæki"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2022-08-19 23:02:00 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_75c21a9e6e
+title: Fólk, stjórnmálaflokkar og fyrirtæki
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic10.jpg"
+date: 2022-08-19
 ---
+
 ## Fólk
 Árið 2017 var viðburðaríkt ár í stjórnmálum á Íslandi. Ný ríkisstjórn var mynduð í upphafi árs eftir stutta stjórnarkreppu í kjölfar þess að ríkisstjórn Sigmundar Davíðs sprakk út af birtingu Panamaskjalanna. Það er nefnilega aldrei gott þegar fólk, sérstaklega ráðafólk, nýtir sér skattaskjól til þess að forðast skatta. Ný ríkisstjórn Bjarna Benediktssonar tók við ásamt Viðreisn og Bjartri framtíð með tæpasta mögulega meirihluta. Sú ríkisstjórn reyndist ekki langlíf, en hún sprakk strax um haustið sama ár, örstuttu eftir að ríkisstjórn Bjarna hafði lagt fram fyrsta fjárlagafrumvarp sitt.
 

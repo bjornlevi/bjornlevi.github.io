@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Er ríkisábyrgð æðisleg?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-08-28 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_bdd13c3475
+title: Er ríkisábyrgð æðisleg?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2020-08-28
 ---
+
 _"Verkefnið okkar er fyrir mér það að finna einföldustu og skilvirkustu leiðina"_, sagði Kolbeinn Óttarsson Proppé í umræðum um ríkisábyrgð fyrir Icelandair. Það er alveg hárrétt hjá Kolbeini og einfaldasta og skilvirkasta leiðin er að ríkið komi ekki nálægt þessu máli. Vandamálið er hins vegar að afleiðingin af því getur verið ansi mikill skaði fyrir íslenskt samfélag. Það er meira að segja nýlegt dæmi sem við getum skoðað, eða þegar WoW náði ekki að halda sér á floti. Þá sagði ríkisstjórnin "nei". 
 
 Verkefnið er að tryggja góðar flugsamgöngur við Ísland. Spurningin er hvort það sé gert með ríkisábyrgð fyrir Icelandair. Svarið er óljóst af nokkrum ástæðum.

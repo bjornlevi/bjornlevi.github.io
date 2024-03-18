@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Uppstillt lýðræði"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-04-04 09:00:34 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_1857d0f995
+title: Uppstillt lýðræði
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic2.jpg"
+date: 2021-04-04
 ---
+
 Pólitík snýst að mestu leyti um völd. Ekki málamiðlanir. Sá sem hefur völd getur tekið ákvarðanir án þess að þurfa að miðla málum. Því meiri völd, þeim mun færri málamiðlanir. Á Íslandi hópa stjórnmálaflokkar sig saman í meirihlutastjórn til þess að ráða öllu. Til þess að taka öll völd. Til þess að fækka málamiðlunum.
 
 Völd stjórnmálaflokka á Íslandi eru þannig mjög mikil, sérstaklega ef þeir standa sig vel í kosningum. Til þess að auka líkurnar á velgengni reyna flokkarnir að fá til liðs við sig nafntogaða einstaklinga í aðdraganda kosninga, því frægðarljómanum fylgir yfirleitt ákveðið traust. Vandinn er að það fylgir því líka ákveðin áhætta að stíga inn á pólitíska sviðið. Sérstaklega ef flokksfélagar telja önnur en hin nafntoguðu best til þess fallin að vinna að framgangi flokksins. Sumir flokkar leysa það vandamál með því að leyfa flokksfélögum ekki að ráða neinu um uppröðun frambjóðenda. Þannig telja flokkarnir að hægt sé að tryggja bæði framgang nafntogaðra nýliða og setu þeirra sem völdin hafa, eða öfugt. Hvað sem hentar þeim sem ráða.

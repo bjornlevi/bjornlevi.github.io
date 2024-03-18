@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Einstakt dæmi"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2020-11-02 09:00:34 +0000
-categories: pistill
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_b673f6823b
+title: Einstakt dæmi
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic8.jpg"
+date: 2020-11-02
 ---
+
 Fyrir einungis rétt rúmum mánuði stóð til að vísa burt fjölskyldu sem kom hingað frá Egyptalandi. Fjölskyldan fékk að lokum dvalarleyfi af mannúðarástæðum samkvæmt ákvörðun kærunefndar útlendingamála. Í aðdraganda þeirra niðurstöðu fengum við að heyra kunnugleg orð frá ráðamönnum; “[ekki í höndum pólitíkusanna að meta einstök mál](https://www.frettabladid.is/frettir/mal-fjolskyldunnar-gaeti-leitt-til-breytinga/)”. Þetta er ekki rétt, eða að minnsta kosti bara hálfsannleikur. Þetta er mjög hentugt máltæki fyrir pólitíkusa sem vilja ekki bera neina ábyrgð.
 
 Að mínu mati þá sýnir þetta grundvallar misskilning á hlutverki kjörinna fulltrúa. Pólitíkin verður einmitt að meta einstök mál, það er að segja hvaða almennu reglur hægt er að draga út frá einstökum málum. Því ef almennu reglurnar okkar geta leitt af sér einstök dæmi sem brjóta gegn mannúðarsjónarmiðum þá er augljóslega eitthvað að almennu reglunum okkar. Ef við hunsum hins vegar þau einstöku mál, og þann lærdóm sem við getum dregið af þeim þá verða reglurnar okkar alltaf lélegar.

@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Veistu að það er verið að svíkja loforð?"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-12-15 08:02:00 +0000
-categories: mbl
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_1aa92e7c6c
+title: Veistu að það er verið að svíkja loforð?
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic6.jpg"
+date: 2021-12-15
 ---
+
 Í rúm 20 ár hafa stjórnvöld svikið loforðið aftur og aftur. Af og til verður það svo vandræðalegt að það þarf að bæta það upp sérstaklega. Það gerðist árið 1998, 2000, 2002, 2009, 2012 og 2017. Loforðið snýst um kaup og kjör þeirra sem fá minna en lágmarkslaun og hafa ekki verkfallsrétt. Loforðið snýst um að þau sem hafa ekki færi á að semja um sín laun, með aðgerðum sem allir aðrir hafa, fái að minnsta kosti sömu launahækkun og allir aðrir. Þetta er loforðið sem hefur ítrekað verið brotið. 
 
 Á síðasta kjörtímabili var loforðið brotið svo hressilega að þessi hópur fékk einungis þrjá fjórðu af launahækkunum allra annara, auk þess að fá ekki lífskjarabæturnar sem var sérstaklega beint að öðrum láglaunahópum. Krónutöluhækkanirnar sem voru í lífskjarasamningunum fóru annað og þessi hópur fékk í staðinn að éta minna en meðalprósentuhækkun. Fjórðungi minna eða svo.

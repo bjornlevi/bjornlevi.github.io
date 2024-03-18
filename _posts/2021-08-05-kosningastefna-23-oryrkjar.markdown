@@ -1,10 +1,16 @@
 ---
-layout: posts
-title:  "Kosningastefna Pírata 2021 - Málefni öryrkja og fatlaðs fólks"
-image: https://www.althingi.is/myndir/thingmenn-cache/1215/1215-220.jpg
-date:   2021-08-05 12:23:00 +0000
-categories: kosningar2021
+# multilingual page pair id, this must pair with translations of this page. (This name must be unique)
+lng_pair: id_de9f10ca2d
+title: Kosningastefna Pírata 2021 - Málefni öryrkja og fatlaðs fólks
+
+# post specific
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [rikisstjorn, kjarasamningar]
+img: ":post_pic3.jpg"
+date: 2021-08-05
 ---
+
 Við Píratar trúum því að allir eigi skilið sömu tækifæri og viljum endurhugsa samfélagsleg kerfi þannig að þau valdefli einstaklinga til að athafna sig á eigin forsendum. Víðtækar skerðingar og hindranir í núverandi kerfum skapa samfélagslegt tap og fórna tækifærinu til að fjárfesta í einstaklingnum. Aðlögum samfélagið að þörfum hvers og eins. Lífsgæði fatlaðs fólks skulu vera eins góð og þau geta verið miðað við aðstæður hvers og eins. Fatlaðir einstaklingar eiga að fá að lifa án mismununar, fordóma, og hvers kyns misréttis. Tryggjum rétt allra sem þurfa til framfærslu vegna örorku og endurhæfingar og miðum við að hún dugi til nægjanlegrar framfærslu og mannsæmandi búsetu. Sá réttur á ekki að vera takmarkaður af hjúskaparstöðu, búsetu eða öðrum valfrjálsum aðstæðum. Afnemum ómanneskjulegar skerðingar og byggjum um mannúðlegri stuðningskerfi hins opinbera.
 
 > Vinsamlegast sendið spurningar hingað: [piratar@piratar.is](mailto:piratar@piratar.is?subject=Spurning um stefnu: Öryrkjar og málefni fatlaðs fólks)
