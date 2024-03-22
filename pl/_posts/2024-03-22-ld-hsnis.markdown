@@ -1,0 +1,56 @@
+---
+lng_pair: id_86cf9bc46f
+title: Era Mieszkalnictwa
+author: Björn Leví Gunnarsson
+category: visir
+tags: [tag1, tag2]
+img: ":post_pic8.jpg"
+date: 2024-03-22 10:46:10
+---
+
+Posiadanie dachu nad głową na Islandii jest po prostu dość trudne. Wynajem dachu nad głową na Islandii z kolei jest prawie dystopijnym koszmarem, przynajmniej w porównaniu z krajami porównywalnymi. Niezależnie od tego, czy chodzi o umowy kredytowe - z indeksacją czy zmiennymi oprocentowaniami, które przerzucają prawie całe ryzyko na pożyczkobiorcę - czy umowy najmu, które dyskryminują najemców w ogromnym stopniu, większość ofiar rynku mieszkaniowego zdaje sobie sprawę, że prawo do bezpiecznego i odpowiedniego mieszkania jest co najwyżej kruche.
+
+To nic nowego, a obecny rząd często zapowiadał, że teraz zajmie się problemem i zrobi coś w sprawie sytuacji mieszkaniowej na Islandii. Większość z zaimplementowanych działań ma na celu ułatwienie ludziom kupna mieszkań, czy to poprzez kredyty, czy poprzez możliwość wykorzystania oszczędności emerytalnych do spłaty pożyczek. W tym samym czasie, Bank Centralny stara się zmniejszyć zdolność ludzi do kupowania mieszkań poprzez podwyżki stóp procentowych i ograniczenia zdolności płatniczej, ponieważ nie trzeba wiele wiedzy ekonomicznej, aby zdać sobie sprawę, że zwiększanie zdolności ludzi do kupowania mieszkań zwiększa popyt, co z kolei podnosi ceny. Dlatego Bank Centralny musiał podnieść stopy procentowe, ze względu na te decyzje fiskalne rządu, napędzające inflację.
+
+To, co trzeba zrobić, to zwiększyć podaż. To utrzymuje ceny mieszkań w ryzach i w ten sposób działa przeciwko inflacji i przegrzewaniu się. Ale podaż można zwiększyć tylko poprzez dodanie więcej jednostek mieszkaniowych w kraju niż wzrost populacji.
+
+I jak to zrobimy? Niestety, nie ma wielu szybkich rozwiązań. Z jednej strony, potrzebne są działania, które jak najszybciej zwiększą podaż mieszkań, ponieważ jest pilna potrzeba. Zapotrzebowanie było znaczne przez wiele lat, a co dopiero teraz, kiedy mieszkańcy Grindavíkur muszą znaleźć nowe mieszkania. Wraz z tymi działaniami, konieczne jest również myślenie 10, 50 i 100 lat w przyszłość i zapewnienie bezpiecznych, zdrowych i odpowiednich mieszkań w zgodzie z wzrostem populacji i prognozami demograficznymi.
+
+Na szczęście istnieje kilka działań, które można podjąć z krótkim wyprzedzeniem i niskim kosztem.
+
+### Rezydencja w Domkach Letniskowych
+Po pierwsze, warto wspomnieć o potrzebie umożliwienia zamieszkania w obszarach ze zredukowanymi usługami komunalnymi. Prościej mówiąc, nazywalibyśmy to przeprowadzką do domku letniskowego. Już teraz sporo osób mieszka w domkach letniskowych, więc przynajmniej pozwoliłoby im to legalnie tam mieszkać. Daje to również elastyczność gminom w planowaniu.
+
+Na Islandii jest około 15 000 domków letniskowych. Oczywiście nie wszystkie są odpowiednie do zamieszkania przez cały rok, ale wiele z nich jest tak samo solidnych jak każdy inny dom jednorodzinny. Umożliwienie ich właścicielom zarejestrowania tam swojego miejsca zamieszkania i przeprowadzki uwolnił oby trochę mieszkań w obszarach zurbanizowanych, które można byłoby następnie sprzedać lub wynająć. Trudno jest dokładnie oszacować, ilu właścicieli skorzystałoby z tego rozwiązania, ale nawet jeśli tylko 5% domków letniskowych zostałoby zamienionych na mieszkania, mówimy o 750 jednostkach mieszkaniowych. Każda pomoc się liczy.
+
+Jeśli istniałaby wola w Parlamencie i u Ministra Mieszkalnictwa, prawa i regulacje mogłyby zostać zmienione jeszcze w tym roku. Koszt jest bardzo niski, chociaż gminy musiałyby być rekompensowane za dodatkowe koszty świadczenia usług dla mieszkańców w obszarach wiejskich, chociaż takie usługi byłyby ograniczone. Dochody gmin z licznych osiedli domków letniskowych również wzrosłyby wraz ze wzrostem populacji i dałyby bardziej dokładny obraz liczby osób, które już mieszkają w gminach z dużymi osiedlami domków letniskowych. Ten środek wzmocniłby w szczególności te gminy, umożliwiając im oferowanie bardziej zróżnicowanych usług zarówno dla mieszkańców osiedli letniskowych, jak i tych z tradycyjnym miejscem zamieszkania.
+
+### Wynajem Krótkoterminowy
+W całym kraju jest ponad 4 000 mieszkań, gdzie nikt nie jest zarejestrowany jako mieszkaniec, a na obszarze stolicy około 1 000 mieszkań jest w pełni wynajmowanych turystom. Nie mówimy tu o osobach wynajmujących swoje mieszkania turystom, podczas gdy same są w podróży, ale wyłącznie o mieszkańcach, w których nikt nie mieszka, które nic nie przyczyniają się do kryzysu mieszkaniowego, ale tylko zarabiają na wynajmie turystom.
+
+Przed Parlamentem leży projekt ustawy, który zakazywałby wynajmu mieszkań mieszkalnych turystom, z wyjątkiem do 90 dni w roku. Biorąc pod uwagę, że prawo do bezpiecznego mieszkania zawsze przeważa nad prawem do bycia turystą, należy jak najszybciej zaakceptować ten projekt ustawy. Spowodowałoby to, że właściciele tych mieszkań musieliby albo je sprzedać, albo wynająć je na długoterminowy najem osobom mieszkającym na Islandii.
+
+Teraz jakiś kapitalista łapie oddech i syczy "Prawo własności!" przy wdechu. I tak, to prawda, jest to interwencja w prawa własności, które wynikają z zakupu nieruchomości. Ale Europejski Trybunał Praw Człowieka wielokrotnie stwierdził, że mieszkanie jest uważane za podstawową potrzebę i dlatego jest uzasadnione zmuszanie właścicieli nieruchomości do oferowania jej w wynajem po rozsądnej cenie. A tutaj nawet nie mówimy o wprowadzeniu jakiegokolwiek hamulca na ceny wynajmu, tylko o zapewnieniu, że mieszkania mieszkalne będą dostępne dla mieszkańców kraju.
+
+Oczywiście, ta regulacja wymagałaby pewnego czasu na wdrożenie, ponieważ konieczne byłoby dać właścicielom apartamentów turystycznych czas na spełnienie już złożonych zobowiązań wobec potencjalnych gości i możliwość sprzedaży mieszkań, jeśli nie chcą być długoterminowymi wynajmującymi.
+
+### Działania Długoterminowe
+Islandczycy mieli szczęście móc żyć w gospodarce, która w dużej mierze opiera się na zewnętrznych wpływach na gospodarkę narodową, a nie na planowaniu długoterminowym. Pomoc Marshalla, boom na śledzie, ekspansja sektora finansowego za granicą i eksplozja turystyki są tego przykładami. To podejście nie sprawdza się, gdy chodzi o planowanie rynku mieszkaniowego na dłuższą metę. Obowiązkiem każdego rządu, w konsultacji z samorządami i innymi zainteresowanymi stronami, jest ustalenie polityki mieszkaniowej, która zapewni ludziom tę podstawową potrzebę: bezpieczne mieszkanie.
+
+Jeśli działania krótkoterminowe okażą się skuteczne, będziemy mieli trochę luzu, aby ustalić realistyczną politykę mieszkaniową opartą na najlepszych dostępnych danych, sfinansowaną i z bezpieczeństwem mieszkaniowym mieszkańców jako wiodącym światłem. Ta polityka musi również być dostosowana do wahań gospodarczych i przyczyniać się do stabilności długoterminowej bez poświęcania podstawowego celu, zapewnienia bezpiecznego, nadającego się do zamieszkania i odpowiedniego mieszkania dla wszystkich.
+
+### ieszkanie na Następne 100 Lat
+Bardzo łatwo byłoby podjąć wielki wysiłek w opracowaniu polityki mieszkaniowej i skończyć z gigantycznym dokumentem pełnym różnych obietnic. To byłoby w porządku, pod warunkiem, że podstawowe cele polityki nie zostaną poświęcone po drodze. Ale oto kilka punktów, które byłyby przydatne przy kształtowaniu polityki:
+
+- Zapewnienie wystarczającej podaży mieszkań w zgodzie z trendami demograficznymi na najbliższe dziesięciolecia, a nawet stulecie.
+- Integracja z systemem emerytalnym, zapewniająca, że każdy będzie mógł mieszkać w wolnym od długów domu, gdy zacznie otrzymywać emeryturę.
+- Rozważenie bardziej zróżnicowanych rozwiązań niż kupno lub wynajem, takich jak najem z opcją kupna przez fundusze emerytalne i modele mieszkania niekomercyjnego.
+- Zachęcanie inwestorów w nowe budownictwo do wybierania budynków ekologicznych i zdrowych, nagradzanie odpowiedniego utrzymania na przyszłość.
+- Wyrównanie pozycji kupujących wobec kredytodawców i najemców wobec wynajmujących, aby zwiększyć przewidywalność i stabilność.
+- Zapewnienie, że polityka zawsze będzie uwzględniać najlepszą dostępną technologię, zarówno dla nowych budowli, jak i utrzymania.
+
+Musimy zadać sobie pytanie, gdzie i jak chcemy żyć na Islandii. Polityka obecnego rządu zakłada, że stosunek między obszarem stolicy a wsią nie zmieni się pod względem populacji. Ale to nie jest wizja przyszłości. To stagnacja. Musimy zadać sobie pytanie, jak wygląda osadnictwo w kraju, gdy na Islandii mieszka milion osób, lub gdy 500 000 mieszka na obszarze stolicy. Gdzie i jak chcemy robić więcej i lepiej. Możemy to zrobić tylko razem, myśląc wspólnie o tym, jak Islandia będzie wyglądała na koniec następnej kadencji wyborczej i dokąd zmierzamy w ciągu następnych 50 lat lub stulecia.
+
+Często mówiłem o tym, jak jesteśmy dość słabi w myśleniu o przyszłości. Wynika to z gospodarki opartej na tym, co daje nam natura - gospodarki, w której żyjemy w teraźniejszości, reagując na to, co przynosi los. Ale co, jeśli wyobrażamy sobie ulicę gdzieś w kraju, która zostałaby przeznaczona na opowieść o następnych tysiącu latach? Gdzie przez następne tysiąc lat budowalibyśmy dom po domu. Każdy dom symbolizowałby każde stulecie tych tysiąca lat. Dziesięć domów w rzędzie, gdzie każdy dom jest domem każdego stulecia tych tysiąca lat. Każdy dom byłby kolekcją każdych stu lat. Moglibyśmy już teraz umieścić kilka domów z przeszłości, co byłoby dobrym początkiem. Ale potem musielibyśmy zaplanować dom tego stulecia i wyobrazić sobie, że przyszłe pokolenia zrobią to samo, ostatecznie tworząc ulicę tysiąclecia.
+
+Potrzebujemy długoterminowego myślenia w kwestii mieszkaniowej, i nie tylko w sensie budowania większej liczby mieszkań, ale gdzie i jak będziemy budować Islandię przez następne stulecie i gdzie stworzymy przestrzeń dla Islandczyków na kolejne tysiąclecie republiki.

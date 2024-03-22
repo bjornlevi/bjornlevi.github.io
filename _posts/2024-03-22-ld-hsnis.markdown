@@ -1,3 +1,13 @@
+---
+lng_pair: id_86cf9bc46f
+title: Öld húsnæðis
+author: Björn Leví Gunnarsson
+category: visir
+tags: [tag1, tag2]
+img: ":post_pic8.jpg"
+date: 2024-03-22 10:46:10
+---
+
 Að eiga þak yfir höfuðið á Íslandi er bara ansi erfitt. Að leigja þak yfir höfuðið á Íslandi er hins vegar nær því að vera dystópísk martröð, að minnsta kosti í samanburði við samanburðarlönd. Hvort sem litið er til lánasamninga – með verðtryggingu eða breytilegum vöxtum sem láta nær alla áhættuna í hendur lántakanda – eða leigusamninga sem mismuna leigjendum gríðarlega, er flestum þolendum húsnæðismarkaðarins ljóst að rétturinn til öruggs og viðunandi húsnæðis er í besta falli brothættur.
 
 Þetta er ekkert nýtt og núverandi ríkisstjórn hefur oft tilkynnt að nú verði sko gengið í málið og gert eitthvað í stöðu húsnæðismála á Íslandi. Flestar þær aðgerðir sem hafa komið til framkvæmda snúa að því að gera fólki auðveldara að kaupa húsnæði, annað hvort með lánum eða heimild til að nýta séreignarsparnað til að greiða niður lán. Á sama tíma er Seðlabankinn að reyna að draga úr getu fólks til að kaupa húsnæði í formi vaxtahækkana og takmarkana á greiðslugetu, því það þarf ekki mikið að kynna sér hagfræði til að komast að því að með því að auka möguleika fólks til að kaupa húsnæði ertu að auka eftirspurn, sem aftur hækkar verð. Þess vegna þurfti Seðlabankinn að hækka stýrivexti, út af þessum verðbólguhvetjandi hagstjórnarákvörðunum ríkisstjórnarinnar.
@@ -44,3 +54,4 @@ Við verðum að spyrja okkur hvar og hvernig við viljum búa hérna á Ísland
 Ég hef oft talað um hvernig við erum frekar léleg í að hugsa til framtíðar. Það er hluti af því hvalrekahagkerfi sem við höfum búið við. Náttúran bara gefur eða tekur og því lifum við bara og hrærumst í núinu. En ef við hugsum okkur götu, einhvers staðar á landinu sem væri frátekin fyrir sögu næstu þúsund ára. Þar sem við myndum byggja hús við hús næstu þúsund árin. Þar sem hvert hús væri tákngervingur hverrar aldar þeirra þúsund ára. 10 hús í röð þar sem hvert hús væri hús hverrar aldar fyrir sig á þeim þúsund árum. Hvert hús væri safn hverra 100 ára fyrir sig. Við gætum nú þegar komið fyrir nokkrum húsum fortíðar, það væri góð byrjun. En svo þyrftum við að skipuleggja hús þessarar aldar og sjá fyrir okkur að komandi kynslóðir muni gera slíkt hið sama í kjölfarið og að lokum værum við búin að byggja þúsaldargötu.
 
 Við þurfum langtímahugsun í húsnæðismálum og ekki bara á þann hátt að byggja fleiri íbúðir heldur hvar og hvernig munum við byggja upp Ísland næstu öldina og hvar við búum til pláss fyrir Íslendinga á næstu þúsund árum lýðveldisins?
+

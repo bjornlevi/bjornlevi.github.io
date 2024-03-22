@@ -1,0 +1,56 @@
+---
+lng_pair: id_86cf9bc46f
+title: La Era del Alojamiento
+author: Björn Leví Gunnarsson
+category: visir
+tags: [tag1, tag2]
+img: ":post_pic8.jpg"
+date: 2024-03-22 10:46:10
+---
+
+Tener un techo sobre la cabeza en Islandia es simplemente bastante difícil. Alquilar un techo sobre la cabeza en Islandia, por otro lado, es casi una pesadilla distópica, al menos en comparación con otros países similares. Ya sea que se mire a los contratos de préstamo - con indexación o intereses variables que dejan casi todo el riesgo al prestatario - o a los contratos de alquiler que discriminan enormemente contra los inquilinos, la mayoría de las víctimas del mercado inmobiliario son conscientes de que el derecho a una vivienda segura y adecuada es en el mejor de los casos frágil.
+
+Esto no es nada nuevo, y el gobierno actual ha anunciado a menudo que ahora abordará el problema y hará algo sobre la situación de la vivienda en Islandia. La mayoría de las medidas que se han implementado tienen como objetivo facilitar la compra de viviendas, ya sea con préstamos o permitiendo usar ahorros de pensiones privadas para pagar los préstamos. Al mismo tiempo, el Banco Central está tratando de reducir la capacidad de las personas para comprar viviendas en forma de aumentos de intereses y restricciones en la capacidad de pago, ya que no se necesita mucho conocimiento económico para darse cuenta de que al aumentar la capacidad de las personas para comprar viviendas, se aumenta la demanda, lo que a su vez eleva los precios. Por lo tanto, el Banco Central tuvo que elevar las tasas de interés debido a estas decisiones fiscales inflacionarias del gobierno.
+
+Lo que se necesita hacer es aumentar la oferta. Eso mantiene los precios de la vivienda bajo control y, por lo tanto, funciona contra la inflación y el sobrecalentamiento. Pero la oferta solo puede aumentarse agregando más unidades de vivienda en el país que el aumento de la población.
+
+¿Y cómo hacemos eso? Desafortunadamente, no hay muchas soluciones rápidas. Por un lado, se necesitan acciones para aumentar la oferta de viviendas lo antes posible, ya que hay una necesidad urgente. La demanda ha sido significativa durante muchos años, y ahora más aún cuando los residentes de Grindavík necesitan encontrar una nueva vivienda. Junto con estas acciones, también es necesario pensar 10, 50 y 100 años en el futuro y asegurar viviendas seguras, saludables y adecuadas en línea con el crecimiento de la población y las previsiones demográficas.
+
+Afortunadamente, hay varias medidas que se pueden tomar con poca antelación y a bajo costo.
+
+### Residencia en Casas de Verano
+Primero, vale la pena mencionar la necesidad de permitir residencias en áreas con servicios municipales reducidos. En términos simples, llamaríamos a eso mudarse a una casa de verano. Ya bastantes personas viven en casas de verano, por lo que al menos les permitiría residir allí legalmente. Esto también brinda flexibilidad a los municipios en asuntos de planificación.
+
+Hay alrededor de 15,000 casas de verano en Islandia. Ciertamente, no todas son adecuadas para vivir durante todo el año, pero muchas son tan sustanciales como cualquier otra casa unifamiliar. Permitir que sus propietarios se registren allí y se muden liberaría algo de vivienda en áreas urbanas, que luego podrían venderse o alquilarse. Es difícil estimar exactamente cuántos aprovecharían este arreglo, pero incluso si solo se mudara al 5% de las casas de verano, aún estaríamos hablando de unas 750 unidades de vivienda. Cada poco cuenta.
+
+Si hubiera voluntad en el Parlamento y el Ministro de Vivienda, las leyes y regulaciones podrían cambiarse más adelá en el año. El costo es muy bajo, aunque sería necesario compensar a los municipios por el costo adicional de brindar servicios a los residentes en áreas rurales, aunque dicho servicio sería limitado. Los ingresos de los municipios con numerosos asentamientos de casas de verano también aumentarían con una población mayor y proporcionarían una imagen más precisa del número de personas que ya residen en municipios con grandes asentamientos de casas de verano. Esta medida fortalecería especialmente a esos municipios para ofrecer servicios más diversos, tanto para los resident es en asentamientos de ocio como para aquellos con residencia tradicional.
+
+### Alojamiento en Casa
+En todo el país, hay más de 4.000 apartamentos donde nadie está registrado como residente y en el área de la capital hay alrededor de 1.000 apartamentos alquilados completamente a turistas. No estamos hablando de individuos que alquilan su apartamento a turistas mientras ellos mismos están de viaje, sino solo de apartamentos donde nadie vive, no se contribuye a la crisis de vivienda, sino solo se busca ganar dinero alquilando a turistas.
+
+Hay un proyecto de ley ante el Parlamento que prohibiría el alquiler de viviendas residenciales a turistas, excepto por hasta 90 días al año. Dado que el derecho a una vivienda segura siempre pesa más que el derecho a ser turista, es correcto aprobar este proyecto de ley lo antes posible. Esto obligaría a los propietarios de estos apartamentos a venderlos o alquilarlos para alquileres a largo plazo a personas que viven en Islandia.
+
+Ahora algún capitalista toma un respiro y sisea "¡Derecho de propiedad!" en la inhalación. Y sí, es cierto, esto es una intervención en los derechos de propiedad que vienen con la compra de bienes raíces. Pero el Tribunal Europeo de Derechos Humanos ha concluido repetidamente que la vivienda se considera una necesidad básica y, por lo tanto, es justificable obligar a los propietarios de viviendas a ofrecerla en alquiler a un precio razonable. Y aquí ni siquiera estamos hablando de poner un freno a los precios de alquiler, solo asegurando que las viviendas residenciales estén disponibles para los residentes del país.
+
+Claramente, esta disposición tomaría algún tiempo en implementarse, ya que sería necesario dar tiempo a los propietarios de apartamentos para huéspedes para cumplir con los compromisos que ya han hecho a los huéspedes potenciales y la oportunidad de vender los apartamentos si no quieren ser arrendadores a largo plazo.
+
+### Medidas a Largo Plazo
+Los islandeses han tenido la suerte de poder vivir en una economía que en gran parte gira en torno a impactos externos en la economía de la nación, en lugar de ser planificada a largo plazo. La ayuda del Plan Marshall, el boom del arenque, la expansión del sector financiero en el extranjero y la explosión del turismo son ejemplos de esto. Esta mentalidad no funciona cuando se trata de planificar el mercado de la vivienda a largo plazo. Es el deber de cada gobierno, en consulta con los municipios y otros interesados, establecer una política de vivienda que asegure a las personas esta necesidad básica: una vivienda segura.
+
+Si las medidas a corto plazo funcionan bien, tendremos un poco de margen para establecer una política de vivienda realista basada en los mejores datos disponibles, financiada y con la seguridad de la vivienda de los residentes como luz guía. Esta política también debe ser adaptable a las fluctuaciones económicas y contribuir a la estabilidad a largo plazo sin sacrificar el objetivo fundamental de garantizar viviendas seguras, habitables y adecuadas para todos.
+
+### Vivienda para los Próximos 100 Años
+Sería muy fácil embarcarse en un gran esfuerzo para desarrollar una política de vivienda y terminar con un documento gigantesco lleno de varias promesas. Eso estaría bien siempre que los objetivos fundamentales de la política no se sacrifiquen en el camino. Pero aquí hay algunos puntos que serían útiles en la configuración de la política:
+
+- Asegurar un suministro suficiente de viviendas de acuerdo con la evolución demográfica de las próximas décadas, incluso un siglo.
+- Integración con el sistema de pensiones, asegurando que todos puedan vivir en viviendas libres de deudas cuando comiencen a recibir pensiones.
+- Explorar arreglos más diversos que comprar o alquilar, como el alquiler con opción a compra a través de fondos de pensiones y modelos de propiedad sin fines de lucro.
+- Incentivar a los propietarios de nuevas construcciones a elegir edificios ecológicos y saludables, recompensando el mantenimiento adecuado para el futuro.
+- Equilibrar la posición de los compradores frente a los prestamistas y la de los inquilinos frente a los arrendadores, para aumentar la previsibilidad y la estabilidad.
+- Asegurarse de que la política siempre tenga en cuenta la mejor tecnología disponible, tanto para nuevas construcciones como para mantenimiento.
+
+Debemos preguntarnos dónde y cómo queremos vivir en Islandia. La política actual del gobierno es que la proporción entre el área de la capital y el campo no cambie en términos de población. Pero eso no es una visión de futuro. Eso es estancamiento. Necesitamos preguntarnos cómo se verá el asentamiento en el país cuando un millón de personas vivan en Islandia o cuando 500,000 vivan en el área de la capital. Dónde y cómo queremos hacer más y mejor. Solo podemos hacerlo juntos, pensando juntos sobre cómo será Islandia al final del próximo período electoral y hacia dónde nos dirigimos en los próximos 50 años o el próximo siglo.
+
+A menudo he hablado de cómo somos bastante malos pensando en el futuro. Eso es parte de la economía de la deriva que hemos vivido. La naturaleza simplemente da o quita y así vivimos y nos movemos en el presente. Pero si nos imaginamos una calle, en algún lugar del país, que se reservara para la historia de los próximos mil años. Donde construiríamos casa tras casa durante los próximos mil años. Donde cada casa simbolizaría cada siglo de esos mil años. 10 casas en fila donde cada casa es la casa de cada siglo de esos mil años. Cada casa sería una colección de cada 100 años. Ya podríamos colocar algunas casas del pasado, sería un buen comienzo. Pero luego tendríamos que planificar la casa de este siglo e imaginar que las futuras generaciones harán lo mismo y, eventualmente, habremos construido una calle de mil años.
+
+Necesitamos un pensamiento a largo plazo en la vivienda, y no solo en el sentido de construir más apartamentos, sino dónde y cómo construiremos Islandia en el próximo siglo y dónde creamos espacio para los islandeses en los próximos mil años de la república.
