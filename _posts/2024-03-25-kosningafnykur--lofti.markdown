@@ -1,3 +1,13 @@
+---
+lng_pair: id_fcc156c481
+title: Kosningafnykur í lofti
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic6.jpg"
+date: 2024-03-25 10:53:38
+---
+
 Á yfirstandandi þingi hefur ríkisstjórnin samþykkt fjölda stefna og áætlana og fyrir liggur að fleiri eiga eftir að bætast við. Á meðal þessara er fjármálaáætlunin, þar sem ríkisstjórnin verður að sýna í tölum hvernig hún hyggst fjármagna fyrirhugaðar framkvæmdir og stefnur. Ekki er hægt að sjá að það sé til fjármagn fyrir þessu öllu og ríkisstjórnin gæti þurft að endurskoða eða jafnvel yfirgefa nýlega samþykktar áætlanir.
 
 Á þessu þingi er þegar búið að samþykkja tillögur eins og stefnumótandi áætlun í málefnum sveitarfélaga fyrir árin 2024--2038 og aðgerðaáætlun fyrir árin 2024--2028, stefnumótandi aðgerðir til eflingar þekkingarsamfélagi á Íslandi til ársins 2025, málstefna íslensks táknmáls 2024--2027 og aðgerðaáætlun og framkvæmdaáætlun í málefnum fatlaðs fólks fyrir árin 2024--2027. 
