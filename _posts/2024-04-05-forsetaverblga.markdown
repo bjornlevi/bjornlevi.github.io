@@ -1,3 +1,13 @@
+---
+lng_pair: id_e50ccba800
+title: Forsetaverðbólga
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic6.jpg"
+date: 2024-04-05 09:53:14
+---
+
 Nei, ég er ekki að fara að skrifa um forsætisembættið á Íslandi enda er það örugglega leiðinlegasta starf í heimi. Ég tek ofan af fyrir fólki sem nennir að sinna því starfi, því að á sama tíma og forsetinn skiptir máli þá gerir viðkomandi það líklega best með því að gera og segja sem minnst og láta taka mynd af því. Ég er heldur ekki að fara að skrifa um forsetakosningar í Bandaríkjunum, sem eru stjarnfræðilega furðulegar þetta árið. Það er ótrúlegt að á meðan 350 milljón manna þjóð getur ekki fundið betri frambjóðendur en Biden og Trump þá er varla þverfótað fyrir frambjóðendum til forseta á Íslandi. 
 
 En ég sagðist ekki ætla að skrifa um forseta á Íslandi eða í Bandaríkjunum, en er samt búinn að gera lítið annað. Umræðuefni dagsins skiptir miklu meira máli en forsetaembættin en það er um pappírssnifsi sem Bandaríkjamenn stimpla með andlitum af gömlum forsetum. Washington, Lincoln og fleiri. En þegar allt kemur til alls þá snýst þetta um hann Benjamín sem varð aldrei forseti Bandaríkjanna. Eða það er að segja peningana sem andlitið á honum er prentað á.
