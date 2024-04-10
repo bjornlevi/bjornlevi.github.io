@@ -1,3 +1,13 @@
+---
+lng_pair: id_55330f8a7f
+title: Píratar og prinsipp í pólitík
+author: Björn Leví Gunnarsson
+category: visir
+tags: [tag1, tag2]
+img: ":post_pic6.jpg"
+date: 2024-04-10 10:50:32
+---
+
 Þann 8. nóvember 2017 var allt galopið varðandi myndun ríkisstjórnar, að sögn fráfarandi forsætisráðherra, Katrínar Jakobsdóttur. Þetta var eftir að Framsóknarflokkurinn sleit ríkisstjórnarviðræðum VG, Samfylkingarinnar, Pírata og Framsóknar. Þessir flokkar voru með mjög tæpan 1 þingsætis meirihluta. Tillögum Pírata um að draga fleiri flokka að til þess að gera stöðugri meirihluta var hafnað og að lokum viðræðunum sjálfum. Allir flokkar þurfi að gera málamiðlanir, sagði fráfarandi forsætisráðherra.
 
 Það stóð ekki á Pírötum að gera málamiðlanir. Það var búið að ná niðurstöðum um kröfur Pírata, til dæmis varðandi það að klára stjórnarskránna á kjörtímabilinu. Við vorum sátt með okkar mál þegar viðræðum var slitið. Það voru því ekki einhverjar óraunhæfar kröfur af okkar hendi sem útilokuðu stjórnarsamstarf þessara flokka. Það virðist frekar hafa verið að Framsóknarflokkurinn lærði allt í einu að telja og þau áttuðu sig á því að eins manns meirihluti væri ekki ásættanlegur. Þetta er flokkurinn sem fer með fjármálaráðuneytið í næstu ríkisstjórn.
