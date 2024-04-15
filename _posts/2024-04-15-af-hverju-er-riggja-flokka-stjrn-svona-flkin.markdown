@@ -1,3 +1,13 @@
+---
+lng_pair: id_8621474de2
+title: Af hverju er þriggja flokka stjórn svona flókin?
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic5.jpg"
+date: 2024-04-15 10:38:27
+---
+
 Í síðustu viku var mynduð ný ríkisstjórn sömu flokka og hafa unnið saman frá því eftir kosningarnar 2017. Forsætisráðherrann yfirgaf ríkisstjórnina og eftir sátu flokkarnir án fundarstjóra. Það þurfti því að finna nýjan fundarstjóra fyrir ráðherrafundi og til þess þurfti nýjar samningaviðræður milli flokkanna.
 
 Ýmsum sögum fer um þessar samningaviðræður, til dæmis að formenn Framsóknar og Sjálfstæðisflokks hafi átt í viðræðum við formann Viðreisnar áður en forsætisráðherra var búinn að gefa það formlega út að hún væri að íhuga forsetaframboð. Einnig átti að láta reyna á að halda alþingiskosningar 11. maí en Guðni þverneitaði því, hótaði að setja starfsstjórn eða utanþingsstjórn fram á haust ef eitthvað slíkt væri reynt.
