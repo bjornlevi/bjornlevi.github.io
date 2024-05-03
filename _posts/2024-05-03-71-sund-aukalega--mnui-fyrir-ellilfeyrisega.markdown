@@ -1,3 +1,13 @@
+---
+lng_pair: id_f0bb4e7d85
+title: 71 þúsund aukalega á mánuði fyrir ellilífeyrisþega
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic2.jpg"
+date: 2024-05-03 09:54:42
+---
+
 Nýlega fékk velferðarnefnd Alþingis lögfræðiálit frá skrifstofu Alþingis um skerðingar á ellilífeyri almannatrygginga vegna lífeyrisgreiðslna. Í stuttu máli var niðurstaðan sú að núverandi löggjöf er óskýr um að það megi skerða greiðslur úr lífeyrissjóðum sem almennar tekjur en ekki sem atvinnutekjur.
 
 Hvað þýðir þetta? Í lögum er kveðið á um tvenns konar frítekjumark. Annars vegar almennt frítekjumark upp á 25 þúsund krónur á mánuði og hins vegar sérstakt frítekjumark atvinnutekna upp á 200 þúsund krónur á mánuði. Það þýðir að skerðingar almannatryggingarlaga byrja ekki að reiknast fyrr en eftir 225 þúsund krónur á mánuði, eftir því hvernig tekjur fólk er með. Ef við tökum einfalt dæmi um einstæðan einstakling með 225 þúsund í lífeyrissjóðsgreiðslur ofan á fullan lífeyri, þá er viðkomandi að fá 422.698 kr. á mánuði. Ef viðkomandi fær hins vegar sömu upphæð í atvinnutekjur, þá þýðir það 493.630 kr. á mánuði í vasann samkvæmt reiknivél TR. Þarna munar um 71 þúsund krónum á mánuði ef lífeyrissjóðsgreiðslur væru flokkaðar sem atvinnutekjur og féllu undir sérstaka frítekjumarkið.
