@@ -1,3 +1,13 @@
+---
+lng_pair: id_e4162c2eb7
+title: Umhyggja freka kallsins
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic3.jpg"
+date: 2024-05-24 08:59:10
+---
+
 Fyrir tæpum 7 árum skrifaði ég fyrsta pistilinn minn í Morgunblaðið sem Pírati. Nú, rúmlega 200 pistlum síðar fannst mér við hæfi að rifja upp fyrsta pistilinn sem ég skrifaði, þar sem ég kynnti mig og áskoranirnar sem við stóðum frammi fyrir sem samfélag. Ég held að það sé óhætt að segja að áskoranirnar (og lausnirnar) eru enn þær sömu - og freki kallinn (sérhagsmunastefnan) hefur orðið fyrirferðameiri.
 
 Úr pistli mínum frá því í október 2017:
