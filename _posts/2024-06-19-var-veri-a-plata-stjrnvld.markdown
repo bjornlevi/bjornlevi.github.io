@@ -5,7 +5,7 @@ author: Björn Leví Gunnarsson
 category: mbl
 tags: [tag1, tag2]
 img: ":post_pic10.jpg"
-date: 2024-07-09 11:45:36
+date: 2024-06-19 11:45:36
 ---
 
 Í Kastljósi í desember síðastliðnum lét umhverfisráðherra, Guðlaugur Þór Þórðarsson, eftirfarandi ummæli falla: „menn kannski átta sig ekki á að við Íslendingar erum núna komin með lausnir þegar kemur að kolefnisföngun. Bara hér á stað sem við öll þekkjum, Akranesi, þar er til dæmis stærsta varanlega kolefnisföngunarverkefni í heimi, Running Tide.“ 
