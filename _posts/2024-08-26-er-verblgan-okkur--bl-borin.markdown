@@ -1,4 +1,14 @@
-Aðeins um erfðaefni Framsóknar
+---
+lng_pair: id_0f5df3a017
+title: Er verðbólgan okkur í blóð borin?
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic3.jpg"
+date: 2024-08-26 10:03:29
+---
+
+_Aðeins um erfðaefni Framsóknar_
 
 Verðbólgan hefur verið umkvörtunarefni svo lengi sem ég man eftir mér, þannig að það var áhugavert að heyra tilgátu fjármálaráðherra um að það væri í DNA Íslendinga að sætta okkur við verðbólguna. Ef svo er þá er verðbólgan líklega íslenskari en allt íslenskt - meðfædd.
 
@@ -15,3 +25,4 @@ Verðtryggingin er annar vítahringur. Þegar allt er orðið verðtryggt þá �
 Ef við ætlum að ná að losna við verðbólguna þá verðum við að taka til í bæði gjaldeyrismálunum og losa okkur við verðtryggingu. Það mun taka hagkerfið tíma til þess að endurstilla sig en það mun margborga sig til lengri tíma. Það er ekki afsakanlegt að bíða lengur, við verðum að losna við verðtrygginguna. 
 
 Þetta er uppgjafartónn hjá fjármálaráðherra. Uppgjöf gagnvart áratugalangri stefnu eigin flokks. Það er því kominn tími til þess að skipta um stefnu og fá nýja flokka í ríkisstjórn. Flokka sem þora að gera breytingar. Píratar þora.
+
