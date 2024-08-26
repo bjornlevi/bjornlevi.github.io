@@ -2,7 +2,7 @@ import os
 import re
 import random
 from datetime import datetime
-import openai
+#import openai
 import hashlib
 
 def generate_lng_pair(title):
@@ -23,7 +23,7 @@ def get_boolean_input(prompt):
             return False
         else:
             print("Please enter a valid response (e.g., 'yes' or 'no').")
-
+"""
 def translate_text(api_key, text, target_languages):
     openai.api_key = api_key
 
@@ -46,6 +46,7 @@ def translate_text(api_key, text, target_languages):
             translations[language] = "Error in translation"
 
     return translations
+"""
 
 def sanitize_title(title):
     # Remove unsafe characters for filenames
