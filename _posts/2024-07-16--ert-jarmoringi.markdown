@@ -1,3 +1,13 @@
+---
+lng_pair: id_c1ffd5309b
+title: Þú ert þjóðarmorðingi
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic10.jpg"
+date: 2024-07-16 10:42:53
+---
+
 “Núna er að koma að því að taka þá ábyrgð og þið skuluð bera hana með ykkar lífi! Þú ert þjóðarmorðingi ásamt öllum öðrum þingfíflum. Þú valdir og núna eru skuldadagar að koma” - var sagt við mig fyrir stuttu síðan á opinberum vettvangi (FB hóp).
 
 Þetta er ekki fyrsta hótunin sem ég hef fengið og verður örugglega ekki síðasta hótunin heldur. Ég veit að margir aðrir þingmenn hafa einnig fengið hótanir. Ástandið er orðið þannig að forsætisráðherra þarf orðið lögreglufylgd hvert sem hann fer. 
@@ -17,3 +27,4 @@ Hvað gerist næst? Það er erfitt að spá fyrir um framtíðina þannig að k
 Hvort það verði hægt að ná einlægri umræðu um öll þau vandamál sem við höfum verið að glíma við er áskorunin - því staðan er einfaldlega sú að umræðan hefur verið vopnvædd og það verður mjög erfitt að fá suma pólitíkusa til þess að slíðra þau sverð því kjörfylgið hangir á sverðum þeirra. 
 
 En einhversstaðar getum við byrjað. Prófum að byrja með því að hætta að uppnefna fólk, ef ekki sem bullara og rugludalla - að minnsta kosti hættum að kalla fólk þjóðarmorðingja. Af því að munurinn á því að sletta skyri og skjóta með riffli skiptir máli.
+

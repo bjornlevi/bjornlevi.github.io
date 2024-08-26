@@ -1,0 +1,18 @@
+---
+lng_pair: id_1cde9be438
+title: ¡¿Un aumento del 78,5% en las ganancias?!
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic1.jpg"
+date: 2024-08-07 10:27:24
+---
+La semana pasada se informó que las ganancias de Festi aumentaron un 78,5% interanual. Las redes sociales reaccionaron rápidamente y se escandalizaron ante esta avaricia, mientras la gente lidia con altos intereses en los préstamos e inflación elevada. Es comprensible, ya que un aumento del 78,5% en las ganancias interanuales parece ser bastante considerable. Sin embargo, cuando se examina más de cerca, como una simple cifra porcentual no cuenta toda la historia, veamos esto con más detalle.
+
+"Las ganancias en los primeros seis meses del año ascendieron a casi 1,2 mil millones de ISK, aumentando en un 78,5% interanual, ya que fueron de 647 millones de ISK en el mismo período del año pasado", dice el informe de mbl.is. Eso es aproximadamente 550 millones de ISK adicionales en ganancias. Es una cantidad considerable en cualquier medida. Para comparar, es aproximadamente lo mismo que se destinó al Fondo de Desarrollo de Sitios Turísticos para todo el año pasado. Los consumidores del país están pagando esencialmente 550 millones de ISK más que en el mismo período del año pasado.
+
+Un aumento del 78,5%. 550 millones de ISK más. Avaricia, ¿verdad? Espera un momento—esta no es toda la historia. El informe también menciona que: "Las ventas de productos ascendieron a 36 mil millones de ISK, aumentando en un 5,4% interanual, ya que fueron de 34 mil millones de ISK el año anterior." Unas ganancias de 1,2 mil millones de ISK sobre ventas de 36 mil millones de ISK representan un margen de beneficio del 3,3%. La inflación es del 6,33%. Los alimentos y las bebidas han aumentado un 6,24%, y las categorías que más han subido son los productos cárnicos. La carne de res y cerdo ha subido un poco más del 8%, mientras que la carne de cordero ha subido un 18,35%. Las papas han subido más del 21%, los dulces más del 10% y el chocolate casi un 16%.
+
+La inflación es insidiosa, especialmente cuando ha sido alta durante mucho tiempo. Constantemente necesitamos actualizar nuestra conciencia de los precios en relación con nuestros ingresos disponibles. Si antes gastábamos el 25% de nuestros ingresos disponibles en vivienda y ahora estamos pagando 100.000 ISK más debido a la inflación o a los altos tipos de interés, eso en realidad no nos dice nada a menos que observemos el porcentaje de nuestros ingresos disponibles. Podríamos estar pagando más, pero con coronas devaluadas. Podríamos incluso estar pagando un porcentaje menor de nuestros ingresos disponibles hoy que hace 5 años en vivienda. La situación actual es que el crecimiento salarial anual es del 6%. Menor que la inflación, lo que significa que, en promedio, nuestros ingresos disponibles están disminuyendo.
+
+Teniendo en cuenta todo esto, ¿es un aumento del 78,5% en las ganancias—550 millones de ISK adicionales—avaricia? Considerando que esto es solo el 3,3% del total y que los principales culpables de la inflación se encuentran en otros lugares, es difícil afirmarlo con certeza. Pero un aumento del 78,5% se ve mal. Es fácil subirse al carro de la avaricia con cifras como estas. Sin duda hay aumentos, pero yo diría que están dentro del margen de incertidumbre como para acusar a la gente de avaricia. Las estadísticas a veces pueden ser engañosas en estos casos—lo cual no es útil para la discusión.
