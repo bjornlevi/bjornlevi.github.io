@@ -7,7 +7,7 @@ tags: [tag1, tag2]
 img: ":post_pic3.jpg"
 date: 2024-08-26 10:03:29
 ---
-Sobre el ADN del Partido Progresista
+_Sobre el ADN del Partido Progresista_
 
 La inflación ha sido motivo de quejas durante todo el tiempo que puedo recordar, por lo que fue interesante escuchar la hipótesis del ministro de Finanzas de que está en el ADN de los islandeses aceptar la inflación. Si es así, entonces la inflación probablemente sea más islandesa que cualquier otra cosa, algo innato.
 

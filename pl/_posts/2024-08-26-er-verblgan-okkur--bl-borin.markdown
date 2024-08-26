@@ -7,7 +7,7 @@ tags: [tag1, tag2]
 img: ":post_pic3.jpg"
 date: 2024-08-26 10:03:29
 ---
-Kilka słów o DNA Partii Postępowej
+_Kilka słów o DNA Partii Postępowej_
 
 Inflacja była powodem do narzekań odkąd sięgam pamięcią, więc interesujące było usłyszeć hipotezę ministra finansów, że akceptacja inflacji jest zakorzeniona w DNA Islandczyków. Jeśli tak jest, to inflacja jest prawdopodobnie bardziej islandzka niż cokolwiek innego—wrodzona.
 
