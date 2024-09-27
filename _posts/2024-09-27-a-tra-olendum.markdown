@@ -1,3 +1,13 @@
+---
+lng_pair: id_4dfc9bc2c5
+title: Að trúa þolendum
+author: Björn Leví Gunnarsson
+category: mbl
+tags: [tag1, tag2]
+img: ":post_pic8.jpg"
+date: 2024-09-27 10:02:40
+---
+
 Þegar við segjum að við eigum að trúa þolendum, þýðir það einfaldlega að við viðurkennum upplifun þeirra. Það þýðir ekki að við eigum að grípa til harkalegra aðgerða eða leita hefnda, heldur að veita þeim stuðning og skilning. Þetta er grunnurinn.
 
 En jafnvel þótt við trúum þolendum, þýðir það ekki að við þurfum að hafna sjónarhorni annarra, jafnvel hinna meintu gerenda. Fólk getur upplifað atburði á gjörólíkan hátt. Við erum öll mótuð af okkar eigin reynslu, tilfinningum og samhengi. Það sem einn upplifir sem brot, gæti hinn upplifað á allt annan hátt – án þess að annar þeirra sé endilega að ljúga. Þetta misræmi í upplifunum er hluti af því að vera manneskja. Lífið er sjaldan svart og hvítt. Við getum tekið einfalt dæmi: tveir einstaklingar gætu horft á sama hlutinn – einn sér töluna 6, en frá hinu sjónarhorninu lítur hún út eins og 9. Báðir eru að segja satt. Báðir eru að sjá það sem þeir sjá.
@@ -11,3 +21,4 @@ Staðreyndin er sú að við höfum enn ekki fundið út hvernig við eigum að 
 Áhrif gjallarhornsins eru samt líka jákvæð. Það var einmitt í gegnum þessi opnu samskipti sem þolendur innan Kaþólsku kirkjunnar í Bandaríkjunum gátu sameinast og flett ofan af áralangri misnotkun. Það var mikilvægt, og það sýnir hvernig aukið gagnsæi og opin umræða geta verið öflugt tæki til réttlætis.
 
 Við þurfum því að nálgast þessar umræður af varfærni og einlægni. Að trúa þolendum er mikilvægt fyrsta skref, en við verðum líka að vera meðvituð um afleiðingarnar af okkar viðbrögðum. Að trúa þolendum þýðir fyrst og fremst að sýna þeim virðingu og viðurkenningu, en það þýðir líka að nálgast öll sjónarhorn af varfærni og skynsemi.
+
